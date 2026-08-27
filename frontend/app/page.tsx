@@ -580,7 +580,7 @@ export default function LandingPage() {
           marginTop: '3rem',
         }}
       >
-        CricketIQ — Intelligent Cricket Player Recommendation System · Technical Assignment
+        CricketIQ — Intelligent Cricket Player Recommendation Engine & Sports Analytics Platform
       </footer>
     </div>
   );

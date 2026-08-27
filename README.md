@@ -389,5 +389,4 @@ cricket-recommender/
 
 ## 🧑‍💻 Author
 
-Built as a technical assignment — Cricket Player Recommendation System.  
-Showcasing: Problem-solving → Engineering → Product Thinking → Creativity
+CricketIQ — AI-Powered Cricket Player Recommendation Engine.
