@@ -4,10 +4,13 @@ import React from 'react';
 import { Player } from '../lib/types';
 
 interface Props {
-  selectedPlayer: Player | null;
+  selectedPlayer?: Player | null;
+  player?: Player | null;
+  format?: string;
 }
 
-export default function PerformanceTrendChart({ selectedPlayer }: Props) {
+export default function PerformanceTrendChart(props: Props) {
+  const selectedPlayer = props.selectedPlayer || props.player;
   if (!selectedPlayer) {
     return (
       <div className="bg-[#0b121e] border border-[#16293d] rounded-2xl p-5 shadow-xl flex items-center justify-center text-center text-gray-500 h-full">
