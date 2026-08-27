@@ -2,10 +2,7 @@
 
 > An intelligent recommendation engine that helps you find the perfect cricket player for any match condition, format, or playing role.
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5-F7931E?style=flat-square&logo=scikit-learn)](https://scikit-learn.org)
+🌐 **Live Application:** [https://cricketiq-analytics.vercel.app](https://cricketiq-analytics.vercel.app)
 
 ---
 
