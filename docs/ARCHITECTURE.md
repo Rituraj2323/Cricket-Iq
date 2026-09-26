@@ -34,6 +34,8 @@ Cricket analysts, team management, and fantasy platforms face three critical bot
 ### 1.2 The CricketIQ Solution
 **CricketIQ** is an end-to-end tactical recommendation and analytics platform that bridges raw data and strategic team selection. Built on a dataset of 104+ international players across T20I, ODI, and Test formats, it delivers:
 - **CRIC-SELECT Multi-Criteria Engine:** Configurable 5-dimensional weighted ranking.
+- **EA FC 24 Ultimate Team Ratings:** Authentic 6-stat hexagon attributes (BAT, PWR, BWL, CLU, FLD, PHY) + Card Tiers (World Cup Icons, FUT Heroes, In-Form TOTW, Gold Rare).
+- **ICC World Cup 50-Year Trophy Archive (1975–2025):** Historical finals, runner-ups, and tournament MVPs.
 - **Match-Up AI Engine:** Venue- and opponent-aware tactical selection.
 - **Direct Head-to-Head Comparator:** Isolated entity evaluation (e.g., *"Starc vs. Bumrah on a flat track"*).
 - **Interactive Visualizations:** 2D pitch views, quadrant scatter matrices, and match-by-match trend curves.

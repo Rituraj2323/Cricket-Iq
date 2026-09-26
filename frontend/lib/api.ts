@@ -85,3 +85,28 @@ export async function getTopByRole(role: string, format: string, topN = 8): Prom
     return [];
   }
 }
+
+export async function getTournaments(tournamentType?: string): Promise<any[]> {
+  try {
+    const url = new URL(`${BASE_URL}/players/tournaments`);
+    if (tournamentType) url.searchParams.append('tournament_type', tournamentType);
+    const res = await fetch(url.toString(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('Failed to fetch tournaments');
+    return res.json();
+  } catch (error) {
+    console.error('getTournaments error:', error);
+    return [];
+  }
+}
+
+export async function getHallOfFame(): Promise<any> {
+  try {
+    const res = await fetch(`${BASE_URL}/players/hall-of-fame`, { cache: 'no-store' });
+    if (!res.ok) throw new Error('Failed to fetch hall of fame');
+    return res.json();
+  } catch (error) {
+    console.error('getHallOfFame error:', error);
+    return { total_tournaments: 0, icons_count: 0, top_icons: [], tournaments: [] };
+  }
+}
+

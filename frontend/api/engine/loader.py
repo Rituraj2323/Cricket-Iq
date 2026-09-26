@@ -145,3 +145,18 @@ def get_player_by_id(player_id: str) -> Optional[Dict]:
         if p['id'] == player_id:
             return p
     return None
+
+_TOURNAMENTS_CACHE: Optional[List[Dict]] = None
+
+def load_tournaments() -> List[Dict]:
+    global _TOURNAMENTS_CACHE
+    if _TOURNAMENTS_CACHE is not None:
+        return _TOURNAMENTS_CACHE
+    
+    filepath = os.path.join(os.path.dirname(__file__), '..', 'data', 'tournaments.json')
+    if not os.path.exists(filepath):
+        return []
+    with open(filepath, 'r') as f:
+        data = json.load(f)
+    _TOURNAMENTS_CACHE = data
+    return data

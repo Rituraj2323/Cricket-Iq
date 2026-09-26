@@ -66,7 +66,18 @@
       "run_machine",
       "world_class",
       "chase_master"
-    ]
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 73,
+      "BWL": 29,
+      "CLU": 98,
+      "FLD": 84,
+      "PHY": 96
+    }
   },
   {
     "id": "rohit_sharma",
@@ -135,7 +146,18 @@
       "six_hitter",
       "world_class",
       "captain"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 69,
+      "BWL": 33,
+      "CLU": 98,
+      "FLD": 83,
+      "PHY": 95
+    }
   },
   {
     "id": "ms_dhoni",
@@ -206,7 +228,18 @@
       "captain",
       "legend",
       "calm_under_pressure"
-    ]
+    ],
+    "ovr": 95,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 98,
+      "PWR": 80,
+      "BWL": 25,
+      "CLU": 98,
+      "FLD": 95,
+      "PHY": 93
+    }
   },
   {
     "id": "jasprit_bumrah",
@@ -279,7 +312,18 @@
       "death_specialist",
       "world_class",
       "powerplay_threat"
-    ]
+    ],
+    "ovr": 96,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 98,
+      "CLU": 98,
+      "FLD": 85,
+      "PHY": 96
+    }
   },
   {
     "id": "hardik_pandya",
@@ -348,7 +392,18 @@
       "power_hitter",
       "finisher",
       "swing_bowler"
-    ]
+    ],
+    "ovr": 80,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 72,
+      "PWR": 86,
+      "BWL": 66,
+      "CLU": 88,
+      "FLD": 95,
+      "PHY": 93
+    }
   },
   {
     "id": "ravindra_jadeja",
@@ -420,7 +475,18 @@
       "spinner",
       "fielder",
       "subcontinent_specialist"
-    ]
+    ],
+    "ovr": 83,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 70,
+      "BWL": 74,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "suryakumar_yadav",
@@ -480,7 +546,18 @@
       "360_player",
       "power_hitter",
       "world_no1_t20"
-    ]
+    ],
+    "ovr": 97,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 96
+    }
   },
   {
     "id": "kl_rahul",
@@ -547,7 +624,18 @@
       "anchor",
       "wicketkeeper",
       "stylish_batsman"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 70,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 95,
+      "PHY": 92
+    }
   },
   {
     "id": "shubman_gill",
@@ -616,7 +704,18 @@
       "opener",
       "future_star",
       "elegant_batsman"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 79,
+      "BWL": 27,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "yashasvi_jaiswal",
@@ -685,7 +784,18 @@
       "opener",
       "left_hander",
       "aggressive"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 86,
+      "PWR": 83,
+      "BWL": 26,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "mohammed_shami",
@@ -756,7 +866,18 @@
       "swing_master",
       "death_bowler",
       "wicket_taker"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 82,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "ravichandran_ashwin",
@@ -826,7 +947,18 @@
       "subcontinent_specialist",
       "wicket_taker",
       "crafty_spinner"
-    ]
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 70,
+      "BWL": 75,
+      "CLU": 88,
+      "FLD": 95,
+      "PHY": 93
+    }
   },
   {
     "id": "rishabh_pant",
@@ -894,7 +1026,18 @@
       "left_hander",
       "aggressive",
       "unpredictable"
-    ]
+    ],
+    "ovr": 85,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 76,
+      "PWR": 79,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 93
+    }
   },
   {
     "id": "pat_cummins",
@@ -967,7 +1110,18 @@
       "fast_bowler",
       "captain",
       "death_specialist"
-    ]
+    ],
+    "ovr": 81,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 67,
+      "PWR": 70,
+      "BWL": 68,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "david_warner",
@@ -1037,7 +1191,18 @@
       "left_hander",
       "aggressive",
       "world_class"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 94,
+      "PWR": 73,
+      "BWL": 27,
+      "CLU": 97,
+      "FLD": 95,
+      "PHY": 93
+    }
   },
   {
     "id": "steve_smith",
@@ -1106,7 +1271,18 @@
       "anchor",
       "consistent",
       "world_class"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 62,
+      "BWL": 54,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "mitchell_starc",
@@ -1179,7 +1355,18 @@
       "swing_king",
       "powerplay_threat",
       "death_specialist"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 84,
+      "CLU": 98,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "babar_azam",
@@ -1249,7 +1436,18 @@
       "anchor",
       "consistent",
       "stroke_maker"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 65,
+      "BWL": 29,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "shaheen_afridi",
@@ -1320,7 +1518,18 @@
       "left_arm_pace",
       "new_ball_threat",
       "swing_king"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 88,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "joe_root",
@@ -1391,7 +1600,18 @@
       "consistent",
       "anchor",
       "world_class"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 62,
+      "BWL": 55,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "ben_stokes",
@@ -1462,7 +1682,18 @@
       "match_winner",
       "left_hander",
       "world_class"
-    ]
+    ],
+    "ovr": 85,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 85,
+      "PWR": 79,
+      "BWL": 67,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "jofra_archer",
@@ -1532,7 +1763,18 @@
       "pace_sensation",
       "death_specialist",
       "yorker_king"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 31,
+      "PWR": 70,
+      "BWL": 88,
+      "CLU": 88,
+      "FLD": 81,
+      "PHY": 91
+    }
   },
   {
     "id": "kane_williamson",
@@ -1602,7 +1844,18 @@
       "consistent",
       "captain",
       "world_class"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 61,
+      "BWL": 55,
+      "CLU": 88,
+      "FLD": 82,
+      "PHY": 93
+    }
   },
   {
     "id": "trent_boult",
@@ -1672,7 +1925,18 @@
       "left_arm_pace",
       "swing_king",
       "powerplay_specialist"
-    ]
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 70,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 82,
+      "PHY": 93
+    }
   },
   {
     "id": "quinton_de_kock",
@@ -1740,7 +2004,18 @@
       "opener",
       "left_hander",
       "aggressive"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 94,
+      "PWR": 74,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "kagiso_rabada",
@@ -1811,7 +2086,18 @@
       "pace_sensation",
       "death_specialist",
       "world_class"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "rashid_khan",
@@ -1883,7 +2169,18 @@
       "economy_king",
       "t20_specialist",
       "world_class"
-    ]
+    ],
+    "ovr": 83,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 76,
+      "BWL": 78,
+      "CLU": 89,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "nicholas_pooran",
@@ -1943,7 +2240,18 @@
       "power_hitter",
       "left_hander",
       "t20_specialist"
-    ]
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 95,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 93
+    }
   },
   {
     "id": "shreyas_iyer",
@@ -2011,7 +2319,18 @@
       "middle_order",
       "consistent",
       "stroke_maker"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 74,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 82,
+      "PHY": 92
+    }
   },
   {
     "id": "axar_patel",
@@ -2081,7 +2400,18 @@
       "left_arm_spin",
       "subcontinent_specialist",
       "useful_bat"
-    ]
+    ],
+    "ovr": 79,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 68,
+      "PWR": 72,
+      "BWL": 74,
+      "CLU": 87,
+      "FLD": 95,
+      "PHY": 93
+    }
   },
   {
     "id": "yuzvendra_chahal",
@@ -2142,7 +2472,18 @@
       "leg_spin",
       "wicket_taker",
       "googly_bowler"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 88,
+      "CLU": 87,
+      "FLD": 82,
+      "PHY": 92
+    }
   },
   {
     "id": "deepak_chahar",
@@ -2202,7 +2543,18 @@
       "powerplay_specialist",
       "swing_bowler",
       "useful_bat"
-    ]
+    ],
+    "ovr": 79,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 76,
+      "PWR": 72,
+      "BWL": 76,
+      "CLU": 86,
+      "FLD": 94,
+      "PHY": 91
+    }
   },
   {
     "id": "sam_curran",
@@ -2273,7 +2625,18 @@
       "left_arm_medium",
       "useful_bat",
       "flexible"
-    ]
+    ],
+    "ovr": 76,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 70,
+      "BWL": 69,
+      "CLU": 86,
+      "FLD": 95,
+      "PHY": 92
+    }
   },
   {
     "id": "lockie_ferguson",
@@ -2333,7 +2696,18 @@
       "express_pace",
       "bouncer_specialist",
       "death_bowler"
-    ]
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 70,
+      "BWL": 84,
+      "CLU": 86,
+      "FLD": 82,
+      "PHY": 92
+    }
   },
   {
     "id": "wanindu_hasaranga",
@@ -2404,7 +2778,18 @@
       "t20_specialist",
       "wicket_taker",
       "economy_spinner"
-    ]
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 70,
+      "BWL": 77,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "marcus_stoinis",
@@ -2462,7 +2847,18 @@
       "allrounder",
       "power_hitter",
       "flexible"
-    ]
+    ],
+    "ovr": 78,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 73,
+      "PWR": 82,
+      "BWL": 68,
+      "CLU": 86,
+      "FLD": 95,
+      "PHY": 92
+    }
   },
   {
     "id": "kieron_pollard",
@@ -2521,7 +2917,18 @@
       "power_hitter",
       "finisher",
       "t20_legend"
-    ]
+    ],
+    "ovr": 80,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 73,
+      "PWR": 91,
+      "BWL": 66,
+      "CLU": 87,
+      "FLD": 94,
+      "PHY": 90
+    }
   },
   {
     "id": "faf_du_plessis",
@@ -2589,7 +2996,18 @@
       "consistent",
       "ipl_captain",
       "experienced"
-    ]
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 68,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 82,
+      "PHY": 92
+    }
   },
   {
     "id": "glenn_maxwell",
@@ -2659,7 +3077,18 @@
       "360_player",
       "power_hitter",
       "match_winner"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 94,
+      "BWL": 71,
+      "CLU": 97,
+      "FLD": 95,
+      "PHY": 93
+    }
   },
   {
     "id": "andre_russell",
@@ -2720,7 +3149,18 @@
       "death_specialist",
       "t20_legend",
       "ipl_destroyer"
-    ]
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 73,
+      "PWR": 99,
+      "BWL": 65,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "mohammed_siraj",
@@ -2789,7 +3229,18 @@
       "powerplay_bowler",
       "seamer",
       "swing_bowler"
-    ]
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 78,
+      "CLU": 86,
+      "FLD": 82,
+      "PHY": 92
+    }
   },
   {
     "id": "sanju_samson",
@@ -2847,7 +3298,18 @@
       "wicketkeeper",
       "power_hitter",
       "t20_specialist"
-    ]
+    ],
+    "ovr": 85,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 83,
+      "BWL": 25,
+      "CLU": 86,
+      "FLD": 95,
+      "PHY": 92
+    }
   },
   {
     "id": "mark_wood",
@@ -2916,7 +3378,18 @@
       "express_pace",
       "bouncer_specialist",
       "wicket_taker"
-    ]
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 79,
+      "CLU": 86,
+      "FLD": 82,
+      "PHY": 92
+    }
   },
   {
     "id": "shakib_al_hasan",
@@ -2988,7 +3461,18 @@
       "left_arm_spin",
       "legend",
       "subcontinent_specialist"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 88,
+      "PWR": 70,
+      "BWL": 75,
+      "CLU": 88,
+      "FLD": 94,
+      "PHY": 91
+    }
   },
   {
     "id": "travis_head",
@@ -3060,7 +3544,18 @@
       "explosive",
       "match_winner",
       "powerplay_beast"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 82,
+      "BWL": 43,
+      "CLU": 97,
+      "FLD": 85,
+      "PHY": 96
+    }
   },
   {
     "id": "heinrich_klaasen",
@@ -3130,7 +3625,18 @@
       "spin_smasher",
       "finisher",
       "six_machine"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 89,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 96
+    }
   },
   {
     "id": "jos_buttler",
@@ -3202,7 +3708,18 @@
       "360_player",
       "world_cup_winner",
       "elite_keeper"
-    ]
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 91,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "rinku_singh",
@@ -3272,7 +3789,18 @@
       "six_hitter",
       "clutch",
       "death_overs"
-    ]
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 98,
+      "PWR": 99,
+      "BWL": 26,
+      "CLU": 87,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "arshdeep_singh",
@@ -3344,7 +3872,18 @@
       "left_arm_pacer",
       "world_cup_winner",
       "swing"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 30,
+      "PWR": 50,
+      "BWL": 84,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "kuldeep_yadav",
@@ -3415,7 +3954,18 @@
       "chinaman",
       "wicket_machine",
       "spin_wizard"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 31,
+      "PWR": 50,
+      "BWL": 93,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 96
+    }
   },
   {
     "id": "ab_de_villiers",
@@ -3488,7 +4038,18 @@
       "legend",
       "fastest_century",
       "superstar"
-    ]
+    ],
+    "ovr": 98,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 99,
+      "BWL": 32,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "sachin_tendulkar",
@@ -3562,7 +4123,18 @@
       "legend",
       "master_blaster",
       "century_of_centuries"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 94,
+      "PWR": 70,
+      "BWL": 55,
+      "CLU": 90,
+      "FLD": 84,
+      "PHY": 96
+    }
   },
   {
     "id": "chris_gayle",
@@ -3634,7 +4206,18 @@
       "t20_king",
       "legend",
       "six_machine"
-    ]
+    ],
+    "ovr": 93,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 89,
+      "PWR": 99,
+      "BWL": 55,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 95
+    }
   },
   {
     "id": "lasith_malinga",
@@ -3706,7 +4289,18 @@
       "yorker_king",
       "legend",
       "t20_great"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 92,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "josh_hazlewood",
@@ -3777,7 +4371,18 @@
       "metronome",
       "powerplay_controller",
       "world_cup_winner"
-    ]
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "adam_zampa",
@@ -3847,7 +4452,18 @@
       "wicket_taker",
       "t20_champion",
       "middle_overs"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 93,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "mitchell_marsh",
@@ -3918,7 +4534,18 @@
       "captain",
       "power_hitter",
       "t20_world_cup_hero"
-    ]
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 88,
+      "BWL": 69,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "phil_salt",
@@ -3989,7 +4616,18 @@
       "explosive",
       "centurion",
       "aggressive"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 94,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 95
+    }
   },
   {
     "id": "harry_brook",
@@ -4060,7 +4698,18 @@
       "bazball",
       "power_hitter",
       "prodigy"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 97,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "adil_rashid",
@@ -4133,7 +4782,18 @@
       "googly_master",
       "t20_number_one",
       "world_cup_winner"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 28,
+      "PWR": 65,
+      "BWL": 94,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "mohammad_rizwan",
@@ -4205,7 +4865,18 @@
       "consistent",
       "superman_keeper",
       "reliable"
-    ]
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 79,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "haris_rauf",
@@ -4275,7 +4946,18 @@
       "150kmph",
       "death_overs",
       "wicket_hunter"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 50,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "naseem_shah",
@@ -4346,7 +5028,18 @@
       "swing",
       "powerplay_master",
       "young_gun"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 30,
+      "PWR": 53,
+      "BWL": 84,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "david_miller",
@@ -4417,7 +5110,18 @@
       "finisher",
       "clutch",
       "chase_master"
-    ]
+    ],
+    "ovr": 93,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 92,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "anrich_nortje",
@@ -4488,7 +5192,18 @@
       "speed_demon",
       "yorker",
       "bouncer"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 50,
+      "BWL": 88,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "devon_conway",
@@ -4560,7 +5275,18 @@
       "consistent",
       "spin_master",
       "anchor"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 92,
+      "PWR": 73,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "daryl_mitchell",
@@ -4632,7 +5358,18 @@
       "spin_basher",
       "clutch",
       "world_cup_star"
-    ]
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 92,
+      "BWL": 67,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 95
+    }
   },
   {
     "id": "rachin_ravindra",
@@ -4704,7 +5441,18 @@
       "world_cup_breakout",
       "allrounder",
       "stylish"
-    ]
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 85,
+      "PWR": 79,
+      "BWL": 74,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "glenn_phillips",
@@ -4777,7 +5525,18 @@
       "power_hitter",
       "spin_bowler",
       "electric"
-    ]
+    ],
+    "ovr": 85,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 98,
+      "BWL": 72,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "sunil_narine",
@@ -4850,7 +5609,18 @@
       "ipl_mvp",
       "pinch_hitter",
       "economy_king"
-    ]
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 82,
+      "BWL": 79,
+      "CLU": 89,
+      "FLD": 97,
+      "PHY": 96
+    }
   },
   {
     "id": "matheesha_pathirana",
@@ -4920,7 +5690,18 @@
       "death_overs",
       "yorkers",
       "ipl_star"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 81,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "shivam_dube",
@@ -4990,7 +5771,18 @@
       "six_machine",
       "world_cup_winner",
       "monster_hits"
-    ]
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 80,
+      "PWR": 91,
+      "BWL": 65,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "ruturaj_gaikwad",
@@ -5061,7 +5853,18 @@
       "csk_captain",
       "orange_cap",
       "classical"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 85,
+      "PWR": 97,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "abhishek_sharma",
@@ -5131,7 +5934,18 @@
       "six_hitter",
       "young_gun",
       "ipl_breakout"
-    ]
+    ],
+    "ovr": 80,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 71,
+      "PWR": 89,
+      "BWL": 70,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "varun_chakaravarthy",
@@ -5200,7 +6014,18 @@
       "carrom_ball",
       "ipl_champion",
       "wickets"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 90,
+      "CLU": 88,
+      "FLD": 85,
+      "PHY": 96
+    }
   },
   {
     "id": "tristan_stubbs",
@@ -5272,7 +6097,18 @@
       "360_degree",
       "super_talent",
       "death_overs"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 99,
+      "BWL": 26,
+      "CLU": 87,
+      "FLD": 97,
+      "PHY": 95
+    }
   },
   {
     "id": "fakhar_zaman",
@@ -5344,7 +6180,18 @@
       "double_hundred",
       "explosive",
       "clutch"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 95,
+      "PWR": 91,
+      "BWL": 26,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "bhuvneshwar_kumar",
@@ -5416,7 +6263,18 @@
       "purple_cap",
       "powerplay_master",
       "economy"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 30,
+      "PWR": 50,
+      "BWL": 93,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 94
+    }
   },
   {
     "id": "suresh_raina",
@@ -5488,7 +6346,18 @@
       "csk_legend",
       "world_cup_winner",
       "electric_fielder"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 87,
+      "PWR": 94,
+      "BWL": 55,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "yuvraj_singh",
@@ -5562,7 +6431,18 @@
       "player_of_tournament",
       "world_cup_hero",
       "legend"
-    ]
+    ],
+    "ovr": 90,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 88,
+      "PWR": 99,
+      "BWL": 74,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "virender_sehwag",
@@ -5633,7 +6513,18 @@
       "triple_century",
       "boundary_first_ball",
       "legend"
-    ]
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 87,
+      "PWR": 76,
+      "BWL": 55,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 95
+    }
   },
   {
     "id": "rahmanullah_gurbaz",
@@ -5704,7 +6595,18 @@
       "world_cup_top_scorer",
       "six_hitter",
       "afghan_star"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 85,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 95
+    }
   },
   {
     "id": "fazalhaq_farooqi",
@@ -5775,7 +6677,18 @@
       "powerplay_wickets",
       "t20_wc_highest_wickets",
       "left_arm"
-    ]
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 91,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "mustafizur_rahman",
@@ -5847,7 +6760,18 @@
       "cutters",
       "death_overs",
       "left_arm_expert"
-    ]
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 94,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "shai_hope",
@@ -5920,7 +6844,18 @@
       "odi_machine",
       "captain",
       "classic"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 98,
+      "PWR": 70,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "sikandar_raza",
@@ -5993,7 +6928,18 @@
       "zimbabwe_king",
       "franchise_star",
       "clutch"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 88,
+      "PWR": 91,
+      "BWL": 74,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "saurabh_netravalkar",
@@ -6063,7 +7009,18 @@
       "techie_cricketer",
       "swing",
       "world_cup_star"
-    ]
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 50,
+      "BWL": 88,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "dwayne_bravo",
@@ -6136,7 +7093,18 @@
       "slower_ball_king",
       "csk_legend",
       "death_overs"
-    ]
+    ],
+    "ovr": 83,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 72,
+      "PWR": 97,
+      "BWL": 69,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "dale_steyn",
@@ -6207,7 +7175,18 @@
       "legend",
       "fastest_bowler",
       "outswing_master"
-    ]
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 92,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "shikhar_dhawan",
@@ -6279,7 +7258,18 @@
       "icc_events_king",
       "opener",
       "mister_reliable"
-    ]
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 79,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
   },
   {
     "id": "ishan_kishan",
@@ -6351,7 +7341,18 @@
       "double_hundred",
       "opener",
       "wicketkeeper"
-    ]
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 88,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "rovman_powell",
@@ -6422,7 +7423,18 @@
       "power_hitter",
       "six_monster",
       "finisher"
-    ]
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 76,
+      "PWR": 99,
+      "BWL": 66,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 94
+    }
   },
   {
     "id": "maheesh_theekshana",
@@ -6494,7 +7506,18 @@
       "powerplay_spin",
       "csk_mystery",
       "economy"
-    ]
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 91,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "mitchell_santner",
@@ -6568,7 +7591,18 @@
       "spin_master",
       "economical",
       "allrounder"
-    ]
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 69,
+      "PWR": 76,
+      "BWL": 74,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 96
+    }
   },
   {
     "id": "pathum_nissanka",
@@ -6639,7 +7673,18 @@
       "opener",
       "lankan_star",
       "consistent"
-    ]
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 76,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "tim_david",
@@ -6709,7 +7754,18 @@
       "monster_striker",
       "death_overs",
       "powerhouse"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 78,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 94
+    }
   },
   {
     "id": "cameron_green",
@@ -6780,7 +7836,18 @@
       "power_striker",
       "prodigy",
       "aussie_gem"
-    ]
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 78,
+      "PWR": 86,
+      "BWL": 65,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "liam_livingstone",
@@ -6853,7 +7920,18 @@
       "dual_spin",
       "power_hitter",
       "finisher"
-    ]
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 99,
+      "BWL": 69,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "marco_jansen",
@@ -6925,7 +8003,18 @@
       "bounce",
       "world_cup_finalist",
       "allrounder"
-    ]
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 74,
+      "PWR": 91,
+      "BWL": 67,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "tilak_varma",
@@ -6996,7 +8085,18 @@
       "future_superstar",
       "left_hand_bat",
       "stylish"
-    ]
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 94,
+      "BWL": 26,
+      "CLU": 88,
+      "FLD": 85,
+      "PHY": 96
+    }
   },
   {
     "id": "mayank_yadav",
@@ -7066,7 +8166,18 @@
       "fastest_indian",
       "express_speed",
       "pace_sensation"
-    ]
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 85,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "azmatullah_omarzai",
@@ -7138,7 +8249,18 @@
       "pace_allrounder",
       "afghan_gem",
       "swing"
-    ]
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 83,
+      "PWR": 88,
+      "BWL": 70,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
   },
   {
     "id": "jake_fraser_mcgurk",
@@ -7209,7 +8331,18 @@
       "powerplay_monster",
       "ipl_phenom",
       "strike_rate_god"
-    ]
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 68,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
   },
   {
     "id": "mohammad_amir",
@@ -7281,6 +8414,17 @@
       "swing_king",
       "left_arm_pace",
       "big_match"
-    ]
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 91,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
   }
 ]

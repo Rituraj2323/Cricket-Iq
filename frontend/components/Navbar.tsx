@@ -7,6 +7,7 @@ import { useEffect, useState } from 'react';
 
 const NAV_LINKS = [
   { href: '/dashboard', label: '📊 Dashboard' },
+  { href: '/hall-of-fame', label: '🏆 EA FC & World Cup' },
   { href: '/cric-select', label: '🎯 CRIC-SELECT' },
   { href: '/matchup', label: '🤖 Match-Up AI Chat' },
   { href: '/similar-players', label: '🔍 Similar' },

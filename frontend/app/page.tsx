@@ -86,6 +86,33 @@ const INTERACTIVE_SCENARIOS = [
       { name: 'Joe Root', flag: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', score: '88%', reason: 'Consistent accumulator with 85%+ contact rate' },
     ],
   },
+  {
+    id: 'wc-eafc-icon',
+    title: '👑 EA FC World Cup Icon & Hall of Fame',
+    subtitle: 'Scenario: 94+ OVR Tournament Winning Icons from 1975–2025 World Cup Archive',
+    query: { format: 'ICC World Cup', role: 'Tournament Icon', position: 'World Cup Legend', priority: 'Clutch & Knockout MVPs' },
+    topPick: {
+      name: 'MS Dhoni',
+      country: 'India',
+      flag: '🇮🇳',
+      role: 'World Cup Icon (95 OVR)',
+      score: '99%',
+      sr: '87.6',
+      avg: '50.6',
+      eco: '—',
+      form: '98/100',
+      why: [
+        '2011 ODI World Cup Final Match-Winner (91* off 79) & 2007 T20 World Cup Winning Captain',
+        'EA FC Clutch Rating 98/99 with unmatched death-overs chase execution',
+        'Pioneer of white-ball cricket leadership with ICC Triple-Crown victories',
+      ],
+    },
+    runnersUp: [
+      { name: 'Virat Kohli', flag: '🇮🇳', score: '98%', reason: '2023 ODI Player of the Tournament (765 runs) & 94 OVR Icon' },
+      { name: 'Jasprit Bumrah', flag: '🇮🇳', score: '96%', reason: '2024 T20 World Cup MVP with 4.17 tournament economy & 96 OVR' },
+      { name: 'Mitchell Starc', flag: '🇦🇺', score: '95%', reason: '2015 ODI World Cup MVP with 22 tournament wickets & lethal yorkers' },
+    ],
+  },
 ];
 
 export default function LandingPage() {

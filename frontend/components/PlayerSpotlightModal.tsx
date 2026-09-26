@@ -83,10 +83,17 @@ export default function PlayerSpotlightModal({ player, onClose, format = 't20i' 
 
           {/* Details */}
           <div className="flex-1 text-center sm:text-left min-w-0">
-            {/* Role Header Badge */}
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-[#135760] text-emerald-300 border border-[#1d828f]/40 mb-2">
-              <span>{roleIcon}</span>
-              <span>{player.specialties?.[0]?.replace(/_/g, ' ') || player.role}</span>
+            {/* Role Header Badge + EA FC OVR Badge */}
+            <div className="flex flex-wrap items-center justify-center sm:justify-start gap-2 mb-2">
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-[#135760] text-emerald-300 border border-[#1d828f]/40">
+                <span>{roleIcon}</span>
+                <span>{player.specialties?.[0]?.replace(/_/g, ' ') || player.role}</span>
+              </div>
+              <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-black uppercase tracking-wider bg-gradient-to-r from-amber-400 to-yellow-500 text-black shadow-md">
+                <span>⭐ {player.ovr || 88} OVR</span>
+                <span>•</span>
+                <span>{player.card_tier || 'GOLD_RARE'}</span>
+              </div>
             </div>
 
             <h2 className="text-3xl font-black tracking-tight text-white mb-1 truncate">
@@ -102,6 +109,36 @@ export default function PlayerSpotlightModal({ player, onClose, format = 't20i' 
             </p>
           </div>
         </div>
+
+        {/* ── EA FC 6-STAT HEXAGON ATTRIBUTES BAR ── */}
+        {player.ea_stats && (
+          <div className="mx-4 sm:mx-6 mb-3 bg-black/40 border border-amber-500/20 rounded-2xl p-3 grid grid-cols-6 gap-2 text-center text-xs backdrop-blur-md">
+            <div>
+              <div className="text-gray-400 text-[10px] font-bold">BAT</div>
+              <div className="text-sm sm:text-base font-black text-amber-400">{player.ea_stats.BAT}</div>
+            </div>
+            <div className="border-l border-white/10">
+              <div className="text-gray-400 text-[10px] font-bold">PWR</div>
+              <div className="text-sm sm:text-base font-black text-amber-400">{player.ea_stats.PWR}</div>
+            </div>
+            <div className="border-l border-white/10">
+              <div className="text-gray-400 text-[10px] font-bold">BWL</div>
+              <div className="text-sm sm:text-base font-black text-emerald-400">{player.ea_stats.BWL}</div>
+            </div>
+            <div className="border-l border-white/10">
+              <div className="text-gray-400 text-[10px] font-bold">CLU</div>
+              <div className="text-sm sm:text-base font-black text-amber-400">{player.ea_stats.CLU}</div>
+            </div>
+            <div className="border-l border-white/10">
+              <div className="text-gray-400 text-[10px] font-bold">FLD</div>
+              <div className="text-sm sm:text-base font-black text-cyan-400">{player.ea_stats.FLD}</div>
+            </div>
+            <div className="border-l border-white/10">
+              <div className="text-gray-400 text-[10px] font-bold">PHY</div>
+              <div className="text-sm sm:text-base font-black text-green-400">{player.ea_stats.PHY}</div>
+            </div>
+          </div>
+        )}
 
         {/* ── YELLOW STATS RIBBON ── */}
         <div

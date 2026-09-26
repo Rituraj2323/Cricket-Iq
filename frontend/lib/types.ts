@@ -66,6 +66,37 @@ export interface Player {
   recent_form: number;
   tags: string[];
   match_logs?: MatchPerformance[];
+  ovr?: number;
+  card_tier?: 'ICON' | 'HERO' | 'TOTW' | 'GOLD_RARE' | string;
+  tier_color?: string;
+  ea_stats?: {
+    BAT: number;
+    PWR: number;
+    BWL: number;
+    CLU: number;
+    FLD: number;
+    PHY: number;
+  };
+}
+
+export interface TournamentRecord {
+  Tournament: string;
+  Year: number;
+  Venue: string;
+  Winner: string;
+  Runner_up?: string;
+  'Runner-up'?: string;
+  Semi_Finalists?: string;
+  'Semi-Finalists'?: string;
+  Match_Winner_Final: string | null;
+  Player_of_Tournament: string | null;
+}
+
+export interface HallOfFameResponse {
+  total_tournaments: number;
+  icons_count: number;
+  top_icons: Player[];
+  tournaments: TournamentRecord[];
 }
 
 export interface SimilarPlayer {
