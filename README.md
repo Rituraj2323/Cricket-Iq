@@ -50,8 +50,9 @@ Existing tools like ESPN Cricinfo provide raw statistics but lack intelligent re
                          │
 ┌────────────────────────▼────────────────────────────────────┐
 │                    DATA LAYER                                │
-│  players.json — Curated stats of 45+ international players  │
-│  In-memory pandas DataFrame (loaded at startup)             │
+│  players.json — Curated stats of 104+ international players │
+│  tournaments.json — 31 ICC World Cup Tournaments (1975-2025)│
+│  In-memory pandas DataFrame + Zero-Failure Client Fallback  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
