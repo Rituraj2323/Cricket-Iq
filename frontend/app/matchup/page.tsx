@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import { isLoggedIn } from '../../lib/auth';
 import Navbar from '../../components/Navbar';
 import { getCountryFlag } from '../../lib/playerPhotos';
+import { getClientMatchupChatResponse } from '../../lib/clientEngine';
 
 const BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
@@ -71,6 +72,7 @@ export default function MatchupChatbotPage() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: text }),
       });
+      if (!res.ok) throw new Error('Failed to fetch from API');
       const data = await res.json();
 
       const botMsg: ChatMessage = {
@@ -81,14 +83,15 @@ export default function MatchupChatbotPage() {
       };
       setMessages((prev) => [...prev, botMsg]);
     } catch (e) {
-      console.error('Chat error:', e);
-      const errMsg: ChatMessage = {
+      console.warn('Backend unavailable, resolving using client matchup engine:', e);
+      const fallbackData = getClientMatchupChatResponse(text);
+      const botMsg: ChatMessage = {
         id: (Date.now() + 1).toString(),
         sender: 'bot',
-        text: '❌ Could not connect to match-up engine. Please verify the backend server is running.',
+        data: fallbackData,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
       };
-      setMessages((prev) => [...prev, errMsg]);
+      setMessages((prev) => [...prev, botMsg]);
     }
     setLoading(false);
   };

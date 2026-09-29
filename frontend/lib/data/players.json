@@ -1,0 +1,8430 @@
+[
+  {
+    "id": "virat_kohli",
+    "name": "Virat Kohli",
+    "country": "India",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "image_url": "https://i.ibb.co/placeholder/kohli.png",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 125,
+      "runs": 4188,
+      "avg": 52.7,
+      "sr": 138.0,
+      "fifties": 40,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 295,
+      "runs": 13906,
+      "avg": 58.07,
+      "sr": 93.25,
+      "fifties": 72,
+      "hundreds": 50
+    },
+    "test": {
+      "matches": 113,
+      "runs": 8848,
+      "avg": 48.89,
+      "sr": 56.17,
+      "fifties": 31,
+      "hundreds": 29
+    },
+    "bowling": {
+      "t20i_economy": 8.3,
+      "odi_economy": 5.97,
+      "wickets_odi": 4,
+      "wickets_t20i": 1
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "run_chaser",
+      "pressure_performer",
+      "consistency"
+    ],
+    "power_play_sr": 122.5,
+    "death_over_sr": 145.0,
+    "middle_overs_sr": 135.0,
+    "overall_score": 98,
+    "recent_form": 92,
+    "tags": [
+      "anchor",
+      "run_machine",
+      "world_class",
+      "chase_master"
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 73,
+      "BWL": 29,
+      "CLU": 98,
+      "FLD": 84,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "rohit_sharma",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "ipl_team": "Mumbai Indians",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 159,
+      "runs": 4231,
+      "avg": 32.05,
+      "sr": 139.2,
+      "fifties": 22,
+      "hundreds": 5
+    },
+    "odi": {
+      "matches": 264,
+      "runs": 10709,
+      "avg": 48.44,
+      "sr": 89.96,
+      "fifties": 50,
+      "hundreds": 31
+    },
+    "test": {
+      "matches": 67,
+      "runs": 4301,
+      "avg": 46.75,
+      "sr": 60.23,
+      "fifties": 16,
+      "hundreds": 12
+    },
+    "bowling": {
+      "t20i_economy": 7.0,
+      "odi_economy": 5.24,
+      "wickets_odi": 8,
+      "wickets_t20i": 1
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "six_hitter",
+      "power_play_dominator"
+    ],
+    "power_play_sr": 148.5,
+    "death_over_sr": 138.0,
+    "middle_overs_sr": 132.0,
+    "overall_score": 97,
+    "recent_form": 88,
+    "tags": [
+      "opener",
+      "six_hitter",
+      "world_class",
+      "captain"
+    ],
+    "ovr": 92,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 69,
+      "BWL": 33,
+      "CLU": 98,
+      "FLD": 83,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "ms_dhoni",
+    "name": "MS Dhoni",
+    "country": "India",
+    "ipl_team": "Chennai Super Kings",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 98,
+      "runs": 1617,
+      "avg": 37.6,
+      "sr": 126.13,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 350,
+      "runs": 10773,
+      "avg": 50.57,
+      "sr": 87.56,
+      "fifties": 73,
+      "hundreds": 10
+    },
+    "test": {
+      "matches": 90,
+      "runs": 4876,
+      "avg": 38.09,
+      "sr": 59.34,
+      "fifties": 33,
+      "hundreds": 6
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "finisher",
+      "wicketkeeper",
+      "captain",
+      "death_batsman"
+    ],
+    "power_play_sr": 105.0,
+    "death_over_sr": 158.0,
+    "middle_overs_sr": 120.0,
+    "overall_score": 96,
+    "recent_form": 80,
+    "tags": [
+      "finisher",
+      "wicketkeeper",
+      "captain",
+      "legend",
+      "calm_under_pressure"
+    ],
+    "ovr": 95,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 98,
+      "PWR": 80,
+      "BWL": 25,
+      "CLU": 98,
+      "FLD": 95,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "jasprit_bumrah",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "ipl_team": "Mumbai Indians",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 75,
+      "runs": 43,
+      "avg": 4.3,
+      "sr": 75.4,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 90,
+      "runs": 69,
+      "avg": 6.27,
+      "sr": 60.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 42,
+      "runs": 113,
+      "avg": 5.96,
+      "sr": 35.6,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.22,
+      "odi_economy": 4.63,
+      "wickets_t20i": 89,
+      "wickets_odi": 149,
+      "wickets_test": 166,
+      "bowling_avg_t20i": 19.4,
+      "bowling_avg_odi": 23.9
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "death_bowler",
+      "powerplay_bowler",
+      "yorker_specialist",
+      "swing_bowler"
+    ],
+    "power_play_economy": 5.8,
+    "death_over_economy": 7.2,
+    "middle_overs_economy": 5.9,
+    "overall_score": 98,
+    "recent_form": 95,
+    "tags": [
+      "yorker_king",
+      "death_specialist",
+      "world_class",
+      "powerplay_threat"
+    ],
+    "ovr": 96,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 98,
+      "CLU": 98,
+      "FLD": 85,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "hardik_pandya",
+    "name": "Hardik Pandya",
+    "country": "India",
+    "ipl_team": "Mumbai Indians",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 107,
+      "runs": 1564,
+      "avg": 26.9,
+      "sr": 147.89,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 76,
+      "runs": 1476,
+      "avg": 31.4,
+      "sr": 107.12,
+      "fifties": 5,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 11,
+      "runs": 532,
+      "avg": 31.3,
+      "sr": 61.0,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.76,
+      "odi_economy": 5.48,
+      "wickets_t20i": 68,
+      "wickets_odi": 73
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "death_batsman",
+      "power_hitter",
+      "death_bowler",
+      "swing_bowler"
+    ],
+    "power_play_sr": 138.0,
+    "death_over_sr": 168.0,
+    "middle_overs_sr": 145.0,
+    "overall_score": 90,
+    "recent_form": 82,
+    "tags": [
+      "allrounder",
+      "power_hitter",
+      "finisher",
+      "swing_bowler"
+    ],
+    "ovr": 80,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 72,
+      "PWR": 86,
+      "BWL": 66,
+      "CLU": 88,
+      "FLD": 95,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "ravindra_jadeja",
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 74,
+      "runs": 515,
+      "avg": 22.39,
+      "sr": 129.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 196,
+      "runs": 2531,
+      "avg": 35.43,
+      "sr": 85.67,
+      "fifties": 14,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 75,
+      "runs": 3111,
+      "avg": 36.38,
+      "sr": 59.0,
+      "fifties": 16,
+      "hundreds": 3
+    },
+    "bowling": {
+      "t20i_economy": 7.14,
+      "odi_economy": 4.98,
+      "wickets_t20i": 54,
+      "wickets_odi": 196,
+      "wickets_test": 292
+    },
+    "pitch_preference": [
+      "spinning",
+      "dry",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "spinner",
+      "fielding",
+      "lower_order_bat",
+      "powerplay_bowler"
+    ],
+    "power_play_economy": 6.5,
+    "death_over_economy": 7.8,
+    "middle_overs_economy": 5.8,
+    "overall_score": 93,
+    "recent_form": 88,
+    "tags": [
+      "allrounder",
+      "spinner",
+      "fielder",
+      "subcontinent_specialist"
+    ],
+    "ovr": 83,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 70,
+      "BWL": 74,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "suryakumar_yadav",
+    "name": "Suryakumar Yadav",
+    "country": "India",
+    "ipl_team": "Mumbai Indians",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 78,
+      "runs": 2983,
+      "avg": 48.9,
+      "sr": 168.1,
+      "fifties": 22,
+      "hundreds": 4
+    },
+    "odi": {
+      "matches": 32,
+      "runs": 855,
+      "avg": 33.5,
+      "sr": 113.4,
+      "fifties": 7,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_t20i": 0,
+      "wickets_odi": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "power_hitter",
+      "360_player",
+      "middle_order_dominator"
+    ],
+    "power_play_sr": 145.0,
+    "death_over_sr": 192.0,
+    "middle_overs_sr": 175.0,
+    "overall_score": 96,
+    "recent_form": 93,
+    "tags": [
+      "t20_specialist",
+      "360_player",
+      "power_hitter",
+      "world_no1_t20"
+    ],
+    "ovr": 97,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "kl_rahul",
+    "name": "KL Rahul",
+    "country": "India",
+    "ipl_team": "Lucknow Super Giants",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 72,
+      "runs": 2265,
+      "avg": 35.39,
+      "sr": 136.75,
+      "fifties": 23,
+      "hundreds": 2
+    },
+    "odi": {
+      "matches": 66,
+      "runs": 2522,
+      "avg": 47.58,
+      "sr": 87.59,
+      "fifties": 21,
+      "hundreds": 5
+    },
+    "test": {
+      "matches": 50,
+      "runs": 2990,
+      "avg": 34.76,
+      "sr": 53.0,
+      "fifties": 20,
+      "hundreds": 7
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "anchor",
+      "wicketkeeper",
+      "opener"
+    ],
+    "power_play_sr": 132.0,
+    "death_over_sr": 140.0,
+    "middle_overs_sr": 128.0,
+    "overall_score": 88,
+    "recent_form": 80,
+    "tags": [
+      "anchor",
+      "wicketkeeper",
+      "stylish_batsman"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 70,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 95,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "shubman_gill",
+    "name": "Shubman Gill",
+    "country": "India",
+    "ipl_team": "Gujarat Titans",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 55,
+      "runs": 1616,
+      "avg": 34.38,
+      "sr": 153.6,
+      "fifties": 12,
+      "hundreds": 3
+    },
+    "odi": {
+      "matches": 51,
+      "runs": 2547,
+      "avg": 57.88,
+      "sr": 101.87,
+      "fifties": 14,
+      "hundreds": 7
+    },
+    "test": {
+      "matches": 27,
+      "runs": 1534,
+      "avg": 35.67,
+      "sr": 53.0,
+      "fifties": 8,
+      "hundreds": 3
+    },
+    "bowling": {
+      "t20i_economy": 8.0,
+      "odi_economy": 6.0,
+      "wickets_odi": 2,
+      "wickets_t20i": 1
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "stroke_maker",
+      "run_scorer"
+    ],
+    "power_play_sr": 148.0,
+    "death_over_sr": 155.0,
+    "middle_overs_sr": 148.0,
+    "overall_score": 91,
+    "recent_form": 90,
+    "tags": [
+      "young_gun",
+      "opener",
+      "future_star",
+      "elegant_batsman"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 79,
+      "BWL": 27,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "yashasvi_jaiswal",
+    "name": "Yashasvi Jaiswal",
+    "country": "India",
+    "ipl_team": "Rajasthan Royals",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 18,
+      "runs": 640,
+      "avg": 37.6,
+      "sr": 163.2,
+      "fifties": 5,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 10,
+      "runs": 375,
+      "avg": 41.67,
+      "sr": 98.0,
+      "fifties": 3,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 15,
+      "runs": 1478,
+      "avg": 55.48,
+      "sr": 63.0,
+      "fifties": 4,
+      "hundreds": 5
+    },
+    "bowling": {
+      "t20i_economy": 7.5,
+      "odi_economy": 5.8,
+      "wickets_odi": 1,
+      "wickets_t20i": 2
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "aggressive_batsman",
+      "left_hand_bat"
+    ],
+    "power_play_sr": 162.0,
+    "death_over_sr": 158.0,
+    "middle_overs_sr": 160.0,
+    "overall_score": 90,
+    "recent_form": 93,
+    "tags": [
+      "young_gun",
+      "opener",
+      "left_hander",
+      "aggressive"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 86,
+      "PWR": 83,
+      "BWL": 26,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "mohammed_shami",
+    "name": "Mohammed Shami",
+    "country": "India",
+    "ipl_team": "Gujarat Titans",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 23,
+      "runs": 22,
+      "avg": 3.14,
+      "sr": 45.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 100,
+      "runs": 166,
+      "avg": 7.23,
+      "sr": 52.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 64,
+      "runs": 421,
+      "avg": 8.09,
+      "sr": 31.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.7,
+      "odi_economy": 5.31,
+      "wickets_t20i": 24,
+      "wickets_odi": 195,
+      "wickets_test": 229,
+      "bowling_avg_odi": 26.0
+    },
+    "pitch_preference": [
+      "seaming",
+      "bouncy",
+      "swing"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "swing_bowler",
+      "death_bowler",
+      "seam_bowler"
+    ],
+    "power_play_economy": 5.9,
+    "death_over_economy": 6.8,
+    "middle_overs_economy": 5.4,
+    "overall_score": 94,
+    "recent_form": 90,
+    "tags": [
+      "swing_master",
+      "death_bowler",
+      "wicket_taker"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 82,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "ravichandran_ashwin",
+    "name": "Ravichandran Ashwin",
+    "country": "India",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 65,
+      "runs": 184,
+      "avg": 13.14,
+      "sr": 116.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 116,
+      "runs": 707,
+      "avg": 17.68,
+      "sr": 76.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 106,
+      "runs": 3503,
+      "avg": 27.38,
+      "sr": 51.0,
+      "fifties": 14,
+      "hundreds": 6
+    },
+    "bowling": {
+      "t20i_economy": 6.97,
+      "odi_economy": 4.9,
+      "wickets_t20i": 72,
+      "wickets_odi": 156,
+      "wickets_test": 537
+    },
+    "pitch_preference": [
+      "spinning",
+      "dry",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent"
+    ],
+    "specialties": [
+      "off_spinner",
+      "flight_bowler",
+      "lower_order_bat"
+    ],
+    "power_play_economy": 6.2,
+    "death_over_economy": 8.1,
+    "middle_overs_economy": 5.8,
+    "overall_score": 94,
+    "recent_form": 80,
+    "tags": [
+      "spin_ace",
+      "subcontinent_specialist",
+      "wicket_taker",
+      "crafty_spinner"
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 70,
+      "BWL": 75,
+      "CLU": 88,
+      "FLD": 95,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "rishabh_pant",
+    "name": "Rishabh Pant",
+    "country": "India",
+    "ipl_team": "Delhi Capitals",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 66,
+      "runs": 987,
+      "avg": 22.43,
+      "sr": 126.67,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 30,
+      "runs": 865,
+      "avg": 34.6,
+      "sr": 97.86,
+      "fifties": 5,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 33,
+      "runs": 2276,
+      "avg": 43.0,
+      "sr": 73.0,
+      "fifties": 10,
+      "hundreds": 5
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "aggressive_batsman",
+      "wicketkeeper",
+      "left_hand_bat",
+      "power_hitter"
+    ],
+    "power_play_sr": 130.0,
+    "death_over_sr": 155.0,
+    "middle_overs_sr": 140.0,
+    "overall_score": 89,
+    "recent_form": 85,
+    "tags": [
+      "wicketkeeper",
+      "left_hander",
+      "aggressive",
+      "unpredictable"
+    ],
+    "ovr": 85,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 76,
+      "PWR": 79,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "pat_cummins",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 58,
+      "runs": 422,
+      "avg": 16.23,
+      "sr": 128.5,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 98,
+      "runs": 793,
+      "avg": 24.78,
+      "sr": 93.2,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 63,
+      "runs": 1306,
+      "avg": 22.51,
+      "sr": 61.0,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.26,
+      "odi_economy": 5.22,
+      "wickets_t20i": 67,
+      "wickets_odi": 165,
+      "wickets_test": 264,
+      "bowling_avg_odi": 26.0
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming",
+      "fast"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "australia"
+    ],
+    "specialties": [
+      "fast_bowler",
+      "death_bowler",
+      "swing_bowler",
+      "powerplay_bowler"
+    ],
+    "power_play_economy": 6.0,
+    "death_over_economy": 8.5,
+    "middle_overs_economy": 5.8,
+    "overall_score": 95,
+    "recent_form": 88,
+    "tags": [
+      "world_class",
+      "fast_bowler",
+      "captain",
+      "death_specialist"
+    ],
+    "ovr": 81,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 67,
+      "PWR": 70,
+      "BWL": 68,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "david_warner",
+    "name": "David Warner",
+    "country": "Australia",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm leg-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 110,
+      "runs": 3277,
+      "avg": 33.43,
+      "sr": 143.0,
+      "fifties": 25,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 161,
+      "runs": 6932,
+      "avg": 45.3,
+      "sr": 96.73,
+      "fifties": 44,
+      "hundreds": 22
+    },
+    "test": {
+      "matches": 112,
+      "runs": 8786,
+      "avg": 44.59,
+      "sr": 70.0,
+      "fifties": 37,
+      "hundreds": 26
+    },
+    "bowling": {
+      "t20i_economy": 7.5,
+      "odi_economy": 5.2,
+      "wickets_odi": 2,
+      "wickets_t20i": 1
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "aggressive_batsman",
+      "left_hand_bat",
+      "power_play_dominator"
+    ],
+    "power_play_sr": 152.0,
+    "death_over_sr": 145.0,
+    "middle_overs_sr": 138.0,
+    "overall_score": 93,
+    "recent_form": 80,
+    "tags": [
+      "opener",
+      "left_hander",
+      "aggressive",
+      "world_class"
+    ],
+    "ovr": 91,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 94,
+      "PWR": 73,
+      "BWL": 27,
+      "CLU": 97,
+      "FLD": 95,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "steve_smith",
+    "name": "Steve Smith",
+    "country": "Australia",
+    "ipl_team": "Delhi Capitals",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm leg-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 72,
+      "runs": 1452,
+      "avg": 27.39,
+      "sr": 127.04,
+      "fifties": 7,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 150,
+      "runs": 5997,
+      "avg": 43.75,
+      "sr": 86.48,
+      "fifties": 37,
+      "hundreds": 12
+    },
+    "test": {
+      "matches": 105,
+      "runs": 9133,
+      "avg": 57.37,
+      "sr": 56.0,
+      "fifties": 40,
+      "hundreds": 32
+    },
+    "bowling": {
+      "t20i_economy": 7.2,
+      "odi_economy": 5.16,
+      "wickets_odi": 29,
+      "wickets_t20i": 7
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "anchor",
+      "run_scorer",
+      "technique"
+    ],
+    "power_play_sr": 120.0,
+    "death_over_sr": 128.0,
+    "middle_overs_sr": 122.0,
+    "overall_score": 95,
+    "recent_form": 84,
+    "tags": [
+      "test_legend",
+      "anchor",
+      "consistent",
+      "world_class"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 62,
+      "BWL": 54,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "mitchell_starc",
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 65,
+      "runs": 93,
+      "avg": 6.42,
+      "sr": 72.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 121,
+      "runs": 407,
+      "avg": 12.72,
+      "sr": 73.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 84,
+      "runs": 1062,
+      "avg": 14.67,
+      "sr": 50.0,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.19,
+      "odi_economy": 4.99,
+      "wickets_t20i": 75,
+      "wickets_odi": 232,
+      "wickets_test": 329,
+      "bowling_avg_odi": 22.0
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "australia",
+      "overseas"
+    ],
+    "specialties": [
+      "left_arm_fast",
+      "swing_bowler",
+      "yorker_specialist",
+      "powerplay_bowler"
+    ],
+    "power_play_economy": 5.2,
+    "death_over_economy": 7.8,
+    "middle_overs_economy": 5.4,
+    "overall_score": 95,
+    "recent_form": 88,
+    "tags": [
+      "left_arm_pace",
+      "swing_king",
+      "powerplay_threat",
+      "death_specialist"
+    ],
+    "ovr": 89,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 84,
+      "CLU": 98,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "babar_azam",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "ipl_team": null,
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 124,
+      "runs": 4061,
+      "avg": 40.0,
+      "sr": 129.2,
+      "fifties": 36,
+      "hundreds": 3
+    },
+    "odi": {
+      "matches": 113,
+      "runs": 5414,
+      "avg": 57.6,
+      "sr": 88.0,
+      "fifties": 37,
+      "hundreds": 19
+    },
+    "test": {
+      "matches": 53,
+      "runs": 3898,
+      "avg": 48.11,
+      "sr": 56.0,
+      "fifties": 26,
+      "hundreds": 10
+    },
+    "bowling": {
+      "t20i_economy": 7.2,
+      "odi_economy": 5.8,
+      "wickets_odi": 4,
+      "wickets_t20i": 2
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "anchor",
+      "stroke_maker",
+      "consistency",
+      "all_conditions"
+    ],
+    "power_play_sr": 130.0,
+    "death_over_sr": 132.0,
+    "middle_overs_sr": 128.0,
+    "overall_score": 95,
+    "recent_form": 85,
+    "tags": [
+      "world_class",
+      "anchor",
+      "consistent",
+      "stroke_maker"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 65,
+      "BWL": 29,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "shaheen_afridi",
+    "name": "Shaheen Shah Afridi",
+    "country": "Pakistan",
+    "ipl_team": null,
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 72,
+      "runs": 124,
+      "avg": 6.52,
+      "sr": 66.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 66,
+      "runs": 157,
+      "avg": 8.26,
+      "sr": 64.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 32,
+      "runs": 248,
+      "avg": 9.15,
+      "sr": 41.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.84,
+      "odi_economy": 4.66,
+      "wickets_t20i": 94,
+      "wickets_odi": 115,
+      "wickets_test": 112,
+      "bowling_avg_odi": 24.0
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "left_arm_fast",
+      "swing_bowler",
+      "powerplay_bowler",
+      "new_ball_specialist"
+    ],
+    "power_play_economy": 5.4,
+    "death_over_economy": 8.5,
+    "middle_overs_economy": 6.2,
+    "overall_score": 93,
+    "recent_form": 88,
+    "tags": [
+      "left_arm_pace",
+      "new_ball_threat",
+      "swing_king"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 88,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "joe_root",
+    "name": "Joe Root",
+    "country": "England",
+    "ipl_team": null,
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 32,
+      "runs": 893,
+      "avg": 35.72,
+      "sr": 125.56,
+      "fifties": 7,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 162,
+      "runs": 6846,
+      "avg": 52.64,
+      "sr": 88.58,
+      "fifties": 49,
+      "hundreds": 16
+    },
+    "test": {
+      "matches": 145,
+      "runs": 12254,
+      "avg": 49.41,
+      "sr": 56.0,
+      "fifties": 67,
+      "hundreds": 35
+    },
+    "bowling": {
+      "t20i_economy": 6.8,
+      "odi_economy": 5.38,
+      "wickets_odi": 38,
+      "wickets_t20i": 4,
+      "wickets_test": 67
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "anchor",
+      "consistency",
+      "all_conditions",
+      "part_time_spinner"
+    ],
+    "power_play_sr": 118.0,
+    "death_over_sr": 128.0,
+    "middle_overs_sr": 120.0,
+    "overall_score": 95,
+    "recent_form": 90,
+    "tags": [
+      "test_legend",
+      "consistent",
+      "anchor",
+      "world_class"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 62,
+      "BWL": 55,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "ben_stokes",
+    "name": "Ben Stokes",
+    "country": "England",
+    "ipl_team": "Rising Pune Supergiant",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 44,
+      "runs": 762,
+      "avg": 24.58,
+      "sr": 135.22,
+      "fifties": 4,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 105,
+      "runs": 3065,
+      "avg": 41.41,
+      "sr": 95.48,
+      "fifties": 21,
+      "hundreds": 3
+    },
+    "test": {
+      "matches": 107,
+      "runs": 6195,
+      "avg": 37.58,
+      "sr": 58.0,
+      "fifties": 36,
+      "hundreds": 13
+    },
+    "bowling": {
+      "t20i_economy": 8.59,
+      "odi_economy": 5.43,
+      "wickets_t20i": 32,
+      "wickets_odi": 74,
+      "wickets_test": 196
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "all_conditions",
+      "match_winner",
+      "power_hitter",
+      "swing_bowler"
+    ],
+    "power_play_sr": 140.0,
+    "death_over_sr": 155.0,
+    "middle_overs_sr": 140.0,
+    "overall_score": 95,
+    "recent_form": 88,
+    "tags": [
+      "allrounder",
+      "match_winner",
+      "left_hander",
+      "world_class"
+    ],
+    "ovr": 85,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 85,
+      "PWR": 79,
+      "BWL": 67,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "jofra_archer",
+    "name": "Jofra Archer",
+    "country": "England",
+    "ipl_team": "Mumbai Indians",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 32,
+      "runs": 93,
+      "avg": 9.3,
+      "sr": 100.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 40,
+      "runs": 100,
+      "avg": 8.33,
+      "sr": 82.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 13,
+      "runs": 168,
+      "avg": 11.2,
+      "sr": 50.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.08,
+      "odi_economy": 4.98,
+      "wickets_t20i": 47,
+      "wickets_odi": 77,
+      "bowling_avg_odi": 23.0
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "pace",
+      "death_bowler",
+      "bouncer_specialist",
+      "yorker_specialist"
+    ],
+    "power_play_economy": 6.0,
+    "death_over_economy": 7.5,
+    "middle_overs_economy": 6.0,
+    "overall_score": 90,
+    "recent_form": 75,
+    "tags": [
+      "pace_sensation",
+      "death_specialist",
+      "yorker_king"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 31,
+      "PWR": 70,
+      "BWL": 88,
+      "CLU": 88,
+      "FLD": 81,
+      "PHY": 91
+    }
+  },
+  {
+    "id": "kane_williamson",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 95,
+      "runs": 2265,
+      "avg": 33.3,
+      "sr": 117.12,
+      "fifties": 13,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 167,
+      "runs": 6554,
+      "avg": 47.48,
+      "sr": 81.17,
+      "fifties": 45,
+      "hundreds": 13
+    },
+    "test": {
+      "matches": 100,
+      "runs": 7836,
+      "avg": 54.07,
+      "sr": 51.0,
+      "fifties": 44,
+      "hundreds": 24
+    },
+    "bowling": {
+      "t20i_economy": 6.5,
+      "odi_economy": 5.36,
+      "wickets_odi": 39,
+      "wickets_t20i": 11
+    },
+    "pitch_preference": [
+      "flat",
+      "seaming",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "anchor",
+      "consistency",
+      "captain",
+      "all_conditions"
+    ],
+    "power_play_sr": 118.0,
+    "death_over_sr": 125.0,
+    "middle_overs_sr": 115.0,
+    "overall_score": 93,
+    "recent_form": 80,
+    "tags": [
+      "anchor",
+      "consistent",
+      "captain",
+      "world_class"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 61,
+      "BWL": 55,
+      "CLU": 88,
+      "FLD": 82,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "trent_boult",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "ipl_team": "Rajasthan Royals",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 63,
+      "runs": 70,
+      "avg": 5.38,
+      "sr": 68.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 106,
+      "runs": 232,
+      "avg": 8.44,
+      "sr": 61.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 90,
+      "runs": 701,
+      "avg": 9.08,
+      "sr": 38.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.9,
+      "odi_economy": 4.98,
+      "wickets_t20i": 80,
+      "wickets_odi": 189,
+      "wickets_test": 317,
+      "bowling_avg_odi": 23.7
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "left_arm_swing",
+      "powerplay_bowler",
+      "new_ball_specialist"
+    ],
+    "power_play_economy": 5.0,
+    "death_over_economy": 8.2,
+    "middle_overs_economy": 5.8,
+    "overall_score": 93,
+    "recent_form": 82,
+    "tags": [
+      "left_arm_pace",
+      "swing_king",
+      "powerplay_specialist"
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 70,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 82,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "quinton_de_kock",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "ipl_team": "Lucknow Super Giants",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 83,
+      "runs": 2271,
+      "avg": 28.39,
+      "sr": 141.28,
+      "fifties": 17,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 157,
+      "runs": 6770,
+      "avg": 45.1,
+      "sr": 92.57,
+      "fifties": 44,
+      "hundreds": 17
+    },
+    "test": {
+      "matches": 54,
+      "runs": 3300,
+      "avg": 38.82,
+      "sr": 63.0,
+      "fifties": 21,
+      "hundreds": 7
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "wicketkeeper",
+      "aggressive_opener",
+      "left_hand_bat"
+    ],
+    "power_play_sr": 148.0,
+    "death_over_sr": 148.0,
+    "middle_overs_sr": 135.0,
+    "overall_score": 90,
+    "recent_form": 86,
+    "tags": [
+      "wicketkeeper",
+      "opener",
+      "left_hander",
+      "aggressive"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 94,
+      "PWR": 74,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "kagiso_rabada",
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "ipl_team": "Punjab Kings",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 76,
+      "runs": 101,
+      "avg": 6.31,
+      "sr": 81.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 80,
+      "runs": 234,
+      "avg": 8.71,
+      "sr": 72.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 60,
+      "runs": 641,
+      "avg": 12.52,
+      "sr": 38.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.99,
+      "odi_economy": 5.29,
+      "wickets_t20i": 89,
+      "wickets_odi": 149,
+      "wickets_test": 246,
+      "bowling_avg_odi": 24.0
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "pace",
+      "death_bowler",
+      "powerplay_bowler",
+      "bouncer_specialist"
+    ],
+    "power_play_economy": 6.2,
+    "death_over_economy": 8.0,
+    "middle_overs_economy": 5.9,
+    "overall_score": 94,
+    "recent_form": 88,
+    "tags": [
+      "pace_sensation",
+      "death_specialist",
+      "world_class"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "rashid_khan",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm leg-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 95,
+      "runs": 587,
+      "avg": 13.35,
+      "sr": 150.25,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 90,
+      "runs": 760,
+      "avg": 18.5,
+      "sr": 100.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 9,
+      "runs": 203,
+      "avg": 14.5,
+      "sr": 69.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.23,
+      "odi_economy": 4.19,
+      "wickets_t20i": 129,
+      "wickets_odi": 153,
+      "bowling_avg_t20i": 14.3,
+      "bowling_avg_odi": 18.2
+    },
+    "pitch_preference": [
+      "spinning",
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "leg_spinner",
+      "economy_bowler",
+      "wicket_taker",
+      "pinch_hitter"
+    ],
+    "power_play_economy": 6.5,
+    "death_over_economy": 7.0,
+    "middle_overs_economy": 5.2,
+    "overall_score": 96,
+    "recent_form": 92,
+    "tags": [
+      "leg_spin_genius",
+      "economy_king",
+      "t20_specialist",
+      "world_class"
+    ],
+    "ovr": 83,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 76,
+      "BWL": 78,
+      "CLU": 89,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "nicholas_pooran",
+    "name": "Nicholas Pooran",
+    "country": "West Indies",
+    "ipl_team": "Lucknow Super Giants",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 93,
+      "runs": 2079,
+      "avg": 28.47,
+      "sr": 158.21,
+      "fifties": 9,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 69,
+      "runs": 1754,
+      "avg": 35.08,
+      "sr": 103.42,
+      "fifties": 11,
+      "hundreds": 2
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "power_hitter",
+      "wicketkeeper",
+      "left_hand_bat",
+      "finisher"
+    ],
+    "power_play_sr": 152.0,
+    "death_over_sr": 182.0,
+    "middle_overs_sr": 158.0,
+    "overall_score": 88,
+    "recent_form": 85,
+    "tags": [
+      "wicketkeeper",
+      "power_hitter",
+      "left_hander",
+      "t20_specialist"
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 95,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "shreyas_iyer",
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 65,
+      "runs": 1502,
+      "avg": 31.29,
+      "sr": 134.29,
+      "fifties": 10,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 67,
+      "runs": 2498,
+      "avg": 42.34,
+      "sr": 96.08,
+      "fifties": 14,
+      "hundreds": 5
+    },
+    "test": {
+      "matches": 24,
+      "runs": 1362,
+      "avg": 40.06,
+      "sr": 58.0,
+      "fifties": 5,
+      "hundreds": 4
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "middle_order",
+      "anchor",
+      "stroke_maker"
+    ],
+    "power_play_sr": 122.0,
+    "death_over_sr": 148.0,
+    "middle_overs_sr": 132.0,
+    "overall_score": 86,
+    "recent_form": 82,
+    "tags": [
+      "middle_order",
+      "consistent",
+      "stroke_maker"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 74,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 82,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "axar_patel",
+    "name": "Axar Patel",
+    "country": "India",
+    "ipl_team": "Delhi Capitals",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 67,
+      "runs": 531,
+      "avg": 22.12,
+      "sr": 143.67,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 62,
+      "runs": 556,
+      "avg": 24.17,
+      "sr": 100.0,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 23,
+      "runs": 764,
+      "avg": 34.7,
+      "sr": 57.0,
+      "fifties": 4,
+      "hundreds": 2
+    },
+    "bowling": {
+      "t20i_economy": 7.06,
+      "odi_economy": 4.81,
+      "wickets_t20i": 85,
+      "wickets_odi": 80,
+      "wickets_test": 87
+    },
+    "pitch_preference": [
+      "spinning",
+      "flat",
+      "dry"
+    ],
+    "conditions_preference": [
+      "subcontinent"
+    ],
+    "specialties": [
+      "left_arm_spinner",
+      "lower_order_bat",
+      "subcontinent_specialist"
+    ],
+    "power_play_economy": 6.8,
+    "death_over_economy": 8.5,
+    "middle_overs_economy": 5.9,
+    "overall_score": 87,
+    "recent_form": 85,
+    "tags": [
+      "spinner",
+      "left_arm_spin",
+      "subcontinent_specialist",
+      "useful_bat"
+    ],
+    "ovr": 79,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 68,
+      "PWR": 72,
+      "BWL": 74,
+      "CLU": 87,
+      "FLD": 95,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "yuzvendra_chahal",
+    "name": "Yuzvendra Chahal",
+    "country": "India",
+    "ipl_team": "Rajasthan Royals",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm leg-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 81,
+      "runs": 27,
+      "avg": 2.7,
+      "sr": 42.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 72,
+      "runs": 33,
+      "avg": 3.0,
+      "sr": 38.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.91,
+      "odi_economy": 5.35,
+      "wickets_t20i": 96,
+      "wickets_odi": 121,
+      "bowling_avg_t20i": 22.9
+    },
+    "pitch_preference": [
+      "spinning",
+      "dry",
+      "flat"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "leg_spinner",
+      "wicket_taker",
+      "flight_bowler"
+    ],
+    "power_play_economy": 7.5,
+    "death_over_economy": 8.5,
+    "middle_overs_economy": 6.5,
+    "overall_score": 86,
+    "recent_form": 80,
+    "tags": [
+      "leg_spin",
+      "wicket_taker",
+      "googly_bowler"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 88,
+      "CLU": 87,
+      "FLD": 82,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "deepak_chahar",
+    "name": "Deepak Chahar",
+    "country": "India",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 52,
+      "runs": 213,
+      "avg": 21.3,
+      "sr": 110.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 16,
+      "runs": 186,
+      "avg": 37.2,
+      "sr": 103.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.74,
+      "odi_economy": 4.88,
+      "wickets_t20i": 57,
+      "wickets_odi": 30,
+      "bowling_avg_t20i": 20.6
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "swing_bowler",
+      "lower_order_bat"
+    ],
+    "power_play_economy": 5.8,
+    "death_over_economy": 8.5,
+    "middle_overs_economy": 6.5,
+    "overall_score": 82,
+    "recent_form": 75,
+    "tags": [
+      "powerplay_specialist",
+      "swing_bowler",
+      "useful_bat"
+    ],
+    "ovr": 79,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 76,
+      "PWR": 72,
+      "BWL": 76,
+      "CLU": 86,
+      "FLD": 94,
+      "PHY": 91
+    }
+  },
+  {
+    "id": "sam_curran",
+    "name": "Sam Curran",
+    "country": "England",
+    "ipl_team": "Punjab Kings",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 52,
+      "runs": 470,
+      "avg": 18.08,
+      "sr": 135.45,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 42,
+      "runs": 539,
+      "avg": 21.56,
+      "sr": 87.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 34,
+      "runs": 955,
+      "avg": 23.87,
+      "sr": 47.0,
+      "fifties": 4,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": 8.01,
+      "odi_economy": 5.39,
+      "wickets_t20i": 52,
+      "wickets_odi": 52,
+      "wickets_test": 65
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "left_arm_medium",
+      "powerplay_bowler",
+      "lower_order_bat",
+      "finisher"
+    ],
+    "power_play_economy": 6.5,
+    "death_over_economy": 8.5,
+    "middle_overs_economy": 6.8,
+    "overall_score": 83,
+    "recent_form": 80,
+    "tags": [
+      "allrounder",
+      "left_arm_medium",
+      "useful_bat",
+      "flexible"
+    ],
+    "ovr": 76,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 70,
+      "BWL": 69,
+      "CLU": 86,
+      "FLD": 95,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "lockie_ferguson",
+    "name": "Lockie Ferguson",
+    "country": "New Zealand",
+    "ipl_team": "Gujarat Titans",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 50,
+      "runs": 57,
+      "avg": 5.18,
+      "sr": 75.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 45,
+      "runs": 75,
+      "avg": 6.82,
+      "sr": 65.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.79,
+      "odi_economy": 5.46,
+      "wickets_t20i": 56,
+      "wickets_odi": 65,
+      "bowling_avg_t20i": 22.5
+    },
+    "pitch_preference": [
+      "bouncy",
+      "fast"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "pace",
+      "bouncer_specialist",
+      "death_bowler"
+    ],
+    "power_play_economy": 6.8,
+    "death_over_economy": 8.2,
+    "middle_overs_economy": 6.5,
+    "overall_score": 83,
+    "recent_form": 80,
+    "tags": [
+      "express_pace",
+      "bouncer_specialist",
+      "death_bowler"
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 70,
+      "BWL": 84,
+      "CLU": 86,
+      "FLD": 82,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "wanindu_hasaranga",
+    "name": "Wanindu Hasaranga",
+    "country": "Sri Lanka",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm leg-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 85,
+      "runs": 537,
+      "avg": 14.24,
+      "sr": 132.7,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 62,
+      "runs": 570,
+      "avg": 19.0,
+      "sr": 88.0,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 18,
+      "runs": 501,
+      "avg": 22.77,
+      "sr": 44.0,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.41,
+      "odi_economy": 5.11,
+      "wickets_t20i": 121,
+      "wickets_odi": 96,
+      "bowling_avg_t20i": 14.0
+    },
+    "pitch_preference": [
+      "spinning",
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "leg_spinner",
+      "wicket_taker",
+      "economy_bowler",
+      "lower_order_bat"
+    ],
+    "power_play_economy": 6.8,
+    "death_over_economy": 7.5,
+    "middle_overs_economy": 5.4,
+    "overall_score": 91,
+    "recent_form": 88,
+    "tags": [
+      "leg_spin_ace",
+      "t20_specialist",
+      "wicket_taker",
+      "economy_spinner"
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 70,
+      "BWL": 77,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "marcus_stoinis",
+    "name": "Marcus Stoinis",
+    "country": "Australia",
+    "ipl_team": "Lucknow Super Giants",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 78,
+      "runs": 1465,
+      "avg": 26.15,
+      "sr": 140.21,
+      "fifties": 5,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 72,
+      "runs": 1655,
+      "avg": 30.27,
+      "sr": 93.58,
+      "fifties": 10,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": 8.25,
+      "odi_economy": 5.61,
+      "wickets_t20i": 37,
+      "wickets_odi": 56
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "power_hitter",
+      "opening_allrounder",
+      "death_batsman"
+    ],
+    "power_play_sr": 148.0,
+    "death_over_sr": 160.0,
+    "middle_overs_sr": 138.0,
+    "overall_score": 84,
+    "recent_form": 82,
+    "tags": [
+      "allrounder",
+      "power_hitter",
+      "flexible"
+    ],
+    "ovr": 78,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 73,
+      "PWR": 82,
+      "BWL": 68,
+      "CLU": 86,
+      "FLD": 95,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "kieron_pollard",
+    "name": "Kieron Pollard",
+    "country": "West Indies",
+    "ipl_team": "Mumbai Indians",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 125,
+      "runs": 2706,
+      "avg": 28.78,
+      "sr": 151.85,
+      "fifties": 11,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 126,
+      "runs": 2706,
+      "avg": 26.29,
+      "sr": 89.55,
+      "fifties": 11,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.68,
+      "odi_economy": 5.72,
+      "wickets_t20i": 65,
+      "wickets_odi": 58
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "power_hitter",
+      "finisher",
+      "lower_order_bat"
+    ],
+    "power_play_sr": 140.0,
+    "death_over_sr": 175.0,
+    "middle_overs_sr": 148.0,
+    "overall_score": 88,
+    "recent_form": 72,
+    "tags": [
+      "allrounder",
+      "power_hitter",
+      "finisher",
+      "t20_legend"
+    ],
+    "ovr": 80,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 73,
+      "PWR": 91,
+      "BWL": 66,
+      "CLU": 87,
+      "FLD": 94,
+      "PHY": 90
+    }
+  },
+  {
+    "id": "faf_du_plessis",
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 50,
+      "runs": 1528,
+      "avg": 35.53,
+      "sr": 136.2,
+      "fifties": 14,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 143,
+      "runs": 5507,
+      "avg": 47.48,
+      "sr": 87.19,
+      "fifties": 38,
+      "hundreds": 12
+    },
+    "test": {
+      "matches": 69,
+      "runs": 4163,
+      "avg": 40.02,
+      "sr": 52.0,
+      "fifties": 21,
+      "hundreds": 10
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "anchor",
+      "slip_fielding"
+    ],
+    "power_play_sr": 135.0,
+    "death_over_sr": 138.0,
+    "middle_overs_sr": 130.0,
+    "overall_score": 88,
+    "recent_form": 78,
+    "tags": [
+      "anchor",
+      "consistent",
+      "ipl_captain",
+      "experienced"
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 96,
+      "PWR": 68,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 82,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "glenn_maxwell",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 109,
+      "runs": 3072,
+      "avg": 34.52,
+      "sr": 159.2,
+      "fifties": 16,
+      "hundreds": 3
+    },
+    "odi": {
+      "matches": 140,
+      "runs": 3825,
+      "avg": 33.55,
+      "sr": 121.23,
+      "fifties": 19,
+      "hundreds": 5
+    },
+    "test": {
+      "matches": 7,
+      "runs": 339,
+      "avg": 26.08,
+      "sr": 74.0,
+      "fifties": 1,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": 7.69,
+      "odi_economy": 5.68,
+      "wickets_t20i": 44,
+      "wickets_odi": 73
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "power_hitter",
+      "360_player",
+      "middle_order",
+      "off_spinner"
+    ],
+    "power_play_sr": 148.0,
+    "death_over_sr": 180.0,
+    "middle_overs_sr": 165.0,
+    "overall_score": 90,
+    "recent_form": 85,
+    "tags": [
+      "allrounder",
+      "360_player",
+      "power_hitter",
+      "match_winner"
+    ],
+    "ovr": 87,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 94,
+      "BWL": 71,
+      "CLU": 97,
+      "FLD": 95,
+      "PHY": 93
+    }
+  },
+  {
+    "id": "andre_russell",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 76,
+      "runs": 1286,
+      "avg": 28.58,
+      "sr": 172.28,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 56,
+      "runs": 1034,
+      "avg": 27.21,
+      "sr": 109.53,
+      "fifties": 4,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.97,
+      "odi_economy": 5.97,
+      "wickets_t20i": 68,
+      "wickets_odi": 70
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "power_hitter",
+      "finisher",
+      "death_batsman",
+      "death_bowler"
+    ],
+    "power_play_sr": 155.0,
+    "death_over_sr": 210.0,
+    "middle_overs_sr": 170.0,
+    "overall_score": 91,
+    "recent_form": 87,
+    "tags": [
+      "allrounder",
+      "power_hitter",
+      "death_specialist",
+      "t20_legend",
+      "ipl_destroyer"
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 73,
+      "PWR": 99,
+      "BWL": 65,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "mohammed_siraj",
+    "name": "Mohammed Siraj",
+    "country": "India",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 42,
+      "runs": 28,
+      "avg": 3.5,
+      "sr": 50.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 50,
+      "runs": 44,
+      "avg": 5.5,
+      "sr": 45.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 29,
+      "runs": 189,
+      "avg": 8.6,
+      "sr": 32.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.72,
+      "odi_economy": 5.19,
+      "wickets_t20i": 52,
+      "wickets_odi": 76,
+      "wickets_test": 97
+    },
+    "pitch_preference": [
+      "seaming",
+      "flat",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "swing_bowler",
+      "seam_bowler"
+    ],
+    "power_play_economy": 6.5,
+    "death_over_economy": 9.2,
+    "middle_overs_economy": 6.5,
+    "overall_score": 82,
+    "recent_form": 80,
+    "tags": [
+      "powerplay_bowler",
+      "seamer",
+      "swing_bowler"
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 70,
+      "BWL": 78,
+      "CLU": 86,
+      "FLD": 82,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "sanju_samson",
+    "name": "Sanju Samson",
+    "country": "India",
+    "ipl_team": "Rajasthan Royals",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 42,
+      "runs": 1030,
+      "avg": 29.43,
+      "sr": 147.01,
+      "fifties": 8,
+      "hundreds": 2
+    },
+    "odi": {
+      "matches": 16,
+      "runs": 480,
+      "avg": 34.28,
+      "sr": 100.0,
+      "fifties": 3,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "all"
+    ],
+    "specialties": [
+      "wicketkeeper",
+      "aggressive_batsman",
+      "power_hitter"
+    ],
+    "power_play_sr": 145.0,
+    "death_over_sr": 162.0,
+    "middle_overs_sr": 148.0,
+    "overall_score": 84,
+    "recent_form": 82,
+    "tags": [
+      "wicketkeeper",
+      "power_hitter",
+      "t20_specialist"
+    ],
+    "ovr": 85,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 83,
+      "BWL": 25,
+      "CLU": 86,
+      "FLD": 95,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "mark_wood",
+    "name": "Mark Wood",
+    "country": "England",
+    "ipl_team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 35,
+      "runs": 59,
+      "avg": 5.9,
+      "sr": 72.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 74,
+      "runs": 215,
+      "avg": 9.35,
+      "sr": 71.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 36,
+      "runs": 415,
+      "avg": 12.58,
+      "sr": 52.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.5,
+      "odi_economy": 5.45,
+      "wickets_t20i": 44,
+      "wickets_odi": 97,
+      "bowling_avg_odi": 28.0
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "pace",
+      "bouncer_specialist",
+      "death_bowler"
+    ],
+    "power_play_economy": 7.0,
+    "death_over_economy": 8.5,
+    "middle_overs_economy": 6.8,
+    "overall_score": 83,
+    "recent_form": 80,
+    "tags": [
+      "express_pace",
+      "bouncer_specialist",
+      "wicket_taker"
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 70,
+      "BWL": 79,
+      "CLU": 86,
+      "FLD": 82,
+      "PHY": 92
+    }
+  },
+  {
+    "id": "shakib_al_hasan",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 130,
+      "runs": 2527,
+      "avg": 22.79,
+      "sr": 119.34,
+      "fifties": 11,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 248,
+      "runs": 7774,
+      "avg": 37.0,
+      "sr": 82.81,
+      "fifties": 55,
+      "hundreds": 9
+    },
+    "test": {
+      "matches": 70,
+      "runs": 4603,
+      "avg": 38.35,
+      "sr": 53.0,
+      "fifties": 31,
+      "hundreds": 8
+    },
+    "bowling": {
+      "t20i_economy": 6.84,
+      "odi_economy": 4.52,
+      "wickets_t20i": 141,
+      "wickets_odi": 299,
+      "wickets_test": 242
+    },
+    "pitch_preference": [
+      "spinning",
+      "flat",
+      "all"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "left_arm_spinner",
+      "all_conditions",
+      "economy_bowler",
+      "lower_order_bat"
+    ],
+    "power_play_economy": 6.5,
+    "death_over_economy": 7.8,
+    "middle_overs_economy": 5.7,
+    "overall_score": 92,
+    "recent_form": 75,
+    "tags": [
+      "allrounder",
+      "left_arm_spin",
+      "legend",
+      "subcontinent_specialist"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 88,
+      "PWR": 70,
+      "BWL": 75,
+      "CLU": 88,
+      "FLD": 94,
+      "PHY": 91
+    }
+  },
+  {
+    "id": "travis_head",
+    "name": "Travis Head",
+    "country": "Australia",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 38,
+      "runs": 1092,
+      "avg": 34.12,
+      "sr": 158.72,
+      "fifties": 5,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 69,
+      "runs": 2645,
+      "avg": 43.36,
+      "sr": 105.8,
+      "fifties": 16,
+      "hundreds": 6
+    },
+    "test": {
+      "matches": 49,
+      "runs": 3173,
+      "avg": 41.75,
+      "sr": 63.85,
+      "fifties": 16,
+      "hundreds": 7
+    },
+    "bowling": {
+      "t20i_economy": 8.5,
+      "odi_economy": 5.8,
+      "wickets_odi": 18,
+      "wickets_t20i": 4
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "360_player",
+      "big_match_player"
+    ],
+    "power_play_sr": 188.0,
+    "death_over_sr": 160.0,
+    "middle_overs_sr": 145.0,
+    "overall_score": 94,
+    "recent_form": 96,
+    "tags": [
+      "opener",
+      "explosive",
+      "match_winner",
+      "powerplay_beast"
+    ],
+    "ovr": 92,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 82,
+      "BWL": 43,
+      "CLU": 97,
+      "FLD": 85,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "heinrich_klaasen",
+    "name": "Heinrich Klaasen",
+    "country": "South Africa",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 58,
+      "runs": 1000,
+      "avg": 25.64,
+      "sr": 147.92,
+      "fifties": 5,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 58,
+      "runs": 1875,
+      "avg": 43.6,
+      "sr": 115.82,
+      "fifties": 6,
+      "hundreds": 4
+    },
+    "test": {
+      "matches": 4,
+      "runs": 104,
+      "avg": 13.0,
+      "sr": 42.1,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 9.5,
+      "odi_economy": 7.0,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "power_hitter",
+      "finisher",
+      "spin_destroyer",
+      "wicketkeeper"
+    ],
+    "power_play_sr": 140.0,
+    "death_over_sr": 205.0,
+    "middle_overs_sr": 168.0,
+    "overall_score": 93,
+    "recent_form": 95,
+    "tags": [
+      "power_hitter",
+      "spin_smasher",
+      "finisher",
+      "six_machine"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 89,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "jos_buttler",
+    "name": "Jos Buttler",
+    "country": "England",
+    "ipl_team": "Rajasthan Royals",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 124,
+      "runs": 3264,
+      "avg": 35.86,
+      "sr": 146.3,
+      "fifties": 24,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 181,
+      "runs": 5022,
+      "avg": 39.54,
+      "sr": 117.11,
+      "fifties": 26,
+      "hundreds": 11
+    },
+    "test": {
+      "matches": 57,
+      "runs": 2907,
+      "avg": 31.94,
+      "sr": 54.2,
+      "fifties": 18,
+      "hundreds": 2
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "360_player",
+      "wicketkeeper",
+      "captaincy"
+    ],
+    "power_play_sr": 152.0,
+    "death_over_sr": 195.0,
+    "middle_overs_sr": 142.0,
+    "overall_score": 95,
+    "recent_form": 91,
+    "tags": [
+      "opener",
+      "360_player",
+      "world_cup_winner",
+      "elite_keeper"
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 91,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "rinku_singh",
+    "name": "Rinku Singh",
+    "country": "India",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 26,
+      "runs": 471,
+      "avg": 58.87,
+      "sr": 175.09,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 2,
+      "runs": 55,
+      "avg": 27.5,
+      "sr": 134.15,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 9.0,
+      "odi_economy": 8.0,
+      "wickets_odi": 1,
+      "wickets_t20i": 2
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "finisher",
+      "death_batsman",
+      "power_hitter",
+      "pressure_performer"
+    ],
+    "power_play_sr": 130.0,
+    "death_over_sr": 210.5,
+    "middle_overs_sr": 148.0,
+    "overall_score": 89,
+    "recent_form": 88,
+    "tags": [
+      "finisher",
+      "six_hitter",
+      "clutch",
+      "death_overs"
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 98,
+      "PWR": 99,
+      "BWL": 26,
+      "CLU": 87,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "arshdeep_singh",
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "ipl_team": "Punjab Kings",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 56,
+      "runs": 42,
+      "avg": 8.4,
+      "sr": 75.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 8,
+      "runs": 18,
+      "avg": 9.0,
+      "sr": 60.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.28,
+      "odi_economy": 5.24,
+      "wickets_odi": 12,
+      "wickets_t20i": 87
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "flat"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "death_bowler",
+      "death_specialist",
+      "swing_bowler",
+      "powerplay_bowler",
+      "left_arm_angle"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 91,
+    "recent_form": 93,
+    "tags": [
+      "death_overs",
+      "left_arm_pacer",
+      "world_cup_winner",
+      "swing"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 30,
+      "PWR": 50,
+      "BWL": 84,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "kuldeep_yadav",
+    "name": "Kuldeep Yadav",
+    "country": "India",
+    "ipl_team": "Delhi Capitals",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm wrist spin",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 40,
+      "runs": 46,
+      "avg": 9.2,
+      "sr": 78.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 106,
+      "runs": 195,
+      "avg": 11.47,
+      "sr": 62.9,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 12,
+      "runs": 176,
+      "avg": 13.53,
+      "sr": 38.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.74,
+      "odi_economy": 5.03,
+      "wickets_odi": 172,
+      "wickets_t20i": 69
+    },
+    "pitch_preference": [
+      "spinning",
+      "turning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "spinner",
+      "wrist_spinner",
+      "spin_ace",
+      "wicket_taker"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 93,
+    "recent_form": 94,
+    "tags": [
+      "wrist_spin",
+      "chinaman",
+      "wicket_machine",
+      "spin_wizard"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 31,
+      "PWR": 50,
+      "BWL": 93,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "ab_de_villiers",
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 78,
+      "runs": 1672,
+      "avg": 26.12,
+      "sr": 135.16,
+      "fifties": 10,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 228,
+      "runs": 9577,
+      "avg": 53.5,
+      "sr": 101.09,
+      "fifties": 53,
+      "hundreds": 25
+    },
+    "test": {
+      "matches": 114,
+      "runs": 8765,
+      "avg": 50.66,
+      "sr": 54.51,
+      "fifties": 46,
+      "hundreds": 22
+    },
+    "bowling": {
+      "t20i_economy": 8.0,
+      "odi_economy": 6.1,
+      "wickets_odi": 7,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "power_hitter",
+      "360_player",
+      "finisher",
+      "wicketkeeper",
+      "run_scorer"
+    ],
+    "power_play_sr": 145.0,
+    "death_over_sr": 225.0,
+    "middle_overs_sr": 158.0,
+    "overall_score": 99,
+    "recent_form": 90,
+    "tags": [
+      "mr_360",
+      "legend",
+      "fastest_century",
+      "superstar"
+    ],
+    "ovr": 98,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 99,
+      "BWL": 32,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "sachin_tendulkar",
+    "name": "Sachin Tendulkar",
+    "country": "India",
+    "ipl_team": "Mumbai Indians",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "image_url": "",
+    "formats": [
+      "ODI",
+      "Test",
+      "T20I"
+    ],
+    "t20i": {
+      "matches": 1,
+      "runs": 10,
+      "avg": 10.0,
+      "sr": 83.33,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 463,
+      "runs": 18426,
+      "avg": 44.83,
+      "sr": 86.23,
+      "fifties": 96,
+      "hundreds": 49
+    },
+    "test": {
+      "matches": 200,
+      "runs": 15921,
+      "avg": 53.78,
+      "sr": 54.0,
+      "fifties": 68,
+      "hundreds": 51
+    },
+    "bowling": {
+      "t20i_economy": 12.0,
+      "odi_economy": 5.1,
+      "wickets_odi": 154,
+      "wickets_t20i": 1
+    },
+    "pitch_preference": [
+      "flat",
+      "seaming",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "anchor",
+      "run_scorer",
+      "consistency",
+      "master_technique"
+    ],
+    "power_play_sr": 125.0,
+    "death_over_sr": 140.0,
+    "middle_overs_sr": 115.0,
+    "overall_score": 100,
+    "recent_form": 92,
+    "tags": [
+      "god_of_cricket",
+      "legend",
+      "master_blaster",
+      "century_of_centuries"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 94,
+      "PWR": 70,
+      "BWL": 55,
+      "CLU": 90,
+      "FLD": 84,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "chris_gayle",
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 79,
+      "runs": 1899,
+      "avg": 27.92,
+      "sr": 137.5,
+      "fifties": 14,
+      "hundreds": 2
+    },
+    "odi": {
+      "matches": 301,
+      "runs": 10480,
+      "avg": 37.83,
+      "sr": 87.19,
+      "fifties": 54,
+      "hundreds": 25
+    },
+    "test": {
+      "matches": 103,
+      "runs": 7214,
+      "avg": 42.18,
+      "sr": 60.26,
+      "fifties": 37,
+      "hundreds": 15
+    },
+    "bowling": {
+      "t20i_economy": 7.57,
+      "odi_economy": 4.78,
+      "wickets_odi": 167,
+      "wickets_t20i": 20
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "six_hitter",
+      "match_winner"
+    ],
+    "power_play_sr": 150.0,
+    "death_over_sr": 190.0,
+    "middle_overs_sr": 145.0,
+    "overall_score": 96,
+    "recent_form": 88,
+    "tags": [
+      "universe_boss",
+      "t20_king",
+      "legend",
+      "six_machine"
+    ],
+    "ovr": 93,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 89,
+      "PWR": 99,
+      "BWL": 55,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "lasith_malinga",
+    "name": "Lasith Malinga",
+    "country": "Sri Lanka",
+    "ipl_team": "Mumbai Indians",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast sling",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 84,
+      "runs": 136,
+      "avg": 6.47,
+      "sr": 85.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 226,
+      "runs": 567,
+      "avg": 7.76,
+      "sr": 74.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 30,
+      "runs": 275,
+      "avg": 11.45,
+      "sr": 55.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.42,
+      "odi_economy": 5.35,
+      "wickets_odi": 338,
+      "wickets_t20i": 107
+    },
+    "pitch_preference": [
+      "flat",
+      "seaming",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "death_bowler",
+      "death_specialist",
+      "yorker_specialist",
+      "powerplay_bowler"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 97,
+    "recent_form": 90,
+    "tags": [
+      "slinga",
+      "yorker_king",
+      "legend",
+      "t20_great"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 92,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "josh_hazlewood",
+    "name": "Josh Hazlewood",
+    "country": "Australia",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 51,
+      "runs": 24,
+      "avg": 6.0,
+      "sr": 62.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 88,
+      "runs": 101,
+      "avg": 7.76,
+      "sr": 58.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 70,
+      "runs": 612,
+      "avg": 11.76,
+      "sr": 39.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.74,
+      "odi_economy": 4.63,
+      "wickets_odi": 133,
+      "wickets_t20i": 64
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming",
+      "pace_friendly"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "new_ball_specialist",
+      "line_and_length",
+      "consistency"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 93,
+    "recent_form": 92,
+    "tags": [
+      "line_and_length",
+      "metronome",
+      "powerplay_controller",
+      "world_cup_winner"
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "adam_zampa",
+    "name": "Adam Zampa",
+    "country": "Australia",
+    "ipl_team": "Rajasthan Royals",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 92,
+      "runs": 72,
+      "avg": 6.0,
+      "sr": 68.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 102,
+      "runs": 224,
+      "avg": 7.46,
+      "sr": 65.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.28,
+      "odi_economy": 5.48,
+      "wickets_odi": 171,
+      "wickets_t20i": 111
+    },
+    "pitch_preference": [
+      "spinning",
+      "turning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "spinner",
+      "leg_spinner",
+      "spin_ace",
+      "middle_overs_controller"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 92,
+    "recent_form": 93,
+    "tags": [
+      "leg_spinner",
+      "wicket_taker",
+      "t20_champion",
+      "middle_overs"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 93,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "mitchell_marsh",
+    "name": "Mitchell Marsh",
+    "country": "Australia",
+    "ipl_team": "Delhi Capitals",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 60,
+      "runs": 1500,
+      "avg": 34.09,
+      "sr": 135.25,
+      "fifties": 9,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 89,
+      "runs": 2672,
+      "avg": 35.62,
+      "sr": 94.48,
+      "fifties": 18,
+      "hundreds": 2
+    },
+    "test": {
+      "matches": 42,
+      "runs": 2011,
+      "avg": 30.01,
+      "sr": 58.0,
+      "fifties": 9,
+      "hundreds": 3
+    },
+    "bowling": {
+      "t20i_economy": 8.16,
+      "odi_economy": 5.49,
+      "wickets_odi": 56,
+      "wickets_t20i": 17
+    },
+    "pitch_preference": [
+      "bouncy",
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "allrounder",
+      "power_hitter",
+      "top_order",
+      "captaincy"
+    ],
+    "power_play_sr": 145.0,
+    "death_over_sr": 170.0,
+    "middle_overs_sr": 138.0,
+    "overall_score": 90,
+    "recent_form": 89,
+    "tags": [
+      "allrounder",
+      "captain",
+      "power_hitter",
+      "t20_world_cup_hero"
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 88,
+      "BWL": 69,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "phil_salt",
+    "name": "Phil Salt",
+    "country": "England",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 35,
+      "runs": 978,
+      "avg": 36.22,
+      "sr": 165.76,
+      "fifties": 3,
+      "hundreds": 3
+    },
+    "odi": {
+      "matches": 24,
+      "runs": 718,
+      "avg": 34.19,
+      "sr": 128.9,
+      "fifties": 3,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "wicketkeeper",
+      "ultra_aggressive"
+    ],
+    "power_play_sr": 175.0,
+    "death_over_sr": 170.0,
+    "middle_overs_sr": 150.0,
+    "overall_score": 91,
+    "recent_form": 94,
+    "tags": [
+      "opener",
+      "explosive",
+      "centurion",
+      "aggressive"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 94,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "harry_brook",
+    "name": "Harry Brook",
+    "country": "England",
+    "ipl_team": "Delhi Capitals",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 39,
+      "runs": 709,
+      "avg": 30.82,
+      "sr": 146.48,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 20,
+      "runs": 550,
+      "avg": 32.35,
+      "sr": 99.45,
+      "fifties": 4,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 19,
+      "runs": 1878,
+      "avg": 58.68,
+      "sr": 89.2,
+      "fifties": 9,
+      "hundreds": 6
+    },
+    "bowling": {
+      "t20i_economy": 9.2,
+      "odi_economy": 7.1,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas"
+    ],
+    "specialties": [
+      "middle_order",
+      "power_hitter",
+      "360_player",
+      "innovative"
+    ],
+    "power_play_sr": 135.0,
+    "death_over_sr": 185.0,
+    "middle_overs_sr": 152.0,
+    "overall_score": 91,
+    "recent_form": 93,
+    "tags": [
+      "future_star",
+      "bazball",
+      "power_hitter",
+      "prodigy"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 97,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "adil_rashid",
+    "name": "Adil Rashid",
+    "country": "England",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 114,
+      "runs": 105,
+      "avg": 7.0,
+      "sr": 85.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 140,
+      "runs": 905,
+      "avg": 17.74,
+      "sr": 95.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 19,
+      "runs": 512,
+      "avg": 19.69,
+      "sr": 48.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.37,
+      "odi_economy": 5.67,
+      "wickets_odi": 205,
+      "wickets_t20i": 122
+    },
+    "pitch_preference": [
+      "spinning",
+      "turning",
+      "all"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "spinner",
+      "leg_spinner",
+      "spin_ace",
+      "googlies",
+      "middle_overs_controller"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 93,
+    "recent_form": 93,
+    "tags": [
+      "leg_spinner",
+      "googly_master",
+      "t20_number_one",
+      "world_cup_winner"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 28,
+      "PWR": 65,
+      "BWL": 94,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "mohammad_rizwan",
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "ipl_team": null,
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 102,
+      "runs": 3313,
+      "avg": 48.72,
+      "sr": 126.45,
+      "fifties": 29,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 77,
+      "runs": 2182,
+      "avg": 40.4,
+      "sr": 89.28,
+      "fifties": 14,
+      "hundreds": 3
+    },
+    "test": {
+      "matches": 32,
+      "runs": 1698,
+      "avg": 40.42,
+      "sr": 53.8,
+      "fifties": 9,
+      "hundreds": 3
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "anchor",
+      "wicketkeeper",
+      "consistency",
+      "pressure_performer"
+    ],
+    "power_play_sr": 120.0,
+    "death_over_sr": 155.0,
+    "middle_overs_sr": 128.0,
+    "overall_score": 92,
+    "recent_form": 89,
+    "tags": [
+      "anchor",
+      "consistent",
+      "superman_keeper",
+      "reliable"
+    ],
+    "ovr": 94,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 79,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "haris_rauf",
+    "name": "Haris Rauf",
+    "country": "Pakistan",
+    "ipl_team": null,
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 72,
+      "runs": 45,
+      "avg": 5.0,
+      "sr": 70.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 37,
+      "runs": 78,
+      "avg": 8.66,
+      "sr": 72.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 1,
+      "runs": 12,
+      "avg": 12.0,
+      "sr": 50.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.24,
+      "odi_economy": 5.92,
+      "wickets_odi": 69,
+      "wickets_t20i": 102
+    },
+    "pitch_preference": [
+      "bouncy",
+      "pace_friendly",
+      "flat"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "death_bowler",
+      "death_specialist",
+      "express_pace",
+      "wicket_taker"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 90,
+    "recent_form": 90,
+    "tags": [
+      "express_pace",
+      "150kmph",
+      "death_overs",
+      "wicket_hunter"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 50,
+      "BWL": 86,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "naseem_shah",
+    "name": "Naseem Shah",
+    "country": "Pakistan",
+    "ipl_team": null,
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 28,
+      "runs": 44,
+      "avg": 8.8,
+      "sr": 110.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 14,
+      "runs": 40,
+      "avg": 10.0,
+      "sr": 80.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 19,
+      "runs": 182,
+      "avg": 9.57,
+      "sr": 40.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.3,
+      "odi_economy": 4.76,
+      "wickets_odi": 32,
+      "wickets_t20i": 24
+    },
+    "pitch_preference": [
+      "seaming",
+      "bouncy",
+      "swing"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "new_ball_specialist",
+      "swing_bowler",
+      "express_pace"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 90,
+    "recent_form": 91,
+    "tags": [
+      "genuine_pace",
+      "swing",
+      "powerplay_master",
+      "young_gun"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 30,
+      "PWR": 53,
+      "BWL": 84,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "david_miller",
+    "name": "David Miller",
+    "country": "South Africa",
+    "ipl_team": "Gujarat Titans",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 125,
+      "runs": 2437,
+      "avg": 33.84,
+      "sr": 140.94,
+      "fifties": 7,
+      "hundreds": 2
+    },
+    "odi": {
+      "matches": 173,
+      "runs": 4458,
+      "avg": 42.45,
+      "sr": 103.38,
+      "fifties": 24,
+      "hundreds": 6
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "finisher",
+      "death_batsman",
+      "power_hitter",
+      "pressure_performer"
+    ],
+    "power_play_sr": 125.0,
+    "death_over_sr": 195.0,
+    "middle_overs_sr": 138.0,
+    "overall_score": 92,
+    "recent_form": 91,
+    "tags": [
+      "killer_miller",
+      "finisher",
+      "clutch",
+      "chase_master"
+    ],
+    "ovr": 93,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 92,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "anrich_nortje",
+    "name": "Anrich Nortje",
+    "country": "South Africa",
+    "ipl_team": "Delhi Capitals",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 40,
+      "runs": 25,
+      "avg": 5.0,
+      "sr": 65.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 22,
+      "runs": 41,
+      "avg": 6.83,
+      "sr": 60.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 19,
+      "runs": 169,
+      "avg": 10.56,
+      "sr": 38.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.14,
+      "odi_economy": 5.85,
+      "wickets_odi": 36,
+      "wickets_t20i": 53
+    },
+    "pitch_preference": [
+      "bouncy",
+      "pace_friendly",
+      "hard"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "express_pace",
+      "death_bowler",
+      "bouncers",
+      "middle_overs_enforcer"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 92,
+    "recent_form": 91,
+    "tags": [
+      "155kmph",
+      "speed_demon",
+      "yorker",
+      "bouncer"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 50,
+      "BWL": 88,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "devon_conway",
+    "name": "Devon Conway",
+    "country": "New Zealand",
+    "ipl_team": "Chennai Super Kings",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 50,
+      "runs": 1408,
+      "avg": 38.05,
+      "sr": 128.0,
+      "fifties": 10,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 32,
+      "runs": 1276,
+      "avg": 45.57,
+      "sr": 87.5,
+      "fifties": 6,
+      "hundreds": 5
+    },
+    "test": {
+      "matches": 20,
+      "runs": 1497,
+      "avg": 41.58,
+      "sr": 48.0,
+      "fifties": 8,
+      "hundreds": 4
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "anchor",
+      "wicketkeeper",
+      "consistency",
+      "spin_player"
+    ],
+    "power_play_sr": 132.0,
+    "death_over_sr": 145.0,
+    "middle_overs_sr": 128.0,
+    "overall_score": 90,
+    "recent_form": 88,
+    "tags": [
+      "opener",
+      "consistent",
+      "spin_master",
+      "anchor"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 92,
+      "PWR": 73,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "daryl_mitchell",
+    "name": "Daryl Mitchell",
+    "country": "New Zealand",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 66,
+      "runs": 1260,
+      "avg": 25.71,
+      "sr": 138.15,
+      "fifties": 5,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 39,
+      "runs": 1577,
+      "avg": 52.56,
+      "sr": 98.43,
+      "fifties": 5,
+      "hundreds": 6
+    },
+    "test": {
+      "matches": 24,
+      "runs": 1608,
+      "avg": 50.25,
+      "sr": 52.0,
+      "fifties": 10,
+      "hundreds": 5
+    },
+    "bowling": {
+      "t20i_economy": 8.5,
+      "odi_economy": 5.9,
+      "wickets_odi": 15,
+      "wickets_t20i": 8
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all",
+      "overseas"
+    ],
+    "specialties": [
+      "middle_order",
+      "spin_hitter",
+      "allrounder",
+      "crisis_man"
+    ],
+    "power_play_sr": 125.0,
+    "death_over_sr": 178.0,
+    "middle_overs_sr": 145.0,
+    "overall_score": 91,
+    "recent_form": 93,
+    "tags": [
+      "middle_order_beast",
+      "spin_basher",
+      "clutch",
+      "world_cup_star"
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 99,
+      "PWR": 92,
+      "BWL": 67,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "rachin_ravindra",
+    "name": "Rachin Ravindra",
+    "country": "New Zealand",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 23,
+      "runs": 231,
+      "avg": 16.5,
+      "sr": 133.52,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 25,
+      "runs": 820,
+      "avg": 41.0,
+      "sr": 108.0,
+      "fifties": 3,
+      "hundreds": 3
+    },
+    "test": {
+      "matches": 9,
+      "runs": 632,
+      "avg": 39.5,
+      "sr": 55.0,
+      "fifties": 2,
+      "hundreds": 2
+    },
+    "bowling": {
+      "t20i_economy": 7.12,
+      "odi_economy": 5.95,
+      "wickets_odi": 18,
+      "wickets_t20i": 11
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "allrounder",
+      "opener",
+      "spinner",
+      "left_arm_spinner",
+      "clean_striker"
+    ],
+    "power_play_sr": 150.0,
+    "death_over_sr": 155.0,
+    "middle_overs_sr": 135.0,
+    "overall_score": 89,
+    "recent_form": 92,
+    "tags": [
+      "young_talent",
+      "world_cup_breakout",
+      "allrounder",
+      "stylish"
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 85,
+      "PWR": 79,
+      "BWL": 74,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "glenn_phillips",
+    "name": "Glenn Phillips",
+    "country": "New Zealand",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 78,
+      "runs": 1875,
+      "avg": 31.77,
+      "sr": 143.45,
+      "fifties": 10,
+      "hundreds": 2
+    },
+    "odi": {
+      "matches": 30,
+      "runs": 750,
+      "avg": 34.09,
+      "sr": 95.0,
+      "fifties": 4,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 9,
+      "runs": 455,
+      "avg": 35.0,
+      "sr": 70.0,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.45,
+      "odi_economy": 5.2,
+      "wickets_odi": 12,
+      "wickets_t20i": 16
+    },
+    "pitch_preference": [
+      "bouncy",
+      "spinning",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "power_hitter",
+      "finisher",
+      "spinner",
+      "360_player",
+      "super_fielder"
+    ],
+    "power_play_sr": 130.0,
+    "death_over_sr": 188.0,
+    "middle_overs_sr": 142.0,
+    "overall_score": 90,
+    "recent_form": 91,
+    "tags": [
+      "gun_fielder",
+      "power_hitter",
+      "spin_bowler",
+      "electric"
+    ],
+    "ovr": 85,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 98,
+      "BWL": 72,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "sunil_narine",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak mystery",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 51,
+      "runs": 155,
+      "avg": 10.33,
+      "sr": 112.31,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 65,
+      "runs": 363,
+      "avg": 11.0,
+      "sr": 85.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 6,
+      "runs": 126,
+      "avg": 15.75,
+      "sr": 60.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.01,
+      "odi_economy": 4.12,
+      "wickets_odi": 92,
+      "wickets_t20i": 52
+    },
+    "pitch_preference": [
+      "spinning",
+      "turning",
+      "flat"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "spinner",
+      "mystery_spinner",
+      "spin_ace",
+      "opener",
+      "pinch_hitter",
+      "powerplay_bowler"
+    ],
+    "power_play_sr": 178.0,
+    "death_over_sr": 160.0,
+    "middle_overs_sr": 135.0,
+    "overall_score": 96,
+    "recent_form": 96,
+    "tags": [
+      "mystery_spinner",
+      "ipl_mvp",
+      "pinch_hitter",
+      "economy_king"
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 65,
+      "PWR": 82,
+      "BWL": 79,
+      "CLU": 89,
+      "FLD": 97,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "matheesha_pathirana",
+    "name": "Matheesha Pathirana",
+    "country": "Sri Lanka",
+    "ipl_team": "Chennai Super Kings",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast sling",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 16,
+      "runs": 4,
+      "avg": 2.0,
+      "sr": 50.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 12,
+      "runs": 8,
+      "avg": 4.0,
+      "sr": 45.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.82,
+      "odi_economy": 6.48,
+      "wickets_odi": 17,
+      "wickets_t20i": 25
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "death_bowler",
+      "death_specialist",
+      "yorker_specialist",
+      "slower_balls"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 91,
+    "recent_form": 94,
+    "tags": [
+      "baby_malinga",
+      "death_overs",
+      "yorkers",
+      "ipl_star"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 81,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "shivam_dube",
+    "name": "Shivam Dube",
+    "country": "India",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 33,
+      "runs": 448,
+      "avg": 37.33,
+      "sr": 139.56,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 3,
+      "runs": 34,
+      "avg": 17.0,
+      "sr": 80.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 9.4,
+      "odi_economy": 6.8,
+      "wickets_odi": 1,
+      "wickets_t20i": 11
+    },
+    "pitch_preference": [
+      "spinning",
+      "flat",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "spin_destroyer",
+      "power_hitter",
+      "middle_overs_hitter",
+      "six_hitter"
+    ],
+    "power_play_sr": 120.0,
+    "death_over_sr": 175.0,
+    "middle_overs_sr": 165.0,
+    "overall_score": 88,
+    "recent_form": 90,
+    "tags": [
+      "spin_killer",
+      "six_machine",
+      "world_cup_winner",
+      "monster_hits"
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 80,
+      "PWR": 91,
+      "BWL": 65,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "ruturaj_gaikwad",
+    "name": "Ruturaj Gaikwad",
+    "country": "India",
+    "ipl_team": "Chennai Super Kings",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 23,
+      "runs": 633,
+      "avg": 39.56,
+      "sr": 143.53,
+      "fifties": 4,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 6,
+      "runs": 115,
+      "avg": 19.16,
+      "sr": 73.24,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "spinning"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "anchor",
+      "consistency",
+      "elegant_strokeplay",
+      "captaincy"
+    ],
+    "power_play_sr": 138.0,
+    "death_over_sr": 185.0,
+    "middle_overs_sr": 142.0,
+    "overall_score": 90,
+    "recent_form": 91,
+    "tags": [
+      "opener",
+      "csk_captain",
+      "orange_cap",
+      "classical"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 85,
+      "PWR": 97,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "abhishek_sharma",
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I"
+    ],
+    "t20i": {
+      "matches": 10,
+      "runs": 180,
+      "avg": 22.5,
+      "sr": 172.0,
+      "fifties": 0,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.0,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 4
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "powerplay_demolisher",
+      "spinner",
+      "six_hitter"
+    ],
+    "power_play_sr": 205.0,
+    "death_over_sr": 160.0,
+    "middle_overs_sr": 150.0,
+    "overall_score": 88,
+    "recent_form": 92,
+    "tags": [
+      "powerplay_beast",
+      "six_hitter",
+      "young_gun",
+      "ipl_breakout"
+    ],
+    "ovr": 80,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 71,
+      "PWR": 89,
+      "BWL": 70,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "varun_chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "country": "India",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak mystery",
+    "image_url": "",
+    "formats": [
+      "T20I"
+    ],
+    "t20i": {
+      "matches": 11,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.25,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 14
+    },
+    "pitch_preference": [
+      "spinning",
+      "turning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "spinner",
+      "mystery_spinner",
+      "spin_ace",
+      "middle_overs_controller"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 90,
+    "recent_form": 95,
+    "tags": [
+      "mystery_spin",
+      "carrom_ball",
+      "ipl_champion",
+      "wickets"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 90,
+      "CLU": 88,
+      "FLD": 85,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "tristan_stubbs",
+    "name": "Tristan Stubbs",
+    "country": "South Africa",
+    "ipl_team": "Delhi Capitals",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 29,
+      "runs": 512,
+      "avg": 28.44,
+      "sr": 140.27,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 5,
+      "runs": 150,
+      "avg": 37.5,
+      "sr": 110.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 3,
+      "runs": 204,
+      "avg": 40.8,
+      "sr": 55.0,
+      "fifties": 1,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": 7.8,
+      "odi_economy": 6.2,
+      "wickets_odi": 1,
+      "wickets_t20i": 2
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "finisher",
+      "360_player",
+      "power_hitter",
+      "spin_player"
+    ],
+    "power_play_sr": 130.0,
+    "death_over_sr": 210.0,
+    "middle_overs_sr": 155.0,
+    "overall_score": 89,
+    "recent_form": 93,
+    "tags": [
+      "finisher",
+      "360_degree",
+      "super_talent",
+      "death_overs"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 99,
+      "BWL": 26,
+      "CLU": 87,
+      "FLD": 97,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "fakhar_zaman",
+    "name": "Fakhar Zaman",
+    "country": "Pakistan",
+    "ipl_team": null,
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 92,
+      "runs": 1848,
+      "avg": 23.39,
+      "sr": 132.85,
+      "fifties": 11,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 82,
+      "runs": 3492,
+      "avg": 46.56,
+      "sr": 93.31,
+      "fifties": 16,
+      "hundreds": 11
+    },
+    "test": {
+      "matches": 3,
+      "runs": 192,
+      "avg": 32.0,
+      "sr": 55.0,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.0,
+      "odi_economy": 5.4,
+      "wickets_odi": 1,
+      "wickets_t20i": 1
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "big_match_player",
+      "double_centurion"
+    ],
+    "power_play_sr": 142.0,
+    "death_over_sr": 175.0,
+    "middle_overs_sr": 138.0,
+    "overall_score": 90,
+    "recent_form": 88,
+    "tags": [
+      "big_match_player",
+      "double_hundred",
+      "explosive",
+      "clutch"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 95,
+      "PWR": 91,
+      "BWL": 26,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "bhuvneshwar_kumar",
+    "name": "Bhuvneshwar Kumar",
+    "country": "India",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast swing",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 87,
+      "runs": 67,
+      "avg": 8.37,
+      "sr": 68.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 121,
+      "runs": 552,
+      "avg": 14.15,
+      "sr": 74.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 21,
+      "runs": 552,
+      "avg": 22.08,
+      "sr": 44.0,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.96,
+      "odi_economy": 5.08,
+      "wickets_odi": 141,
+      "wickets_t20i": 90
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "green_top"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "swing_bowler",
+      "powerplay_bowler",
+      "new_ball_specialist",
+      "knuckleball",
+      "death_bowler"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 92,
+    "recent_form": 89,
+    "tags": [
+      "swing_king",
+      "purple_cap",
+      "powerplay_master",
+      "economy"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 30,
+      "PWR": 50,
+      "BWL": 93,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "suresh_raina",
+    "name": "Suresh Raina",
+    "country": "India",
+    "ipl_team": "Chennai Super Kings",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 78,
+      "runs": 1605,
+      "avg": 29.18,
+      "sr": 134.87,
+      "fifties": 5,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 226,
+      "runs": 5615,
+      "avg": 35.31,
+      "sr": 93.5,
+      "fifties": 36,
+      "hundreds": 5
+    },
+    "test": {
+      "matches": 18,
+      "runs": 768,
+      "avg": 26.48,
+      "sr": 48.0,
+      "fifties": 7,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": 7.08,
+      "odi_economy": 5.1,
+      "wickets_odi": 36,
+      "wickets_t20i": 13
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "middle_order",
+      "finisher",
+      "spin_hitter",
+      "allrounder",
+      "gun_fielder"
+    ],
+    "power_play_sr": 130.0,
+    "death_over_sr": 180.0,
+    "middle_overs_sr": 140.0,
+    "overall_score": 94,
+    "recent_form": 88,
+    "tags": [
+      "mr_ipl",
+      "csk_legend",
+      "world_cup_winner",
+      "electric_fielder"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 87,
+      "PWR": 94,
+      "BWL": 55,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "yuvraj_singh",
+    "name": "Yuvraj Singh",
+    "country": "India",
+    "ipl_team": "Punjab Kings",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 58,
+      "runs": 1177,
+      "avg": 28.02,
+      "sr": 136.38,
+      "fifties": 8,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 304,
+      "runs": 8701,
+      "avg": 36.55,
+      "sr": 87.67,
+      "fifties": 52,
+      "hundreds": 14
+    },
+    "test": {
+      "matches": 40,
+      "runs": 1900,
+      "avg": 33.92,
+      "sr": 58.0,
+      "fifties": 11,
+      "hundreds": 3
+    },
+    "bowling": {
+      "t20i_economy": 7.06,
+      "odi_economy": 5.1,
+      "wickets_odi": 111,
+      "wickets_t20i": 28
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "allrounder",
+      "power_hitter",
+      "finisher",
+      "six_hitter",
+      "big_match_player",
+      "middle_overs_controller"
+    ],
+    "power_play_sr": 125.0,
+    "death_over_sr": 190.0,
+    "middle_overs_sr": 145.0,
+    "overall_score": 97,
+    "recent_form": 90,
+    "tags": [
+      "six_sixes",
+      "player_of_tournament",
+      "world_cup_hero",
+      "legend"
+    ],
+    "ovr": 90,
+    "card_tier": "ICON",
+    "tier_color": "gold_icon",
+    "ea_stats": {
+      "BAT": 88,
+      "PWR": 99,
+      "BWL": 74,
+      "CLU": 98,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "virender_sehwag",
+    "name": "Virender Sehwag",
+    "country": "India",
+    "ipl_team": "Delhi Capitals",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "ODI",
+      "Test",
+      "T20I"
+    ],
+    "t20i": {
+      "matches": 19,
+      "runs": 394,
+      "avg": 21.88,
+      "sr": 145.38,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 251,
+      "runs": 8273,
+      "avg": 35.05,
+      "sr": 104.33,
+      "fifties": 38,
+      "hundreds": 15
+    },
+    "test": {
+      "matches": 104,
+      "runs": 8586,
+      "avg": 49.34,
+      "sr": 82.23,
+      "fifties": 32,
+      "hundreds": 23
+    },
+    "bowling": {
+      "t20i_economy": 7.8,
+      "odi_economy": 5.26,
+      "wickets_odi": 96,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "hard"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "boundary_hitter",
+      "fearless"
+    ],
+    "power_play_sr": 160.0,
+    "death_over_sr": 150.0,
+    "middle_overs_sr": 125.0,
+    "overall_score": 96,
+    "recent_form": 88,
+    "tags": [
+      "viru",
+      "triple_century",
+      "boundary_first_ball",
+      "legend"
+    ],
+    "ovr": 89,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 87,
+      "PWR": 76,
+      "BWL": 55,
+      "CLU": 89,
+      "FLD": 83,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "rahmanullah_gurbaz",
+    "name": "Rahmanullah Gurbaz",
+    "country": "Afghanistan",
+    "ipl_team": "Kolkata Knight Riders",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 63,
+      "runs": 1657,
+      "avg": 26.72,
+      "sr": 135.59,
+      "fifties": 10,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 43,
+      "runs": 1642,
+      "avg": 39.09,
+      "sr": 88.04,
+      "fifties": 6,
+      "hundreds": 8
+    },
+    "test": {
+      "matches": 2,
+      "runs": 97,
+      "avg": 24.25,
+      "sr": 70.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "wicketkeeper",
+      "fearless"
+    ],
+    "power_play_sr": 150.0,
+    "death_over_sr": 165.0,
+    "middle_overs_sr": 130.0,
+    "overall_score": 90,
+    "recent_form": 93,
+    "tags": [
+      "opener",
+      "world_cup_top_scorer",
+      "six_hitter",
+      "afghan_star"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 85,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "fazalhaq_farooqi",
+    "name": "Fazalhaq Farooqi",
+    "country": "Afghanistan",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 42,
+      "runs": 9,
+      "avg": 3.0,
+      "sr": 50.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 36,
+      "runs": 36,
+      "avg": 4.5,
+      "sr": 40.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.78,
+      "odi_economy": 5.4,
+      "wickets_odi": 48,
+      "wickets_t20i": 54
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all",
+      "overseas"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "swing_bowler",
+      "new_ball_specialist",
+      "left_arm_angle"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 91,
+    "recent_form": 94,
+    "tags": [
+      "swing",
+      "powerplay_wickets",
+      "t20_wc_highest_wickets",
+      "left_arm"
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 91,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "mustafizur_rahman",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "ipl_team": "Chennai Super Kings",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium cutter",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 103,
+      "runs": 92,
+      "avg": 4.84,
+      "sr": 60.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 105,
+      "runs": 158,
+      "avg": 7.18,
+      "sr": 55.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 15,
+      "runs": 66,
+      "avg": 4.4,
+      "sr": 35.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.37,
+      "odi_economy": 5.12,
+      "wickets_odi": 164,
+      "wickets_t20i": 128
+    },
+    "pitch_preference": [
+      "slow",
+      "gripping",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "cutter_specialist",
+      "death_bowler",
+      "death_specialist",
+      "slower_balls",
+      "left_arm_angle"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 91,
+    "recent_form": 92,
+    "tags": [
+      "fizz",
+      "cutters",
+      "death_overs",
+      "left_arm_expert"
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 94,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "shai_hope",
+    "name": "Shai Hope",
+    "country": "West Indies",
+    "ipl_team": "Delhi Capitals",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "ODI",
+      "T20I",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 34,
+      "runs": 664,
+      "avg": 25.53,
+      "sr": 133.06,
+      "fifties": 4,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 128,
+      "runs": 5177,
+      "avg": 50.26,
+      "sr": 78.4,
+      "fifties": 25,
+      "hundreds": 16
+    },
+    "test": {
+      "matches": 38,
+      "runs": 1726,
+      "avg": 25.01,
+      "sr": 44.0,
+      "fifties": 5,
+      "hundreds": 2
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "subcontinent",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all",
+      "overseas"
+    ],
+    "specialties": [
+      "anchor",
+      "wicketkeeper",
+      "consistency",
+      "run_scorer",
+      "captaincy"
+    ],
+    "power_play_sr": 115.0,
+    "death_over_sr": 140.0,
+    "middle_overs_sr": 120.0,
+    "overall_score": 90,
+    "recent_form": 89,
+    "tags": [
+      "anchor",
+      "odi_machine",
+      "captain",
+      "classic"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 98,
+      "PWR": 70,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "sikandar_raza",
+    "name": "Sikandar Raza",
+    "country": "Zimbabwe",
+    "ipl_team": "Punjab Kings",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 91,
+      "runs": 2038,
+      "avg": 25.16,
+      "sr": 134.87,
+      "fifties": 14,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 142,
+      "runs": 4154,
+      "avg": 36.43,
+      "sr": 84.89,
+      "fifties": 21,
+      "hundreds": 7
+    },
+    "test": {
+      "matches": 17,
+      "runs": 1187,
+      "avg": 35.96,
+      "sr": 58.0,
+      "fifties": 8,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": 7.15,
+      "odi_economy": 4.9,
+      "wickets_odi": 88,
+      "wickets_t20i": 65
+    },
+    "pitch_preference": [
+      "spinning",
+      "flat",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "allrounder",
+      "middle_order",
+      "spinner",
+      "power_hitter",
+      "clutch"
+    ],
+    "power_play_sr": 120.0,
+    "death_over_sr": 175.0,
+    "middle_overs_sr": 140.0,
+    "overall_score": 90,
+    "recent_form": 91,
+    "tags": [
+      "allrounder",
+      "zimbabwe_king",
+      "franchise_star",
+      "clutch"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 88,
+      "PWR": 91,
+      "BWL": 74,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "saurabh_netravalkar",
+    "name": "Saurabh Netravalkar",
+    "country": "USA",
+    "ipl_team": null,
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast-medium swing",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 35,
+      "runs": 28,
+      "avg": 5.6,
+      "sr": 65.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 48,
+      "runs": 142,
+      "avg": 9.46,
+      "sr": 55.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.85,
+      "odi_economy": 4.52,
+      "wickets_odi": 73,
+      "wickets_t20i": 34
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "swing_bowler",
+      "powerplay_bowler",
+      "super_over_specialist",
+      "left_arm_angle"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 87,
+    "recent_form": 93,
+    "tags": [
+      "super_over_hero",
+      "techie_cricketer",
+      "swing",
+      "world_cup_star"
+    ],
+    "ovr": 87,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 26,
+      "PWR": 50,
+      "BWL": 88,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "dwayne_bravo",
+    "name": "Dwayne Bravo",
+    "country": "West Indies",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 91,
+      "runs": 1255,
+      "avg": 22.01,
+      "sr": 115.03,
+      "fifties": 4,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 164,
+      "runs": 2968,
+      "avg": 25.36,
+      "sr": 82.4,
+      "fifties": 10,
+      "hundreds": 2
+    },
+    "test": {
+      "matches": 40,
+      "runs": 2200,
+      "avg": 31.42,
+      "sr": 54.0,
+      "fifties": 13,
+      "hundreds": 3
+    },
+    "bowling": {
+      "t20i_economy": 8.11,
+      "odi_economy": 5.41,
+      "wickets_odi": 199,
+      "wickets_t20i": 78
+    },
+    "pitch_preference": [
+      "slow",
+      "gripping",
+      "flat"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "death_bowler",
+      "death_specialist",
+      "slower_balls",
+      "finisher",
+      "allrounder"
+    ],
+    "power_play_sr": 110.0,
+    "death_over_sr": 185.0,
+    "middle_overs_sr": 130.0,
+    "overall_score": 94,
+    "recent_form": 88,
+    "tags": [
+      "champion",
+      "slower_ball_king",
+      "csk_legend",
+      "death_overs"
+    ],
+    "ovr": 83,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 72,
+      "PWR": 97,
+      "BWL": 69,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "dale_steyn",
+    "name": "Dale Steyn",
+    "country": "South Africa",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "Test",
+      "ODI",
+      "T20I"
+    ],
+    "t20i": {
+      "matches": 47,
+      "runs": 21,
+      "avg": 3.5,
+      "sr": 70.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 125,
+      "runs": 365,
+      "avg": 9.6,
+      "sr": 68.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 93,
+      "runs": 1251,
+      "avg": 13.59,
+      "sr": 58.0,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.79,
+      "odi_economy": 4.87,
+      "wickets_odi": 196,
+      "wickets_t20i": 64
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming",
+      "pace_friendly"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "express_pace",
+      "outswing",
+      "strike_bowler"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 98,
+    "recent_form": 90,
+    "tags": [
+      "steyn_gun",
+      "legend",
+      "fastest_bowler",
+      "outswing_master"
+    ],
+    "ovr": 92,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 92,
+      "CLU": 89,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "shikhar_dhawan",
+    "name": "Shikhar Dhawan",
+    "country": "India",
+    "ipl_team": "Punjab Kings",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "ODI",
+      "T20I",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 68,
+      "runs": 1759,
+      "avg": 27.92,
+      "sr": 126.36,
+      "fifties": 11,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 167,
+      "runs": 6793,
+      "avg": 44.11,
+      "sr": 91.35,
+      "fifties": 39,
+      "hundreds": 17
+    },
+    "test": {
+      "matches": 34,
+      "runs": 2315,
+      "avg": 40.61,
+      "sr": 66.94,
+      "fifties": 5,
+      "hundreds": 7
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "opener",
+      "icc_tournament_specialist",
+      "boundary_hitter",
+      "run_scorer"
+    ],
+    "power_play_sr": 136.0,
+    "death_over_sr": 155.0,
+    "middle_overs_sr": 128.0,
+    "overall_score": 92,
+    "recent_form": 88,
+    "tags": [
+      "gabbar",
+      "icc_events_king",
+      "opener",
+      "mister_reliable"
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 79,
+      "BWL": 25,
+      "CLU": 88,
+      "FLD": 83,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "ishan_kishan",
+    "name": "Ishan Kishan",
+    "country": "India",
+    "ipl_team": "Mumbai Indians",
+    "role": "Wicket-keeper Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 32,
+      "runs": 796,
+      "avg": 25.67,
+      "sr": 124.37,
+      "fifties": 6,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 27,
+      "runs": 933,
+      "avg": 42.4,
+      "sr": 102.19,
+      "fifties": 7,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 2,
+      "runs": 78,
+      "avg": 78.0,
+      "sr": 85.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "wicketkeeper",
+      "double_centurion",
+      "six_hitter"
+    ],
+    "power_play_sr": 148.0,
+    "death_over_sr": 170.0,
+    "middle_overs_sr": 135.0,
+    "overall_score": 89,
+    "recent_form": 89,
+    "tags": [
+      "pocket_dynamo",
+      "double_hundred",
+      "opener",
+      "wicketkeeper"
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 82,
+      "PWR": 88,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "rovman_powell",
+    "name": "Rovman Powell",
+    "country": "West Indies",
+    "ipl_team": "Rajasthan Royals",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 82,
+      "runs": 1490,
+      "avg": 25.68,
+      "sr": 145.22,
+      "fifties": 6,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 51,
+      "runs": 972,
+      "avg": 22.6,
+      "sr": 88.0,
+      "fifties": 2,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.8,
+      "odi_economy": 6.1,
+      "wickets_odi": 3,
+      "wickets_t20i": 5
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "power_hitter",
+      "finisher",
+      "captaincy",
+      "six_hitter"
+    ],
+    "power_play_sr": 120.0,
+    "death_over_sr": 200.0,
+    "middle_overs_sr": 150.0,
+    "overall_score": 88,
+    "recent_form": 90,
+    "tags": [
+      "windies_captain",
+      "power_hitter",
+      "six_monster",
+      "finisher"
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 76,
+      "PWR": 99,
+      "BWL": 66,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "maheesh_theekshana",
+    "name": "Maheesh Theekshana",
+    "country": "Sri Lanka",
+    "ipl_team": "Chennai Super Kings",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak mystery carrom",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 53,
+      "runs": 32,
+      "avg": 4.57,
+      "sr": 60.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 47,
+      "runs": 220,
+      "avg": 11.0,
+      "sr": 58.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 2,
+      "runs": 48,
+      "avg": 16.0,
+      "sr": 38.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.72,
+      "odi_economy": 4.65,
+      "wickets_odi": 62,
+      "wickets_t20i": 49
+    },
+    "pitch_preference": [
+      "spinning",
+      "turning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "spinner",
+      "mystery_spinner",
+      "spin_ace",
+      "carrom_ball"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 91,
+    "recent_form": 92,
+    "tags": [
+      "carrom_ball",
+      "powerplay_spin",
+      "csk_mystery",
+      "economy"
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 91,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "mitchell_santner",
+    "name": "Mitchell Santner",
+    "country": "New Zealand",
+    "ipl_team": "Chennai Super Kings",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 104,
+      "runs": 665,
+      "avg": 17.5,
+      "sr": 122.91,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 107,
+      "runs": 1358,
+      "avg": 27.71,
+      "sr": 90.41,
+      "fifties": 3,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 28,
+      "runs": 935,
+      "avg": 24.6,
+      "sr": 48.0,
+      "fifties": 3,
+      "hundreds": 1
+    },
+    "bowling": {
+      "t20i_economy": 7.04,
+      "odi_economy": 4.88,
+      "wickets_odi": 109,
+      "wickets_t20i": 115
+    },
+    "pitch_preference": [
+      "spinning",
+      "turning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all",
+      "overseas"
+    ],
+    "specialties": [
+      "spinner",
+      "left_arm_spinner",
+      "allrounder",
+      "captaincy",
+      "middle_overs_controller",
+      "tight_economy"
+    ],
+    "power_play_sr": 110.0,
+    "death_over_sr": 150.0,
+    "middle_overs_sr": 125.0,
+    "overall_score": 92,
+    "recent_form": 94,
+    "tags": [
+      "blackcaps_captain",
+      "spin_master",
+      "economical",
+      "allrounder"
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 69,
+      "PWR": 76,
+      "BWL": 74,
+      "CLU": 88,
+      "FLD": 97,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "pathum_nissanka",
+    "name": "Pathum Nissanka",
+    "country": "Sri Lanka",
+    "ipl_team": null,
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 55,
+      "runs": 1475,
+      "avg": 28.36,
+      "sr": 122.5,
+      "fifties": 11,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 59,
+      "runs": 2348,
+      "avg": 44.29,
+      "sr": 89.92,
+      "fifties": 14,
+      "hundreds": 6
+    },
+    "test": {
+      "matches": 11,
+      "runs": 757,
+      "avg": 42.05,
+      "sr": 52.0,
+      "fifties": 5,
+      "hundreds": 2
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "subcontinent"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "opener",
+      "anchor",
+      "consistency",
+      "double_centurion"
+    ],
+    "power_play_sr": 130.0,
+    "death_over_sr": 150.0,
+    "middle_overs_sr": 125.0,
+    "overall_score": 89,
+    "recent_form": 92,
+    "tags": [
+      "double_hundred",
+      "opener",
+      "lankan_star",
+      "consistent"
+    ],
+    "ovr": 88,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 93,
+      "PWR": 76,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "tim_david",
+    "name": "Tim David",
+    "country": "Australia",
+    "ipl_team": "Mumbai Indians",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I"
+    ],
+    "t20i": {
+      "matches": 46,
+      "runs": 1092,
+      "avg": 34.12,
+      "sr": 162.5,
+      "fifties": 5,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 4,
+      "runs": 45,
+      "avg": 11.25,
+      "sr": 95.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 9.2,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 5
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "finisher",
+      "power_hitter",
+      "death_batsman",
+      "six_hitter"
+    ],
+    "power_play_sr": 125.0,
+    "death_over_sr": 215.0,
+    "middle_overs_sr": 155.0,
+    "overall_score": 88,
+    "recent_form": 90,
+    "tags": [
+      "finisher",
+      "monster_striker",
+      "death_overs",
+      "powerhouse"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 78,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 94
+    }
+  },
+  {
+    "id": "cameron_green",
+    "name": "Cameron Green",
+    "country": "Australia",
+    "ipl_team": "Royal Challengers Bengaluru",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 11,
+      "runs": 204,
+      "avg": 22.66,
+      "sr": 167.21,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 26,
+      "runs": 552,
+      "avg": 36.8,
+      "sr": 92.46,
+      "fifties": 2,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 28,
+      "runs": 1306,
+      "avg": 36.27,
+      "sr": 49.0,
+      "fifties": 6,
+      "hundreds": 2
+    },
+    "bowling": {
+      "t20i_economy": 8.9,
+      "odi_economy": 5.4,
+      "wickets_odi": 16,
+      "wickets_t20i": 6
+    },
+    "pitch_preference": [
+      "bouncy",
+      "flat",
+      "seaming"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "allrounder",
+      "opener",
+      "power_hitter",
+      "bounce_bowler"
+    ],
+    "power_play_sr": 172.0,
+    "death_over_sr": 165.0,
+    "middle_overs_sr": 140.0,
+    "overall_score": 90,
+    "recent_form": 91,
+    "tags": [
+      "tall_allrounder",
+      "power_striker",
+      "prodigy",
+      "aussie_gem"
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 78,
+      "PWR": 86,
+      "BWL": 65,
+      "CLU": 88,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "liam_livingstone",
+    "name": "Liam Livingstone",
+    "country": "England",
+    "ipl_team": "Punjab Kings",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak and offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 48,
+      "runs": 800,
+      "avg": 26.66,
+      "sr": 152.09,
+      "fifties": 2,
+      "hundreds": 1
+    },
+    "odi": {
+      "matches": 30,
+      "runs": 650,
+      "avg": 30.95,
+      "sr": 115.0,
+      "fifties": 4,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 1,
+      "runs": 16,
+      "avg": 8.0,
+      "sr": 50.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.2,
+      "odi_economy": 5.8,
+      "wickets_odi": 14,
+      "wickets_t20i": 25
+    },
+    "pitch_preference": [
+      "flat",
+      "bouncy",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "power_hitter",
+      "finisher",
+      "spinner",
+      "six_hitter",
+      "spin_variety"
+    ],
+    "power_play_sr": 135.0,
+    "death_over_sr": 200.0,
+    "middle_overs_sr": 155.0,
+    "overall_score": 89,
+    "recent_form": 91,
+    "tags": [
+      "monster_sixes",
+      "dual_spin",
+      "power_hitter",
+      "finisher"
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 77,
+      "PWR": 99,
+      "BWL": 69,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "marco_jansen",
+    "name": "Marco Jansen",
+    "country": "South Africa",
+    "ipl_team": "Sunrisers Hyderabad",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 15,
+      "runs": 140,
+      "avg": 17.5,
+      "sr": 140.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 24,
+      "runs": 415,
+      "avg": 34.58,
+      "sr": 118.0,
+      "fifties": 2,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 13,
+      "runs": 400,
+      "avg": 20.0,
+      "sr": 55.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 8.6,
+      "odi_economy": 5.9,
+      "wickets_odi": 35,
+      "wickets_t20i": 14
+    },
+    "pitch_preference": [
+      "bouncy",
+      "seaming",
+      "green_top"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "left_arm_angle",
+      "bounce_bowler",
+      "allrounder",
+      "lower_order_striker"
+    ],
+    "power_play_sr": 110.0,
+    "death_over_sr": 175.0,
+    "middle_overs_sr": 130.0,
+    "overall_score": 89,
+    "recent_form": 92,
+    "tags": [
+      "left_arm_giant",
+      "bounce",
+      "world_cup_finalist",
+      "allrounder"
+    ],
+    "ovr": 81,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 74,
+      "PWR": 91,
+      "BWL": 67,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "tilak_varma",
+    "name": "Tilak Varma",
+    "country": "India",
+    "ipl_team": "Mumbai Indians",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 20,
+      "runs": 500,
+      "avg": 41.66,
+      "sr": 145.0,
+      "fifties": 2,
+      "hundreds": 2
+    },
+    "odi": {
+      "matches": 4,
+      "runs": 68,
+      "avg": 22.66,
+      "sr": 60.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.5,
+      "odi_economy": 6.0,
+      "wickets_odi": 1,
+      "wickets_t20i": 2
+    },
+    "pitch_preference": [
+      "flat",
+      "spinning",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "subcontinent",
+      "all"
+    ],
+    "specialties": [
+      "middle_order",
+      "anchor",
+      "power_hitter",
+      "consistency",
+      "clutch"
+    ],
+    "power_play_sr": 135.0,
+    "death_over_sr": 180.0,
+    "middle_overs_sr": 145.0,
+    "overall_score": 90,
+    "recent_form": 95,
+    "tags": [
+      "back_to_back_hundreds",
+      "future_superstar",
+      "left_hand_bat",
+      "stylish"
+    ],
+    "ovr": 91,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 90,
+      "PWR": 94,
+      "BWL": 26,
+      "CLU": 88,
+      "FLD": 85,
+      "PHY": 96
+    }
+  },
+  {
+    "id": "mayank_yadav",
+    "name": "Mayank Yadav",
+    "country": "India",
+    "ipl_team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "image_url": "",
+    "formats": [
+      "T20I"
+    ],
+    "t20i": {
+      "matches": 3,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 6.9,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 4
+    },
+    "pitch_preference": [
+      "bouncy",
+      "pace_friendly",
+      "hard"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "express_pace",
+      "156kmph",
+      "powerplay_bowler",
+      "middle_overs_enforcer"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 88,
+    "recent_form": 93,
+    "tags": [
+      "156kmph",
+      "fastest_indian",
+      "express_speed",
+      "pace_sensation"
+    ],
+    "ovr": 86,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 25,
+      "PWR": 50,
+      "BWL": 85,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "azmatullah_omarzai",
+    "name": "Azmatullah Omarzai",
+    "country": "Afghanistan",
+    "ipl_team": "Gujarat Titans",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 45,
+      "runs": 510,
+      "avg": 21.25,
+      "sr": 130.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 32,
+      "runs": 820,
+      "avg": 43.15,
+      "sr": 98.0,
+      "fifties": 5,
+      "hundreds": 1
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.9,
+      "odi_economy": 5.4,
+      "wickets_odi": 26,
+      "wickets_t20i": 24
+    },
+    "pitch_preference": [
+      "flat",
+      "seaming",
+      "batting_friendly"
+    ],
+    "conditions_preference": [
+      "all",
+      "subcontinent",
+      "overseas"
+    ],
+    "specialties": [
+      "allrounder",
+      "swing_bowler",
+      "middle_order",
+      "power_hitter"
+    ],
+    "power_play_sr": 120.0,
+    "death_over_sr": 170.0,
+    "middle_overs_sr": 135.0,
+    "overall_score": 89,
+    "recent_form": 92,
+    "tags": [
+      "world_cup_star",
+      "pace_allrounder",
+      "afghan_gem",
+      "swing"
+    ],
+    "ovr": 84,
+    "card_tier": "TOTW",
+    "tier_color": "totw_black",
+    "ea_stats": {
+      "BAT": 83,
+      "PWR": 88,
+      "BWL": 70,
+      "CLU": 87,
+      "FLD": 96,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "jake_fraser_mcgurk",
+    "name": "Jake Fraser-McGurk",
+    "country": "Australia",
+    "ipl_team": "Delhi Capitals",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI"
+    ],
+    "t20i": {
+      "matches": 5,
+      "runs": 110,
+      "avg": 22.0,
+      "sr": 190.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 4,
+      "runs": 85,
+      "avg": 21.25,
+      "sr": 160.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 0,
+      "runs": 0,
+      "avg": 0,
+      "sr": 0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": null,
+      "odi_economy": null,
+      "wickets_odi": 0,
+      "wickets_t20i": 0
+    },
+    "pitch_preference": [
+      "flat",
+      "batting_friendly",
+      "bouncy"
+    ],
+    "conditions_preference": [
+      "all",
+      "overseas",
+      "subcontinent"
+    ],
+    "specialties": [
+      "opener",
+      "power_hitter",
+      "ultra_aggressive",
+      "powerplay_demolisher"
+    ],
+    "power_play_sr": 230.0,
+    "death_over_sr": 180.0,
+    "middle_overs_sr": 160.0,
+    "overall_score": 88,
+    "recent_form": 92,
+    "tags": [
+      "young_sensation",
+      "powerplay_monster",
+      "ipl_phenom",
+      "strike_rate_god"
+    ],
+    "ovr": 82,
+    "card_tier": "GOLD_RARE",
+    "tier_color": "gold_rare",
+    "ea_stats": {
+      "BAT": 68,
+      "PWR": 99,
+      "BWL": 25,
+      "CLU": 87,
+      "FLD": 84,
+      "PHY": 95
+    }
+  },
+  {
+    "id": "mohammad_amir",
+    "name": "Mohammad Amir",
+    "country": "Pakistan",
+    "ipl_team": null,
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium swing",
+    "image_url": "",
+    "formats": [
+      "T20I",
+      "ODI",
+      "Test"
+    ],
+    "t20i": {
+      "matches": 62,
+      "runs": 60,
+      "avg": 6.0,
+      "sr": 70.0,
+      "fifties": 0,
+      "hundreds": 0
+    },
+    "odi": {
+      "matches": 61,
+      "runs": 363,
+      "avg": 18.15,
+      "sr": 75.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "test": {
+      "matches": 36,
+      "runs": 751,
+      "avg": 13.9,
+      "sr": 42.0,
+      "fifties": 1,
+      "hundreds": 0
+    },
+    "bowling": {
+      "t20i_economy": 7.02,
+      "odi_economy": 4.77,
+      "wickets_odi": 122,
+      "wickets_t20i": 71
+    },
+    "pitch_preference": [
+      "seaming",
+      "swing",
+      "green_top"
+    ],
+    "conditions_preference": [
+      "overseas",
+      "all"
+    ],
+    "specialties": [
+      "powerplay_bowler",
+      "swing_bowler",
+      "big_match_player",
+      "left_arm_angle",
+      "death_bowler"
+    ],
+    "power_play_sr": 0,
+    "death_over_sr": 0,
+    "middle_overs_sr": 0,
+    "overall_score": 92,
+    "recent_form": 90,
+    "tags": [
+      "champions_trophy_hero",
+      "swing_king",
+      "left_arm_pace",
+      "big_match"
+    ],
+    "ovr": 90,
+    "card_tier": "HERO",
+    "tier_color": "world_cup_hero",
+    "ea_stats": {
+      "BAT": 27,
+      "PWR": 50,
+      "BWL": 91,
+      "CLU": 88,
+      "FLD": 84,
+      "PHY": 95
+    }
+  }
+]

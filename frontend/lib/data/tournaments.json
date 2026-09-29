@@ -1,0 +1,312 @@
+[
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 1975,
+    "Venue": "England",
+    "Winner": "West Indies",
+    "Runner-up": "Australia",
+    "Semi-Finalists": "WI, AUS, NZ, ENG",
+    "Match_Winner_Final": "Clive Lloyd",
+    "Player_of_Tournament": null
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 1979,
+    "Venue": "England",
+    "Winner": "West Indies",
+    "Runner-up": "England",
+    "Semi-Finalists": "WI, ENG, PAK, NZ",
+    "Match_Winner_Final": "Viv Richards",
+    "Player_of_Tournament": null
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 1983,
+    "Venue": "England",
+    "Winner": "India",
+    "Runner-up": "West Indies",
+    "Semi-Finalists": "IND, WI, PAK, ENG",
+    "Match_Winner_Final": "M. Amarnath",
+    "Player_of_Tournament": null
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 1987,
+    "Venue": "India/PAK",
+    "Winner": "Australia",
+    "Runner-up": "England",
+    "Semi-Finalists": "AUS, ENG, IND, PAK",
+    "Match_Winner_Final": "David Boon",
+    "Player_of_Tournament": null
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 1992,
+    "Venue": "AUS/NZ",
+    "Winner": "Pakistan",
+    "Runner-up": "England",
+    "Semi-Finalists": "PAK, ENG, NZ, SA",
+    "Match_Winner_Final": "Wasim Akram",
+    "Player_of_Tournament": "Martin Crowe"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 1996,
+    "Venue": "Asia",
+    "Winner": "Sri Lanka",
+    "Runner-up": "Australia",
+    "Semi-Finalists": "SL, AUS, IND, WI",
+    "Match_Winner_Final": "A. de Silva",
+    "Player_of_Tournament": "Sanath Jayasuriya"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 1999,
+    "Venue": "England",
+    "Winner": "Australia",
+    "Runner-up": "Pakistan",
+    "Semi-Finalists": "AUS, PAK, SA, NZ",
+    "Match_Winner_Final": "Shane Warne",
+    "Player_of_Tournament": "Lance Klusener"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 2003,
+    "Venue": "South Africa",
+    "Winner": "Australia",
+    "Runner-up": "India",
+    "Semi-Finalists": "AUS, IND, KEN, SL",
+    "Match_Winner_Final": "Ricky Ponting",
+    "Player_of_Tournament": "Sachin Tendulkar"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 2007,
+    "Venue": "West Indies",
+    "Winner": "Australia",
+    "Runner-up": "Sri Lanka",
+    "Semi-Finalists": "AUS, SL, NZ, SA",
+    "Match_Winner_Final": "Adam Gilchrist",
+    "Player_of_Tournament": "Glenn McGrath"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 2011,
+    "Venue": "Asia",
+    "Winner": "India",
+    "Runner-up": "Sri Lanka",
+    "Semi-Finalists": "IND, SL, PAK, NZ",
+    "Match_Winner_Final": "MS Dhoni",
+    "Player_of_Tournament": "Yuvraj Singh"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 2015,
+    "Venue": "AUS/NZ",
+    "Winner": "Australia",
+    "Runner-up": "New Zealand",
+    "Semi-Finalists": "AUS, NZ, IND, SA",
+    "Match_Winner_Final": "James Faulkner",
+    "Player_of_Tournament": "Mitchell Starc"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 2019,
+    "Venue": "UK",
+    "Winner": "England",
+    "Runner-up": "New Zealand",
+    "Semi-Finalists": "ENG, NZ, IND, AUS",
+    "Match_Winner_Final": "Ben Stokes",
+    "Player_of_Tournament": "Kane Williamson"
+  },
+  {
+    "Tournament": "ODI World Cup",
+    "Year": 2023,
+    "Venue": "India",
+    "Winner": "Australia",
+    "Runner-up": "India",
+    "Semi-Finalists": "AUS, IND, NZ, SA",
+    "Match_Winner_Final": "Travis Head",
+    "Player_of_Tournament": "Virat Kohli"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2007,
+    "Venue": "South Africa",
+    "Winner": "India",
+    "Runner-up": "Pakistan",
+    "Semi-Finalists": "IND, PAK, AUS, NZ",
+    "Match_Winner_Final": "Irfan Pathan",
+    "Player_of_Tournament": "Shahid Afridi"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2009,
+    "Venue": "England",
+    "Winner": "Pakistan",
+    "Runner-up": "Sri Lanka",
+    "Semi-Finalists": "PAK, SL, SA, WI",
+    "Match_Winner_Final": "Shahid Afridi",
+    "Player_of_Tournament": "T. Dilshan"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2010,
+    "Venue": "West Indies",
+    "Winner": "England",
+    "Runner-up": "Australia",
+    "Semi-Finalists": "ENG, AUS, SL, PAK",
+    "Match_Winner_Final": "C. Kieswetter",
+    "Player_of_Tournament": "K. Pietersen"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2012,
+    "Venue": "Sri Lanka",
+    "Winner": "West Indies",
+    "Runner-up": "Sri Lanka",
+    "Semi-Finalists": "WI, SL, AUS, PAK",
+    "Match_Winner_Final": "Marlon Samuels",
+    "Player_of_Tournament": "Shane Watson"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2014,
+    "Venue": "Bangladesh",
+    "Winner": "Sri Lanka",
+    "Runner-up": "India",
+    "Semi-Finalists": "SL, IND, WI, SA",
+    "Match_Winner_Final": "K. Sangakkara",
+    "Player_of_Tournament": "Virat Kohli"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2016,
+    "Venue": "India",
+    "Winner": "West Indies",
+    "Runner-up": "England",
+    "Semi-Finalists": "WI, ENG, IND, NZ",
+    "Match_Winner_Final": "Marlon Samuels",
+    "Player_of_Tournament": "Virat Kohli"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2021,
+    "Venue": "UAE/Oman",
+    "Winner": "Australia",
+    "Runner-up": "New Zealand",
+    "Semi-Finalists": "AUS, NZ, PAK, ENG",
+    "Match_Winner_Final": "Mitchell Marsh",
+    "Player_of_Tournament": "David Warner"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2022,
+    "Venue": "Australia",
+    "Winner": "England",
+    "Runner-up": "Pakistan",
+    "Semi-Finalists": "ENG, PAK, IND, NZ",
+    "Match_Winner_Final": "Sam Curran",
+    "Player_of_Tournament": "Sam Curran"
+  },
+  {
+    "Tournament": "T20 World Cup",
+    "Year": 2024,
+    "Venue": "USA/WI",
+    "Winner": "India",
+    "Runner-up": "South Africa",
+    "Semi-Finalists": "IND, SA, ENG, AFG",
+    "Match_Winner_Final": "Virat Kohli",
+    "Player_of_Tournament": "J. Bumrah"
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 1998,
+    "Venue": "Bangladesh",
+    "Winner": "South Africa",
+    "Runner-up": "West Indies",
+    "Semi-Finalists": "SA, WI, IND, SL",
+    "Match_Winner_Final": "Jacques Kallis",
+    "Player_of_Tournament": "Jacques Kallis"
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2000,
+    "Venue": "Kenya",
+    "Winner": "New Zealand",
+    "Runner-up": "India",
+    "Semi-Finalists": "NZ, IND, PAK, SA",
+    "Match_Winner_Final": "Chris Cairns",
+    "Player_of_Tournament": null
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2002,
+    "Venue": "Sri Lanka",
+    "Winner": "IND/SL Joint",
+    "Runner-up": null,
+    "Semi-Finalists": "IND, SL, AUS, SA",
+    "Match_Winner_Final": null,
+    "Player_of_Tournament": null
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2004,
+    "Venue": "England",
+    "Winner": "West Indies",
+    "Runner-up": "England",
+    "Semi-Finalists": "WI, ENG, PAK, AUS",
+    "Match_Winner_Final": "Ian Bradshaw",
+    "Player_of_Tournament": "R. Sarwan"
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2006,
+    "Venue": "India",
+    "Winner": "Australia",
+    "Runner-up": "West Indies",
+    "Semi-Finalists": "AUS, WI, NZ, SA",
+    "Match_Winner_Final": "Shane Watson",
+    "Player_of_Tournament": "Chris Gayle"
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2009,
+    "Venue": "South Africa",
+    "Winner": "Australia",
+    "Runner-up": "New Zealand",
+    "Semi-Finalists": "AUS, NZ, ENG, PAK",
+    "Match_Winner_Final": "Shane Watson",
+    "Player_of_Tournament": "Ricky Ponting"
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2013,
+    "Venue": "UK",
+    "Winner": "India",
+    "Runner-up": "England",
+    "Semi-Finalists": "IND, ENG, SL, SA",
+    "Match_Winner_Final": "R. Jadeja",
+    "Player_of_Tournament": "Shikhar Dhawan"
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2017,
+    "Venue": "UK",
+    "Winner": "Pakistan",
+    "Runner-up": "India",
+    "Semi-Finalists": "PAK, IND, ENG, BAN",
+    "Match_Winner_Final": "Fakhar Zaman",
+    "Player_of_Tournament": "Hasan Ali"
+  },
+  {
+    "Tournament": "Champions Trophy",
+    "Year": 2025,
+    "Venue": "PAK/UAE",
+    "Winner": "India",
+    "Runner-up": "New Zealand",
+    "Semi-Finalists": "IND, NZ, AUS, SA",
+    "Match_Winner_Final": "Rohit Sharma",
+    "Player_of_Tournament": "Rachin Ravindra"
+  }
+]

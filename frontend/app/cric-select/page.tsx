@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { isLoggedIn } from '../../lib/auth';
 import Navbar from '../../components/Navbar';
+import { getClientCricSelectRecommendations } from '../../lib/clientEngine';
 
 const BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
@@ -71,11 +72,15 @@ export default function CricSelectPage() {
           top_k: topK,
         }),
       });
+      if (!res.ok) throw new Error('API returned error');
       const data = await res.json();
       setResults(data);
       if (data.length > 0) setExpanded(1);
     } catch (e) {
-      console.error('CRIC-SELECT query error:', e);
+      console.warn('Backend unavailable, running client-side CRIC-SELECT algorithm:', e);
+      const fallbackData = getClientCricSelectRecommendations(role, format, position, priority, topK);
+      setResults(fallbackData);
+      if (fallbackData.length > 0) setExpanded(1);
     }
     setLoading(false);
   };
