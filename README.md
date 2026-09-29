@@ -102,33 +102,43 @@ Generates human-readable explanations using player stats and context:
 
 ---
 
+## 🌟 Key Features
+
+### 1. 🎴 EA FC 24 Ultimate Team Ratings & Card Tiers
+- **6 Core Hexagon Attributes (0–99):** `BAT` (Batting Precision), `PWR` (Strike & Boundary Power), `BWL` (Bowling Mastery), `CLU` (Clutch / Knockout Pressure), `FLD` (Fielding & Reflexes), `PHY` (Physical Form & Stamina).
+- **Dynamic Card Tiers:** World Cup Icons (93+ OVR), FUT Heroes (88+ OVR), In-Form Team of the Week (TOTW), and Gold Rare cards with holographic effects.
+
+### 2. 🏆 50-Year ICC World Cup Hall of Fame (1975–2025)
+- Full tournament archive of all 31 ICC Tournaments (ODI World Cup, T20 World Cup, Champions Trophy).
+- Tracks Host Venues, Champions, Runner-ups, Final Match-Winners, and Players of the Tournament (MVPs).
+
+### 3. 🎯 CRIC-SELECT Multi-Criteria Recommendation Engine
+- 5-factor weighted scoring formula balancing Role Match (30%), Recent Form (25%), Performance (20%), Match Requirements (15%), and Consistency (10%).
+
+### 4. 🤖 Match-Up AI & Direct Head-to-Head Comparison
+- Context-aware engine evaluating pitch soil conditions (Flat, Green, Turning, Bouncy) and opponent records.
+- Standalone Head-to-Head comparator (e.g. *"Starc vs Bumrah on flat track"*, *"Rohit or Kohli vs Australia"*).
+
+---
+
 ## 📦 Dataset
 
-### Source
-Manually curated dataset of **45+ elite international and IPL cricket players** based on publicly available career statistics from:
-- ESPN Cricinfo (espncricinfo.com)
-- Official ICC statistics
-- IPL official records
+### Source & Coverage
+Curated dataset of **104+ elite international cricket players** and **31 ICC World Cup Tournaments (1975–2025)** based on verified career archives:
+- Official ICC Tournament Archives (1975–2025)
+- ESPN Cricinfo statistical archives
+- IPL official player databases
 
-### Player Features
-Each player entry includes:
-
+### Player Features & Schema
 | Category | Fields |
 |---|---|
-| **Identity** | id, name, country, ipl_team, role, batting_style, bowling_style |
-| **T20I Stats** | matches, runs, average, strike rate, fifties, hundreds |
-| **ODI Stats** | matches, runs, average, strike rate, fifties, hundreds |
-| **Bowling** | T20I economy, ODI economy, wickets per format |
-| **Phase Stats** | power_play_sr, middle_overs_sr, death_over_sr |
-| **Phase Bowling** | power_play_economy, middle_overs_economy, death_over_economy |
-| **Context** | pitch_preference, conditions_preference, specialties, tags |
-| **Scores** | overall_score (0-100), recent_form (0-100) |
-
-### Limitations
-- Static dataset (no real-time updates)
-- ~45 players (top international + IPL stars only)
-- Injury status not tracked
-- Statistics accurate as of 2024 season
+| **Identity & Tier** | id, name, country, ipl_team, role, batting_style, bowling_style, ovr, card_tier, tier_color |
+| **EA FC Attributes** | BAT, PWR, BWL, CLU, FLD, PHY (0–99 scale) |
+| **T20I & ODI Stats** | matches, runs, avg, sr, fifties, hundreds, balls_faced, boundary_pct |
+| **Bowling** | t20i_economy, odi_economy, wickets_t20i, wickets_odi, dot_ball_pct |
+| **Phase Metrics** | power_play_sr, middle_overs_sr, death_over_sr |
+| **Context & Ratings** | pitch_preference, conditions_preference, specialties, tags, overall_score, recent_form |
+| **Match Logs** | Match-by-match opponent breakdown logs for performance trend curve visualizers |
 
 ---
 
