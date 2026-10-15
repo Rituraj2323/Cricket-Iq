@@ -9,6 +9,7 @@ const NAV_LINKS = [
   { href: '/dashboard', label: '📊 Dashboard' },
   { href: '/draft-11', label: '🎲 11-0 Dice Draft' },
   { href: '/hall-of-fame', label: '🏆 EA FC & World Cup' },
+  { href: '/icc-players', label: '📚 All ICC Players' },
   { href: '/cric-select', label: '🎯 CRIC-SELECT' },
   { href: '/matchup', label: '🤖 Match-Up AI' },
   { href: '/team-builder', label: '👥 Final 11 AI' },
