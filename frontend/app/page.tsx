@@ -157,7 +157,7 @@ export default function LandingPage() {
       {/* Top Bar */}
       <header style={{ borderBottom: '1px solid rgba(255,255,255,0.08)', padding: '0.9rem 2rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', background: 'rgba(10,14,26,0.72)', backdropFilter: 'blur(18px)', position: 'sticky', top: 0, zIndex: 50 }}>
         <div style={{ display: 'flex', alignItems: 'baseline', gap: 10 }}>
-          <span className="font-serif" style={{ fontSize: 26, color: '#fff' }}>Cricket<em style={{ color: '#8892a4' }}>IQ</em></span>
+          <span className="font-serif" style={{ fontSize: 26, color: '#fff' }}>11<em style={{ color: '#8892a4' }}>-0</em></span>
           <span className="pill-live" style={{ padding: '3px 9px' }}><span className="dot" />Live</span>
         </div>
         <button onClick={() => handleLogin()} className="btn-solid">Launch demo ↗</button>
@@ -174,7 +174,7 @@ export default function LandingPage() {
             Picking the XI with <em>explainable</em> analytics &amp; applied AI.
           </h1>
           <p className="rise-in" style={{ fontSize: 'clamp(1rem, 2vw, 1.15rem)', color: '#8892a4', maxWidth: 640, margin: '0 auto 2rem', lineHeight: 1.65, animationDelay: '0.3s' }}>
-            Describe what your team needs. CricketIQ scans 100+ players, computes tactical match-ups, and tells you exactly <strong style={{ color: '#e2e8f0' }}>why</strong> each player is picked.
+            Describe what your team needs. 11-0 scans 100+ players, computes tactical match-ups, and tells you exactly <strong style={{ color: '#e2e8f0' }}>why</strong> each player is picked.
           </p>
           <div className="rise-in" style={{ height: 1, maxWidth: 260, margin: '0 auto', background: 'linear-gradient(90deg, transparent, rgba(255,255,255,0.35), transparent)', animationDelay: '0.45s' }} />
         </div>
@@ -533,7 +533,7 @@ export default function LandingPage() {
           marginTop: '3rem',
         }}
       >
-        CricketIQ — Intelligent Cricket Player Recommendation Engine & Sports Analytics Platform
+        11-0 — Intelligent Cricket Player Recommendation Engine & Sports Analytics Platform
       </footer>
     </div>
   );

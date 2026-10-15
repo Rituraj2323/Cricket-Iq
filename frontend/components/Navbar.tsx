@@ -6,8 +6,8 @@ import { logout, isLoggedIn, getUser } from '../lib/auth';
 import { useEffect, useState } from 'react';
 
 const NAV_LINKS = [
+  { href: '/draft-11', label: '🎲 11-0 Random Draft' },
   { href: '/dashboard', label: '📊 Dashboard' },
-  { href: '/draft-11', label: '🎲 11-0 Dice Draft' },
   { href: '/hall-of-fame', label: '🏆 EA FC & World Cup' },
   { href: '/icc-players', label: '📚 All ICC Players' },
   { href: '/cric-select', label: '🎯 CRIC-SELECT' },
@@ -42,9 +42,9 @@ export default function Navbar() {
       }}
     >
       <div style={{ maxWidth: 1400, margin: '0 auto', padding: '0 1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64, gap: 16 }}>
-        <Link href="/dashboard" style={{ textDecoration: 'none', display: 'flex', alignItems: 'baseline', gap: 10 }}>
+        <Link href="/draft-11" style={{ textDecoration: 'none', display: 'flex', alignItems: 'baseline', gap: 10 }}>
           <span className="font-serif" style={{ fontSize: 24, color: '#fff' }}>
-            Cricket<em style={{ color: '#8892a4' }}>IQ</em>
+            11<em style={{ color: '#8892a4' }}>-0</em>
           </span>
           <span className="pill-live" style={{ padding: '3px 9px' }}><span className="dot" />Live</span>
         </Link>

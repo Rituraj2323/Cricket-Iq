@@ -7,8 +7,8 @@ const serif = Newsreader({ subsets: ['latin'], variable: '--font-serif', weight:
 const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono', weight: ['400', '500'] });
 
 export const metadata: Metadata = {
-  title: 'CricketIQ — AI Cricket Recommendations',
-  description: 'AI-powered cricket player recommendation system.',
+  title: '11-0 — AI Cricket Recommendations & World Cup Heroes',
+  description: '11-0 AI-powered cricket player recommendation system & World Cup simulation.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

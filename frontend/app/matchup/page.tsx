@@ -212,7 +212,7 @@ export default function MatchupChatbotPage() {
             >
               {/* Sender label */}
               <div style={{ fontSize: 11, color: '#64748b', marginBottom: 4, padding: '0 4px' }}>
-                {m.sender === 'user' ? '👤 You' : '🏏 CricketIQ Match-Up AI'} · {m.timestamp}
+                {m.sender === 'user' ? '👤 You' : '🏏 11-0 Match-Up AI'} · {m.timestamp}
               </div>
 
               {/* Text Message Bubble */}
