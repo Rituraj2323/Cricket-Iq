@@ -7,11 +7,11 @@ import { useEffect, useState } from 'react';
 
 const NAV_LINKS = [
   { href: '/dashboard', label: '📊 Dashboard' },
+  { href: '/draft-11', label: '🎲 11-0 Dice Draft' },
   { href: '/hall-of-fame', label: '🏆 EA FC & World Cup' },
   { href: '/cric-select', label: '🎯 CRIC-SELECT' },
-  { href: '/matchup', label: '🤖 Match-Up AI Chat' },
-  { href: '/similar-players', label: '🔍 Similar' },
-  { href: '/team-builder', label: '👥 Final 11' },
+  { href: '/matchup', label: '🤖 Match-Up AI' },
+  { href: '/team-builder', label: '👥 Final 11 AI' },
 ];
 
 export default function Navbar() {

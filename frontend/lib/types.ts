@@ -117,3 +117,70 @@ export interface RolePlayer {
   role_score: number;
   explanation: string;
 }
+
+export interface WcHeroAttributes {
+  BAT: number;
+  POW: number;
+  BOW: number;
+  CTL: number;
+  FLD: number;
+  IMP: number;
+}
+
+export interface WcHeroStats {
+  matches: number;
+  runs: number;
+  bat_avg: number;
+  bat_sr: number;
+  high_score: string | number;
+  fifties: number;
+  hundreds: number;
+  wickets: number;
+  bow_avg: number;
+  econ: number;
+  four_w: number;
+  five_w: number;
+  catches: number;
+  stumpings: number;
+}
+
+export interface WcHeroPlayer {
+  id: string;
+  year: string | number;
+  country: string;
+  name: string;
+  role: string;
+  OVR: number;
+  tier: 'WC Icon' | 'Team of Tournament' | 'Gold Rare' | 'Silver' | 'Bronze' | string;
+  attributes: WcHeroAttributes;
+  stats: WcHeroStats;
+  is_pot?: boolean;
+  won_wc?: boolean;
+  notes?: string;
+}
+
+export interface TacticalPlaystyle {
+  id: string;
+  name: string;
+  desc: string;
+  boost: Record<string, number>;
+}
+
+export interface DraftData {
+  squad: WcHeroPlayer[];
+  squadOvr: number;
+  captain: WcHeroPlayer;
+  tactic: TacticalPlaystyle;
+}
+
+export interface MatchSimResult {
+  matchNo: number;
+  stage: string;
+  opponent: string;
+  oppFlag: string;
+  myScore: string;
+  oppScore: string;
+  isWin: boolean;
+  margin: string;
+  mom: string;
+}

@@ -68,6 +68,14 @@ export default function WorldCupHallOfFamePage() {
               <p className="text-gray-300 text-sm md:text-base mt-2 max-w-2xl leading-relaxed">
                 Explore 50 years of ICC World Cup history alongside authentic EA FC Ultimate Team player ratings, 6-stat attribute radars, and World Cup Icon editions.
               </p>
+              <div className="mt-4 flex gap-3">
+                <a
+                  href="/draft-11"
+                  className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-lg hover:from-amber-400 hover:to-yellow-300 transition-all"
+                >
+                  <span>🎲 Launch 11–0 Dice Drafter & Simulator</span> →
+                </a>
+              </div>
             </div>
 
             {/* Quick Stats Banner */}

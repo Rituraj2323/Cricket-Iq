@@ -264,3 +264,108 @@ input:focus, select:focus {
   color: #4ade80;
   box-shadow: 0 0 12px rgba(34,197,94,0.1);
 }
+
+/* Glassmorphism & Modern UI utilities */
+.glass-panel {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card {
+  background: linear-gradient(135deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.8) 100%);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* EA FC FUT Card Themes */
+.fut-card-icon {
+  background: linear-gradient(135deg, #bf953f 0%, #fcf6ba 25%, #b38728 50%, #fbf5b7 75%, #aa771c 100%);
+  color: #1a1200;
+  box-shadow: 0 10px 30px rgba(212, 175, 55, 0.3), inset 0 0 15px rgba(255, 255, 255, 0.5);
+  border: 2px solid #ffd700;
+}
+
+.fut-card-tot {
+  background: linear-gradient(135deg, #4a00e0 0%, #8e2de2 40%, #f12711 75%, #f5af19 100%);
+  color: #ffffff;
+  box-shadow: 0 10px 30px rgba(142, 45, 226, 0.4), inset 0 0 15px rgba(255, 255, 255, 0.4);
+  border: 2px solid #f5af19;
+}
+
+.fut-card-gold {
+  background: linear-gradient(135deg, #e6c875 0%, #ffd700 50%, #b8860b 100%);
+  color: #2a1f00;
+  box-shadow: 0 10px 25px rgba(230, 200, 117, 0.25);
+  border: 1px solid #ffe885;
+}
+
+.fut-card-silver {
+  background: linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 50%, #9e9e9e 100%);
+  color: #111827;
+  box-shadow: 0 10px 20px rgba(200, 200, 200, 0.2);
+  border: 1px solid #ffffff;
+}
+
+.fut-card-bronze {
+  background: linear-gradient(135deg, #cd7f32 0%, #e8a87c 50%, #8b4513 100%);
+  color: #ffffff;
+  box-shadow: 0 8px 20px rgba(205, 127, 50, 0.2);
+  border: 1px solid #e8a87c;
+}
+
+/* Card Shape & Badge */
+.fut-card-shape {
+  clip-path: polygon(10% 0, 90% 0, 100% 7%, 100% 93%, 90% 100%, 10% 100%, 0 93%, 0 7%);
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease;
+}
+
+.fut-card-shape:hover {
+  transform: translateY(-8px) scale(1.03);
+}
+
+/* Shiny reflection effect */
+.fut-shine {
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.05) 45%,
+    rgba(255, 255, 255, 0.25) 50%,
+    rgba(255, 255, 255, 0.05) 55%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transform: rotate(30deg);
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.fut-card-shape:hover .fut-shine {
+  animation: shine-pass 1.2s ease-in-out;
+}
+
+@keyframes shine-pass {
+  0% { transform: translateY(-100%) rotate(30deg); }
+  100% { transform: translateY(100%) rotate(30deg); }
+}
+
+@keyframes pulse-slot {
+  from { box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.4); }
+  to { box-shadow: 0 0 0 6px rgba(245, 158, 11, 0); }
+}
+
+@keyframes popIn {
+  from { opacity: 0; transform: scale(0.7) translateY(30px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+@keyframes fadeInBg {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+

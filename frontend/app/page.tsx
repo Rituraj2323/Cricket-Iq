@@ -545,6 +545,21 @@ export default function LandingPage() {
                 Explore 104+ players, interactive scatter plots, and build full playing XIs.
               </p>
             </div>
+
+            <div
+              style={{
+                background: 'rgba(245,158,11,0.05)',
+                border: '1px solid rgba(245,158,11,0.3)',
+                borderRadius: 18,
+                padding: '1.4rem',
+              }}
+            >
+              <div style={{ fontSize: 32, marginBottom: 8 }}>🎲</div>
+              <h3 style={{ fontSize: 16, fontWeight: 800, color: '#f59e0b', margin: '0 0 6px' }}>11–0 Dice Drafter</h3>
+              <p style={{ fontSize: 12, color: '#64748b', lineHeight: 1.5, margin: 0 }}>
+                Roll random dice packs, draft legendary World Cup heroes, and simulate 11-match campaigns.
+              </p>
+            </div>
           </div>
 
           {/* Quick 1-Click Access Card */}

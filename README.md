@@ -105,20 +105,34 @@ Generates human-readable explanations using player stats and context:
 
 ## 🌟 Key Features
 
-### 1. 🎴 EA FC 24 Ultimate Team Ratings & Card Tiers
-- **6 Core Hexagon Attributes (0–99):** `BAT` (Batting Precision), `PWR` (Strike & Boundary Power), `BWL` (Bowling Mastery), `CLU` (Clutch / Knockout Pressure), `FLD` (Fielding & Reflexes), `PHY` (Physical Form & Stamina).
-- **Dynamic Card Tiers:** World Cup Icons (93+ OVR), FUT Heroes (88+ OVR), In-Form Team of the Week (TOTW), and Gold Rare cards with holographic effects.
+### 1. 🎲 Making That Final 11 with Random Dice & 11–0 Tournament Simulator
+- **Interactive Dice Pack Roller:** Roll dice to generate packs of 6 randomized World Cup cards from 1975 to 2023. Filterable by roles (Batters, Bowlers, All-Rounders, Wicketkeepers).
+- **Lineup Slotting & Hero Reveal:** Assign players into slots 1–11 with real-time Team OVR calculation and Hero Reveal milestone fanfare.
+- **Captaincy & Tactical Playstyles:** Assign team Captain (👑) and configure tactical synergy boosts (Balanced Champions, Jayasuriya Powerplay, Pace Battery, Spin Web & Squeeze).
+- **11-Match Campaign Simulator:** Compete through an 11-fixture tournament against historic squads (Australia 2003, West Indies 1979, India 2011, Pakistan 1992, etc.) featuring live scoreline thrillers, Man of the Match awards, and confetti celebrations upon achieving an undefeated 11–0 run.
 
-### 2. 🏆 50-Year ICC World Cup Hall of Fame (1975–2025)
-- Full tournament archive of all 31 ICC Tournaments (ODI World Cup, T20 World Cup, Champions Trophy).
-- Tracks Host Venues, Champions, Runner-ups, Final Match-Winners, and Players of the Tournament (MVPs).
+### 2. 🎴 World Cup Heroes Ultimate Cards (EA FC / FUT Edition)
+- **Authentic Polygon FUT Shape & Shiny Sheen:** Custom `fut-card-shape` polygon geometry with dynamic metallic card tier styling (`WC Icon`, `Team of Tournament`, `Gold Rare`, `Silver`, `Bronze`) and holographic reflection sweeps (`fut-shine`).
+- **6 Key World Cup Attributes (0–99):** `BAT` (Batting Precision), `BOW` (Bowling Mastery), `POW` (Boundary & Strike Power), `CTL` (Control & Economy), `FLD` (Fielding & Keeping), `IMP` (Clutch / Knockout Impact).
+- **Tournament Badges:** Dynamic Player of the Tournament (🏆) and World Cup Winner (🥇) recognition.
 
-### 3. 🎯 CRIC-SELECT Multi-Criteria Recommendation Engine
+### 3. ⚖️ Interactive Ultimate Card Comparison Mode
+- Side-by-side head-to-head comparison engine evaluating any two players across all 6 attributes with animated win/loss differential bars and career record comparisons.
+
+### 4. 🗓️ $100M Daily Budget Draft Challenge & 🎖️ Trophy Room
+- **$100M Budget Cap:** Draft an 11-player squad under a strict $100M salary cap based on player OVR pricing.
+- **Achievements & Badges:** Track milestones including "The Perfect 11–0", "Master Drafter", "Superteam (90+ OVR)", "Underdog Triumph", and "World Cup Winner".
+
+### 5. 🎯 CRIC-SELECT Multi-Criteria Recommendation Engine
 - 5-factor weighted scoring formula balancing Role Match (30%), Recent Form (25%), Performance (20%), Match Requirements (15%), and Consistency (10%).
 
-### 4. 🤖 Match-Up AI & Direct Head-to-Head Comparison
+### 6. 🤖 Match-Up AI & Tactical Chat
 - Context-aware engine evaluating pitch soil conditions (Flat, Green, Turning, Bouncy) and opponent records.
 - Standalone Head-to-Head comparator (e.g. *"Starc vs Bumrah on flat track"*, *"Rohit or Kohli vs Australia"*).
+
+### 7. 🏆 50-Year ICC World Cup Hall of Fame (1975–2025)
+- Full tournament archive of all 31 ICC Tournaments (ODI World Cup, T20 World Cup, Champions Trophy).
+- Tracks Host Venues, Champions, Runner-ups, Final Match-Winners, and Players of the Tournament (MVPs).
 
 ---
 

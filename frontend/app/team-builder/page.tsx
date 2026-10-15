@@ -52,10 +52,22 @@ export default function TeamBuilderPage() {
   return (
     <div className="max-w-7xl mx-auto px-6 py-12">
       {/* Page header */}
-      <div className="mb-10">
-        <p className="text-xs text-green-500 font-bold uppercase tracking-widest mb-2">AI Team Selection</p>
-        <h1 className="text-4xl font-black text-white">Team Builder</h1>
-        <p className="text-gray-500 mt-2">Select match conditions to generate your ideal playing XI</p>
+      <div className="mb-10 flex flex-col md:flex-row md:items-center justify-between gap-4">
+        <div>
+          <p className="text-xs text-green-500 font-bold uppercase tracking-widest mb-2">AI Team Selection</p>
+          <h1 className="text-4xl font-black text-white">Team Builder</h1>
+          <p className="text-gray-500 mt-2">Select match conditions to generate your ideal playing XI</p>
+        </div>
+        <a
+          href="/draft-11"
+          className="px-5 py-3 rounded-2xl bg-gradient-to-r from-amber-500/20 to-yellow-500/10 border border-yellow-500/30 hover:border-yellow-400 transition-all flex items-center gap-3 text-yellow-400 font-black text-xs uppercase tracking-wider"
+        >
+          <span className="text-2xl">🎲</span>
+          <div>
+            <div>Try 11–0 Random Dice Draft</div>
+            <div className="text-[10px] text-slate-400 normal-case font-normal">Roll packs & simulate campaign →</div>
+          </div>
+        </a>
       </div>
 
       <div className="flex flex-col lg:flex-row gap-8">
