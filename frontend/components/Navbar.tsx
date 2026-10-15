@@ -31,107 +31,34 @@ export default function Navbar() {
   return (
     <nav
       style={{
-        background: 'rgba(5,11,18,0.97)',
-        backdropFilter: 'blur(20px)',
-        WebkitBackdropFilter: 'blur(20px)',
-        borderBottom: '1px solid rgba(27,42,61,0.9)',
+        background: 'rgba(10,14,26,0.72)',
+        backdropFilter: 'blur(18px)',
+        WebkitBackdropFilter: 'blur(18px)',
+        borderBottom: '1px solid rgba(255,255,255,0.08)',
         position: 'sticky',
         top: 0,
         zIndex: 50,
       }}
     >
-      <div
-        style={{
-          maxWidth: 1400,
-          margin: '0 auto',
-          padding: '0 1.5rem',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          height: 60,
-        }}
-      >
-        <Link href="/dashboard" style={{ display: 'flex', alignItems: 'center', gap: 10, textDecoration: 'none' }}>
-          <div
-            style={{
-              width: 36,
-              height: 36,
-              borderRadius: 10,
-              background: 'rgba(0,242,254,0.15)',
-              border: '1px solid rgba(0,242,254,0.35)',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              fontSize: 18,
-            }}
-          >
-            🏏
-          </div>
-          <div>
-            <span style={{ fontSize: 17, fontWeight: 900, color: '#fff', letterSpacing: '-0.03em' }}>
-              Cricket<span style={{ color: '#00f2fe' }}>IQ</span>
-            </span>
-            <div
-              style={{
-                fontSize: 9,
-                color: '#22c55e',
-                fontWeight: 800,
-                textTransform: 'uppercase',
-                letterSpacing: '0.12em',
-                marginTop: -2,
-              }}
-            >
-              AI Analytics
-            </div>
-          </div>
+      <div style={{ maxWidth: 1400, margin: '0 auto', padding: '0 1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64, gap: 16 }}>
+        <Link href="/dashboard" style={{ textDecoration: 'none', display: 'flex', alignItems: 'baseline', gap: 10 }}>
+          <span className="font-serif" style={{ fontSize: 24, color: '#fff' }}>
+            Cricket<em style={{ color: '#8892a4' }}>IQ</em>
+          </span>
+          <span className="pill-live" style={{ padding: '3px 9px' }}><span className="dot" />Live</span>
         </Link>
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-          {NAV_LINKS.map((link) => {
-            const isActive = pathname === link.href;
-            return (
-              <Link
-                key={link.href}
-                href={link.href}
-                style={{
-                  textDecoration: 'none',
-                  padding: '6px 14px',
-                  borderRadius: 10,
-                  fontSize: 13,
-                  fontWeight: 700,
-                  transition: 'all 0.15s',
-                  background: isActive ? 'rgba(0,242,254,0.12)' : 'transparent',
-                  color: isActive ? '#00f2fe' : '#94a3b8',
-                  border: `1px solid ${isActive ? 'rgba(0,242,254,0.35)' : 'transparent'}`,
-                }}
-              >
-                {link.label}
-              </Link>
-            );
-          })}
+        <div className="nav-links" style={{ display: 'flex', alignItems: 'center', gap: 2 }}>
+          {NAV_LINKS.map((link) => (
+            <Link key={link.href} href={link.href} className={`nav-link${pathname === link.href ? ' active' : ''}`}>
+              {link.label.replace(/^[^A-Za-z0-9]+\s*/, '')}
+            </Link>
+          ))}
         </div>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-          {user && (
-            <div style={{ fontSize: 12, color: '#475569' }}>
-              👤 <span style={{ color: '#94a3b8', fontWeight: 600 }}>{user}</span>
-            </div>
-          )}
-          <button
-            onClick={handleLogout}
-            style={{
-              padding: '6px 14px',
-              borderRadius: 8,
-              background: 'rgba(239,68,68,0.12)',
-              border: '1px solid rgba(239,68,68,0.3)',
-              color: '#f87171',
-              fontSize: 12,
-              fontWeight: 700,
-              cursor: 'pointer',
-            }}
-          >
-            Logout
-          </button>
+          {user && <span className="mono-label" style={{ color: '#8892a4' }}>@{user}</span>}
+          <button onClick={handleLogout} className="btn-solid" style={{ padding: '7px 14px' }}>Logout ↗</button>
         </div>
       </div>
     </nav>

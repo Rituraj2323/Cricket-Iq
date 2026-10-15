@@ -155,122 +155,33 @@ export default function LandingPage() {
       }}
     >
       {/* Top Bar */}
-      <header
-        style={{
-          borderBottom: '1px solid rgba(255,255,255,0.08)',
-          padding: '0.85rem 2rem',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          background: 'rgba(5,11,18,0.85)',
-          backdropFilter: 'blur(20px)',
-          position: 'sticky',
-          top: 0,
-          zIndex: 50,
-        }}
-      >
-        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-          <div
-            style={{
-              width: 38,
-              height: 38,
-              borderRadius: 10,
-              background: 'rgba(0,242,254,0.15)',
-              border: '1px solid rgba(0,242,254,0.35)',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              fontSize: 20,
-            }}
-          >
-            🏏
-          </div>
-          <div>
-            <span style={{ fontSize: 18, fontWeight: 900, color: '#fff', letterSpacing: '-0.03em' }}>
-              Cricket<span style={{ color: '#00f2fe' }}>IQ</span>
-            </span>
-            <div
-              style={{
-                fontSize: 9,
-                color: '#22c55e',
-                fontWeight: 800,
-                textTransform: 'uppercase',
-                letterSpacing: '0.12em',
-                marginTop: -2,
-              }}
-            >
-              AI Recommendation Engine
-            </div>
-          </div>
+      <header style={{ borderBottom: '1px solid rgba(255,255,255,0.08)', padding: '0.9rem 2rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', background: 'rgba(10,14,26,0.72)', backdropFilter: 'blur(18px)', position: 'sticky', top: 0, zIndex: 50 }}>
+        <div style={{ display: 'flex', alignItems: 'baseline', gap: 10 }}>
+          <span className="font-serif" style={{ fontSize: 26, color: '#fff' }}>Cricket<em style={{ color: '#8892a4' }}>IQ</em></span>
+          <span className="pill-live" style={{ padding: '3px 9px' }}><span className="dot" />Live</span>
         </div>
-
-        <button
-          onClick={() => handleLogin()}
-          style={{
-            padding: '8px 20px',
-            background: 'linear-gradient(135deg, #22c55e, #16a34a)',
-            color: '#000',
-            fontWeight: 900,
-            fontSize: 13,
-            borderRadius: 10,
-            border: 'none',
-            cursor: 'pointer',
-            boxShadow: '0 4px 14px rgba(34,197,94,0.3)',
-          }}
-        >
-          🚀 Launch Demo App
-        </button>
+        <button onClick={() => handleLogin()} className="btn-solid">Launch demo ↗</button>
       </header>
+
+      {/* Editorial hero */}
+      <section style={{ position: 'relative', overflow: 'hidden', padding: '5rem 1.5rem 2rem', textAlign: 'center' }}>
+        <div className="mono-label" style={{ position: 'absolute', top: 24, left: 32, color: 'rgba(255,255,255,0.18)' }}>{'// SYS_INITIALIZE'}</div>
+        <div className="mono-label" style={{ position: 'absolute', top: 24, right: 32, color: 'rgba(255,255,255,0.18)' }}>{'[MATRIX_LOADED]'}</div>
+        <p className="outline-word rise-in" style={{ position: 'absolute', left: 0, right: 0, top: '2.5rem', pointerEvents: 'none', zIndex: 0 }}>Selection</p>
+        <div style={{ position: 'relative', zIndex: 1, maxWidth: 980, margin: '0 auto' }}>
+          <span className="pill-live rise-in" style={{ marginBottom: 28 }}><span className="dot" />Intelligence layer for cricket</span>
+          <h1 className="rise-in" style={{ fontSize: 'clamp(2.6rem, 7vw, 5.5rem)', lineHeight: 1.04, margin: '0 0 1.4rem', animationDelay: '0.15s' }}>
+            Picking the XI with <em>explainable</em> analytics &amp; applied AI.
+          </h1>
+          <p className="rise-in" style={{ fontSize: 'clamp(1rem, 2vw, 1.15rem)', color: '#8892a4', maxWidth: 640, margin: '0 auto 2rem', lineHeight: 1.65, animationDelay: '0.3s' }}>
+            Describe what your team needs. CricketIQ scans 100+ players, computes tactical match-ups, and tells you exactly <strong style={{ color: '#e2e8f0' }}>why</strong> each player is picked.
+          </p>
+          <div className="rise-in" style={{ height: 1, maxWidth: 260, margin: '0 auto', background: 'linear-gradient(90deg, transparent, rgba(255,255,255,0.35), transparent)', animationDelay: '0.45s' }} />
+        </div>
+      </section>
 
       {/* Main Container */}
       <main style={{ maxWidth: 1300, margin: '0 auto', padding: '2.5rem 1.5rem' }}>
-        {/* Headline Section */}
-        <div style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
-          <div
-            style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: 8,
-              padding: '6px 18px',
-              borderRadius: 999,
-              background: 'rgba(0,242,254,0.08)',
-              border: '1px solid rgba(0,242,254,0.25)',
-              fontSize: 12,
-              fontWeight: 800,
-              color: '#00f2fe',
-              letterSpacing: '0.12em',
-              textTransform: 'uppercase',
-              marginBottom: '1rem',
-            }}
-          >
-            <span style={{ width: 8, height: 8, borderRadius: '50%', background: '#00f2fe', display: 'inline-block' }} />
-            Interactive Live Demonstration
-          </div>
-
-          <h1
-            style={{
-              fontSize: 'clamp(2.2rem, 5vw, 3.8rem)',
-              fontWeight: 900,
-              letterSpacing: '-0.04em',
-              margin: '0 0 0.75rem',
-              lineHeight: 1.1,
-            }}
-          >
-            How Does The <span style={{ color: '#00f2fe' }}>Recommendation Engine</span> Work?
-          </h1>
-          <p
-            style={{
-              fontSize: 'clamp(1rem, 2vw, 1.2rem)',
-              color: '#94a3b8',
-              maxWidth: 700,
-              margin: '0 auto',
-              lineHeight: 1.6,
-            }}
-          >
-            Tell the system what your team needs — it analyzes 104+ players, computes tactical match-ups, and explains exactly <strong>WHY</strong> each player is picked.
-          </p>
-        </div>
-
         {/* ── INTERACTIVE LIVE PREVIEW WORKBENCH ── */}
         <div
           style={{
