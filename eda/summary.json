@@ -1,0 +1,113 @@
+{
+  "players": 1162,
+  "player_event_rows": 1684,
+  "rows_per_event": {
+    "ODI World Cup": 716,
+    "T20 World Cup": 515,
+    "Champions Trophy": 453
+  },
+  "missing_values": 0,
+  "duplicate_ids": 0,
+  "top_countries": {
+    "England": 86,
+    "Pakistan": 83,
+    "West Indies": 79,
+    "Sri Lanka": 77,
+    "Australia": 75
+  },
+  "median_sr": {
+    "Champions Trophy": 78.8,
+    "ODI World Cup": 82.0,
+    "T20 World Cup": 116.6
+  },
+  "median_avg": {
+    "Champions Trophy": 31.5,
+    "ODI World Cup": 24.8,
+    "T20 World Cup": 20.0
+  },
+  "top_run_scorers": {
+    "V Kohli": 2911,
+    "RG Sharma": 2569,
+    "KC Sangakkara": 2018,
+    "KS Williamson": 1997,
+    "CH Gayle": 1814
+  },
+  "top_wicket_takers": {
+    "MA Starc": 84,
+    "TA Boult": 76,
+    "SL Malinga": 75,
+    "Mohammed Shami": 69,
+    "JJ Bumrah": 68
+  },
+  "median_econ": {
+    "Champions Trophy": 4.8,
+    "ODI World Cup": 5.23,
+    "T20 World Cup": 7.56
+  },
+  "corr_runs_matches": 0.65,
+  "corr_avg_sr": 0.25,
+  "archetype_sizes": {
+    "All-rounders": 168,
+    "Bowlers who bat a bit": 121,
+    "Run machines": 86,
+    "Middle-order batters": 85,
+    "Pure bowlers": 13
+  },
+  "cluster_profiles": {
+    "0": {
+      "runs": 857.5,
+      "wk": 0.2,
+      "avg": 38.0,
+      "sr": 95.7,
+      "econ": 0.7,
+      "ct": 18.7
+    },
+    "1": {
+      "runs": 3.5,
+      "wk": 15.8,
+      "avg": 1.2,
+      "sr": 9.0,
+      "econ": 5.6,
+      "ct": 1.8
+    },
+    "2": {
+      "runs": 54.3,
+      "wk": 22.3,
+      "avg": 8.9,
+      "sr": 69.7,
+      "econ": 5.9,
+      "ct": 3.3
+    },
+    "3": {
+      "runs": 248.2,
+      "wk": 0.0,
+      "avg": 25.5,
+      "sr": 82.5,
+      "econ": 0.2,
+      "ct": 4.0
+    },
+    "4": {
+      "runs": 405.7,
+      "wk": 15.5,
+      "avg": 27.0,
+      "sr": 99.7,
+      "econ": 6.1,
+      "ct": 7.6
+    }
+  },
+  "title_leaders": {
+    "Australia": 9,
+    "India": 6,
+    "West Indies": 5,
+    "England": 3,
+    "Pakistan": 3
+  },
+  "curated_players": 104,
+  "curated_roles": {
+    "All-rounder": 31,
+    "Bowler": 30,
+    "Batsman": 28,
+    "Wicket-keeper Batsman": 15
+  },
+  "top10pct_run_share": 0.559
+}
