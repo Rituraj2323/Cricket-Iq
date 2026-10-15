@@ -98,21 +98,29 @@ export function getClientCricSelectRecommendations(
   topK = 5
 ) {
   const scored = allPlayers.map(player => {
-    const score = calculateCricSelectScore(player, role, fmt, battingPosition, priority);
-    const why = [
-      `Strong role match for ${role.toUpperCase()} with ${player.ovr || 88} OVR rating`,
-      `Form index: ${player.recent_form || 85}/100 with proven consistency`,
-      `Optimal strike & phase dynamics for ${fmt.toUpperCase()}`,
+    const sc = calculateCricSelectScore(player, role, fmt, battingPosition, priority);
+    const c = sc.components;
+    const reasons = [
+      `Strong role match for ${role.toUpperCase()} (${c.role_match}/100)`,
+      `Form index: ${c.recent_form}/100 with proven consistency`,
+      `Performance rating: ${c.performance}/100 for ${fmt.toUpperCase()}`,
+      `Match requirement alignment: ${c.requirements}/100`,
     ];
+    const breakdown_str = `Role ${(c.role_match * 0.3).toFixed(1)}/30 + Form ${(c.recent_form * 0.25).toFixed(1)}/25 + Perf ${(c.performance * 0.2).toFixed(1)}/20 + Req ${(c.requirements * 0.15).toFixed(1)}/15 + Cons ${(c.consistency * 0.1).toFixed(1)}/10 = ${sc.total}/100`;
+
     return {
       rank: 1,
       player,
-      score,
-      why,
+      score: sc.total,
+      score_pct: `${sc.total}%`,
+      breakdown: sc.components,
+      raw_scores: sc.components,
+      breakdown_str,
+      why: reasons,
     };
   });
 
-  scored.sort((a, b) => b.score.total - a.score.total);
+  scored.sort((a, b) => b.score - a.score);
   return scored.slice(0, topK).map((item, idx) => ({
     ...item,
     rank: idx + 1,
@@ -182,7 +190,7 @@ export function getClientMatchupChatResponse(message: string) {
     name: r.player.name,
     country: r.player.country,
     role: r.player.role,
-    score_pct: `${r.score.total}%`,
+    score_pct: r.score_pct || `${r.score}%`,
     stats: {
       avg: r.player.t20i?.avg || 0,
       sr: r.player.t20i?.sr || 0,

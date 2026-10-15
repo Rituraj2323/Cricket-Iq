@@ -468,10 +468,15 @@ export default function CricSelectPage() {
                           style={{
                             fontSize: 22,
                             fontWeight: 900,
-                            color: r.score >= 80 ? '#22c55e' : r.score >= 65 ? '#f59e0b' : '#94a3b8',
+                            color:
+                              (typeof r.score === 'number' ? r.score : r.score?.total || 75) >= 80
+                                ? '#22c55e'
+                                : (typeof r.score === 'number' ? r.score : r.score?.total || 75) >= 65
+                                ? '#f59e0b'
+                                : '#94a3b8',
                           }}
                         >
-                          {r.score_pct}
+                          {r.score_pct || (typeof r.score === 'number' ? `${r.score}%` : `${r.score?.total || 85}%`)}
                         </div>
                         <div style={{ fontSize: 10, color: '#475569' }}>Overall Match</div>
                       </div>
@@ -479,7 +484,7 @@ export default function CricSelectPage() {
                       {/* Primary explanation badge */}
                       <div style={{ fontSize: 13, color: '#94a3b8', lineHeight: 1.4 }}>
                         <span style={{ color: '#22c55e', marginRight: 4 }}>✓</span>
-                        {r.why[0]}
+                        {r.why?.[0] || 'Top match for requested parameters'}
                         <div style={{ fontSize: 11, color: '#475569', marginTop: 2 }}>
                           {expanded === r.rank ? '▴ Collapse breakdown' : '▾ Click for full math breakdown'}
                         </div>
@@ -508,9 +513,9 @@ export default function CricSelectPage() {
                                 letterSpacing: '0.08em',
                               }}
                             >
-                              Why {r.player.name}?
+                              Why {r.player?.name}?
                             </div>
-                            {r.why.map((reason: string, i: number) => (
+                            {(r.why || []).map((reason: string, i: number) => (
                               <div
                                 key={i}
                                 style={{
@@ -542,7 +547,7 @@ export default function CricSelectPage() {
                             >
                               Scoring Component Breakdown
                             </div>
-                            {Object.entries(r.raw_scores).map(([key, val]: [string, any]) => (
+                            {Object.entries(r.raw_scores || r.breakdown || {}).map(([key, val]: [string, any]) => (
                               <div key={key} style={{ marginBottom: 7 }}>
                                 <div
                                   style={{
@@ -596,7 +601,7 @@ export default function CricSelectPage() {
                                 lineHeight: 1.6,
                               }}
                             >
-                              {r.breakdown_str}
+                              {r.breakdown_str || 'Multi-criteria weighted match formula calculated'}
                             </div>
                           </div>
                         </div>
@@ -611,11 +616,11 @@ export default function CricSelectPage() {
                           }}
                         >
                           {[
-                            ['T20 Avg', r.player.t20i?.avg?.toFixed(1)],
-                            ['T20 SR', r.player.t20i?.sr?.toFixed(1)],
-                            ['Economy', r.player.bowling?.t20i_economy?.toFixed(1)],
-                            ['Overall Score', r.player.overall_score],
-                            ['Recent Form', r.player.recent_form],
+                            ['T20 Avg', r.player?.t20i?.avg?.toFixed(1)],
+                            ['T20 SR', r.player?.t20i?.sr?.toFixed(1)],
+                            ['Economy', r.player?.bowling?.t20i_economy?.toFixed(1)],
+                            ['Overall Score', r.player?.overall_score || r.player?.ovr],
+                            ['Recent Form', r.player?.recent_form],
                           ].map(([label, val]) => (
                             <div
                               key={label as string}

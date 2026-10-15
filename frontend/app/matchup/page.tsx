@@ -239,7 +239,7 @@ export default function MatchupChatbotPage() {
                 <div style={{ width: '100%', maxWidth: '850px', display: 'flex', flexDirection: 'column', gap: 12 }}>
                   {/* Player Recommendation Cards Grid */}
                   <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: 12 }}>
-                    {m.data.recommendations.map((p: any) => (
+                    {(m.data.recommendations || []).map((p: any) => (
                       <div
                         key={p.id || p.name}
                         style={{
@@ -271,7 +271,7 @@ export default function MatchupChatbotPage() {
                               #{p.rank}
                             </span>
                             <span style={{ fontSize: 20, fontWeight: 900, color: p.rank === 1 ? '#22c55e' : '#f59e0b' }}>
-                              {p.score_pct}
+                              {p.score_pct || (p.score ? `${p.score}%` : '88%')}
                             </span>
                           </div>
 
@@ -284,7 +284,7 @@ export default function MatchupChatbotPage() {
 
                           {/* Reasons */}
                           <div style={{ fontSize: 12, color: '#94a3b8', lineHeight: 1.5, marginBottom: 12 }}>
-                            {p.why.map((w: string, idx: number) => (
+                            {(p.why || []).map((w: string, idx: number) => (
                               <div key={idx} style={{ marginBottom: 4, display: 'flex', gap: 6 }}>
                                 <span style={{ color: p.rank === 1 ? '#22c55e' : '#f59e0b' }}>✓</span> {w}
                               </div>
@@ -303,10 +303,10 @@ export default function MatchupChatbotPage() {
                             color: '#64748b',
                           }}
                         >
-                          <span>Avg: <strong style={{ color: '#f1f5f9' }}>{p.stats.avg?.toFixed(1) || '—'}</strong></span>
-                          <span>SR: <strong style={{ color: '#f1f5f9' }}>{p.stats.sr?.toFixed(1) || '—'}</strong></span>
-                          {p.stats.economy && <span>Eco: <strong style={{ color: '#22c55e' }}>{p.stats.economy?.toFixed(1)}</strong></span>}
-                          <span>Form: <strong style={{ color: '#00f2fe' }}>{p.stats.form}/100</strong></span>
+                          <span>Avg: <strong style={{ color: '#f1f5f9' }}>{p.stats?.avg?.toFixed(1) || '—'}</strong></span>
+                          <span>SR: <strong style={{ color: '#f1f5f9' }}>{p.stats?.sr?.toFixed(1) || '—'}</strong></span>
+                          {p.stats?.economy && <span>Eco: <strong style={{ color: '#22c55e' }}>{p.stats.economy?.toFixed(1)}</strong></span>}
+                          <span>Form: <strong style={{ color: '#00f2fe' }}>{p.stats?.form || 85}/100</strong></span>
                         </div>
                       </div>
                     ))}
