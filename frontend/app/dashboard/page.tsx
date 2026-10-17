@@ -75,6 +75,12 @@ export default function DashboardPage() {
     setLoadingTeam(false);
   };
 
+  useEffect(() => {
+    if (activeTab === 'final11') {
+      handleBuildTeam();
+    }
+  }, [activeTab, format, pitchType, conditions]);
+
   const activeCat = CATEGORIES.find((c) => c.id === category);
   const filteredPlayers = allPlayers.filter((p) => {
     const matchesCat =

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { buildTeam } from '../../lib/api';
 import { TeamPlayer } from '../../lib/types';
 import PlayerCard from '../../components/PlayerCard';
@@ -34,6 +34,12 @@ export default function TeamBuilderPage() {
     setTeam(result);
     setLoading(false);
   };
+
+  useEffect(() => {
+    if (hasBuilt) {
+      handleBuild();
+    }
+  }, [format, pitchType, conditions]);
 
   const getComposition = () => {
     const counts = { wk: 0, bat: 0, ar: 0, bowl: 0 };

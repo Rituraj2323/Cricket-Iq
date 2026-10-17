@@ -98,18 +98,102 @@ export async function buildTeam(format: string, pitchType: string, conditions: s
     // Fall back
   }
 
-  const available = [...typedPlayers].sort((a, b) => (b.ovr || b.overall_score) - (a.ovr || a.overall_score));
-  const wk = available.find(p => p.role.toLowerCase().includes('wicket') || p.role.toLowerCase().includes('keeper')) || available[0];
-  const batters = available.filter(p => p.role.toLowerCase() === 'batsman' && p.id !== wk.id).slice(0, 4);
-  const allrounders = available.filter(p => p.role.toLowerCase().includes('all-rounder') || p.role.toLowerCase().includes('allrounder')).slice(0, 2);
-  const bowlers = available.filter(p => p.role.toLowerCase().includes('bowler')).slice(0, 4);
+  // Format-aware intelligent scoring
+  const isT20 = format.toLowerCase().includes('t20');
+  const fmtKey = isT20 ? 't20i' : 'odi';
 
-  const team = [wk, ...batters, ...allrounders, ...bowlers].slice(0, 11);
-  return team.map((p, idx) => ({
-    player: p,
-    context_score: Math.min(99, (p.ovr || 85) + 3),
-    team_role: idx === 0 ? 'Wicket-keeper' : idx < 5 ? 'Top/Middle Order' : idx < 7 ? 'All-Rounder' : 'Bowler',
-    explanation: `Selected for ${format} XI on ${pitchType} pitch based on ${p.ovr || 88} OVR rating and condition adaptability.`,
+  const scorePlayer = (p: typeof typedPlayers[0]) => {
+    const stats = (p as any)[fmtKey] || {};
+    const matches = stats.matches || 0;
+    const bowling = (p as any).bowling || {};
+    const role = (p.role || '').toLowerCase();
+    const isBowler = role.includes('bowler');
+    const isAR = role.includes('all-rounder') || role.includes('allrounder');
+
+    // Experience gate
+    const minMatches = isT20 ? 15 : 25;
+    let exp = 0;
+    if (matches < 5) exp = -50;
+    else if (matches < minMatches) exp = (matches / minMatches) * 15 - 15;
+    else exp = Math.min(20, 10 + (matches / 100) * 10);
+
+    let perf = 0;
+    if (isBowler) {
+      if (isT20) {
+        const eco = bowling.t20i_economy || 8.5;
+        const wkts = bowling.wickets_t20i || 0;
+        perf = Math.max(0, (9.5 - eco) / 3.5) * 55 + Math.min(35, (wkts / Math.max(1, matches)) * 25);
+      } else {
+        const eco = bowling.odi_economy || 5.8;
+        const wkts = bowling.wickets_odi || 0;
+        perf = Math.max(0, (6.5 - eco) / 2.2) * 45 + Math.min(45, (wkts / 150) * 45);
+      }
+    } else if (isAR) {
+      const avg = stats.avg || 20;
+      const sr = stats.sr || 100;
+      if (isT20) {
+        const eco = bowling.t20i_economy || 8.8;
+        perf = Math.min(45, (avg / 40) * 20 + Math.max(0, (sr - 110) / 60) * 25) + Math.max(0, (9.5 - eco) / 3) * 45;
+      } else {
+        const eco = bowling.odi_economy || 5.8;
+        const wkts = bowling.wickets_odi || 0;
+        perf = Math.min(45, (avg / 50) * 30 + Math.max(0, (sr - 75) / 45) * 15) + Math.max(0, (6.5 - eco) / 2) * 25 + Math.min(20, (wkts / 100) * 20);
+      }
+    } else {
+      const avg = stats.avg || 25;
+      const sr = stats.sr || 100;
+      if (isT20) {
+        perf = Math.max(0, (sr - 115) / 55) * 55 + Math.min(35, (avg / 45) * 35);
+      } else {
+        perf = Math.min(55, (avg / 55) * 55) + Math.max(0, (sr - 75) / 35) * 25 + Math.min(15, (stats.hundreds || 0) * 1.5 + (stats.fifties || 0) * 0.2);
+      }
+    }
+
+    let bonus = 0;
+    if ((p as any).pitch_preference?.includes(pitchType)) bonus += 12;
+    if ((p as any).conditions_preference?.includes(conditions) || (p as any).conditions_preference?.includes('all')) bonus += 8;
+    bonus += ((p as any).recent_form || 50) * 0.15;
+
+    return Math.round((30 + ((p as any).overall_score || 80) * 0.2 + exp + perf + bonus) * 10) / 10;
+  };
+
+  const scored = typedPlayers.map(p => ({ player: p, score: scorePlayer(p) }));
+  scored.sort((a, b) => b.score - a.score);
+
+  const team: { player: typeof typedPlayers[0]; score: number; roleLabel: string }[] = [];
+  const selected = new Set<string>();
+
+  const pick = (predicate: (p: typeof typedPlayers[0]) => boolean, label: string, count: number) => {
+    let c = 0;
+    for (const sp of scored) {
+      if (c >= count) break;
+      if (!selected.has(sp.player.id) && predicate(sp.player)) {
+        team.push({ player: sp.player, score: sp.score, roleLabel: label });
+        selected.add(sp.player.id);
+        c++;
+      }
+    }
+  };
+
+  pick(p => p.role.toLowerCase().includes('wicket') || p.role.toLowerCase().includes('keeper'), 'Wicket-keeper Batsman', 1);
+  pick(p => ((p as any).specialties || []).includes('opener'), 'Opener', 1);
+  pick(p => p.role.toLowerCase() === 'batsman', 'Batsman', 3);
+  pick(p => p.role.toLowerCase().includes('all-rounder') || p.role.toLowerCase().includes('allrounder'), 'All-rounder', 2);
+  pick(p => p.role.toLowerCase().includes('bowler'), 'Bowler', 3);
+
+  for (const sp of scored) {
+    if (team.length >= 11) break;
+    if (!selected.has(sp.player.id)) {
+      team.push({ player: sp.player, score: sp.score, roleLabel: sp.player.role });
+      selected.add(sp.player.id);
+    }
+  }
+
+  return team.map((item) => ({
+    player: item.player,
+    context_score: item.score,
+    team_role: item.roleLabel,
+    explanation: `Selected for ${format.toUpperCase()} XI on ${pitchType} pitch (${item.score} pts) based on format rate stats and condition adaptability.`,
   }));
 }
 

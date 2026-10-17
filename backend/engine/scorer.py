@@ -191,16 +191,83 @@ def get_matchup_recommendations(opponent: str, venue: str, fmt: str, role: str, 
     return results[:top_k]
 
 
-# ---- LEGACY FUNCTIONS (kept for backward compat) ----
-def score_player_for_context(player: Dict, fmt: str, pitch_type: str, conditions: str, required_roles: List[str]) -> float:
-    score = float(player.get('overall_score', 0))
-    score += (player.get('recent_form', 0) / 100.0) * 20.0
-    if pitch_type in player.get('pitch_preference', []): score += 15.0
-    if conditions in player.get('conditions_preference', []) or 'all' in player.get('conditions_preference', []): score += 10.0
-    if fmt in player.get('formats', []): score += 5.0
-    for role in required_roles:
-        if role in player.get('specialties', []): score += 20.0
-    return score
+def score_player_for_context(player: Dict, fmt: str, pitch_type: str, conditions: str, required_roles: List[str] = None) -> float:
+    fmt_key = 't20i' if fmt.upper() in ('T20I', 'T20') else 'odi'
+    stats = player.get(fmt_key, {}) or {}
+    matches = stats.get('matches', 0) or 0
+    bowling = player.get('bowling', {}) or {}
+    role = player.get('role', '').lower()
+    is_bowler = 'bowler' in role
+    is_ar = 'all-rounder' in role or 'allrounder' in role
+
+    # 1. Experience & sample size gate
+    min_matches = 15 if fmt_key == 't20i' else 25
+    if matches < 5:
+        exp_score = -50.0  # Cannot play in international XI with <5 matches in this format
+    elif matches < min_matches:
+        exp_score = (matches / min_matches) * 15.0 - 15.0
+    else:
+        exp_score = min(20.0, 10.0 + (matches / 100.0) * 10.0)
+
+    # 2. Base performance score by format
+    perf_score = 0.0
+    if is_bowler:
+        if fmt_key == 't20i':
+            eco = bowling.get('t20i_economy', 8.5) or 8.5
+            wkts = bowling.get('wickets_t20i', 0) or 0
+            eco_pts = max(0.0, (9.5 - eco) / 3.5) * 55.0
+            wkt_pts = min(35.0, (wkts / max(1, matches)) * 25.0)
+            perf_score = eco_pts + wkt_pts
+        else:  # ODI
+            eco = bowling.get('odi_economy', 5.8) or 5.8
+            wkts = bowling.get('wickets_odi', 0) or 0
+            eco_pts = max(0.0, (6.5 - eco) / 2.2) * 45.0
+            wkt_pts = min(45.0, (wkts / 150.0) * 45.0)
+            perf_score = eco_pts + wkt_pts
+
+    elif is_ar:
+        avg = stats.get('avg', 20.0) or 20.0
+        sr = stats.get('sr', 100.0) or 100.0
+        if fmt_key == 't20i':
+            eco = bowling.get('t20i_economy', 8.8) or 8.8
+            bat_pts = min(45.0, (avg / 40.0) * 20.0 + max(0.0, (sr - 110.0) / 60.0) * 25.0)
+            bowl_pts = max(0.0, (9.5 - eco) / 3.0) * 45.0
+            perf_score = bat_pts + bowl_pts
+        else:  # ODI
+            eco = bowling.get('odi_economy', 5.8) or 5.8
+            wkts = bowling.get('wickets_odi', 0) or 0
+            bat_pts = min(45.0, (avg / 50.0) * 30.0 + max(0.0, (sr - 75.0) / 45.0) * 15.0)
+            bowl_pts = max(0.0, (6.5 - eco) / 2.0) * 25.0 + min(20.0, (wkts / 100.0) * 20.0)
+            perf_score = bat_pts + bowl_pts
+
+    else:  # Batsman or Wicket-keeper
+        avg = stats.get('avg', 25.0) or 25.0
+        sr = stats.get('sr', 100.0) or 100.0
+        if fmt_key == 't20i':
+            sr_pts = max(0.0, (sr - 115.0) / 55.0) * 55.0
+            avg_pts = min(35.0, (avg / 45.0) * 35.0)
+            perf_score = sr_pts + avg_pts
+        else:  # ODI
+            avg_pts = min(55.0, (avg / 55.0) * 55.0)
+            sr_pts = max(0.0, (sr - 75.0) / 35.0) * 25.0
+            vol_pts = min(15.0, (stats.get('hundreds', 0) * 1.5 + stats.get('fifties', 0) * 0.2))
+            perf_score = avg_pts + sr_pts + vol_pts
+
+    # 3. Pitch & Conditions bonuses
+    bonus = 0.0
+    if pitch_type in player.get('pitch_preference', []):
+        bonus += 12.0
+    if conditions in player.get('conditions_preference', []) or 'all' in player.get('conditions_preference', []):
+        bonus += 8.0
+    bonus += (player.get('recent_form', 50) / 100.0) * 15.0
+
+    if required_roles:
+        for r in required_roles:
+            if r in player.get('specialties', []):
+                bonus += 15.0
+
+    total = 30.0 + (player.get('overall_score', 80) * 0.2) + exp_score + perf_score + bonus
+    return round(total, 1)
 
 
 def build_team_xi(fmt: str, pitch_type: str, conditions: str) -> List[Dict]:
@@ -208,21 +275,30 @@ def build_team_xi(fmt: str, pitch_type: str, conditions: str) -> List[Dict]:
     scored = [{'player': p, 'context_score': score_player_for_context(p, fmt, pitch_type, conditions, []), 'team_role': ''} for p in players]
     scored.sort(key=lambda x: x['context_score'], reverse=True)
     team, selected = [], set()
+
     def pick(cond, label, n):
         cnt = 0
         for sp in scored:
             if cnt >= n: break
             if sp['player']['id'] not in selected and cond(sp['player']):
-                sp['team_role'] = label; team.append(sp); selected.add(sp['player']['id']); cnt += 1
-    pick(lambda p: p.get('role') == 'Wicket-keeper Batsman', 'Wicket-keeper Batsman', 1)
+                sp['team_role'] = label
+                team.append(sp)
+                selected.add(sp['player']['id'])
+                cnt += 1
+
+    pick(lambda p: 'wicket' in p.get('role', '').lower() or 'keeper' in p.get('role', '').lower(), 'Wicket-keeper Batsman', 1)
     pick(lambda p: 'opener' in p.get('specialties', []), 'Opener', 1)
-    pick(lambda p: p.get('role') == 'Batsman', 'Batsman', 3)
-    pick(lambda p: p.get('role') == 'All-rounder', 'All-rounder', 2)
-    pick(lambda p: p.get('role') == 'Bowler', 'Bowler', 3)
+    pick(lambda p: p.get('role', '').lower() == 'batsman', 'Batsman', 3)
+    pick(lambda p: 'all-rounder' in p.get('role', '').lower() or 'allrounder' in p.get('role', '').lower(), 'All-rounder', 2)
+    pick(lambda p: 'bowler' in p.get('role', '').lower(), 'Bowler', 3)
+
     for sp in scored:
         if len(team) >= 11: break
         if sp['player']['id'] not in selected:
-            sp['team_role'] = sp['player'].get('role', 'Player'); team.append(sp); selected.add(sp['player']['id'])
+            sp['team_role'] = sp['player'].get('role', 'Player')
+            team.append(sp)
+            selected.add(sp['player']['id'])
+
     return team
 
 
