@@ -12,7 +12,6 @@ const NAV_LINKS = [
   { href: '/icc-players', label: '📚 All ICC Players' },
   { href: '/cric-select', label: '🎯 CRIC-SELECT' },
   { href: '/matchup', label: '🤖 Match-Up AI' },
-  { href: '/team-builder', label: '👥 Final 11 AI' },
 ];
 
 export default function Navbar() {
